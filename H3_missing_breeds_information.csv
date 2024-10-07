@@ -1,0 +1,425 @@
+Dog Breed,Min Height,Max Height
+Bayerischer Gebirgsschweisshund,47,52
+Bergamasker Hirtenhund,58,62
+Bernhardiner,65,90
+Bichon Frisé,23,30
+Bolonka Zwetna,24,26
+Bracke,40,53
+Bulldog,31,40
+Cao de Agua Portugues,43,57
+Chihuahua kurzhaariger Schlag,15,23
+Chihuahua langhaariger Schlag,15,23
+Cockerpoo,25,38
+Collie,51,61
+Deutscher Jagdterrier,33,40
+Drahthaar-Foxterrier,36,39
+English Springer Spaniel,48,51
+Glatthaar-Foxterrier,36,39
+Gordon Setter,58,69
+Griffon Bruxellois,18,20
+Grosser Schweizer Sennenhund,65,72
+Irish Setter,58,67
+Italienisches Windspiel,32,38
+Japan-Chin,20,27
+Kerry Blue Terrier,44,48
+Langhaardackel,20,27
+Leonberger,65,80
+Lhasa Apso,25,28
+Lurcher,56,71
+Löwchen,25,33
+Norfolk-Terrier,23,25
+Puli,36,44
+Rauhhaardackel (Zwergdackel),14,21
+Saluki,58,71
+Samojede,48,60
+Schnauzer,45,50
+Sheltie,33,41
+Siberian Husky,50,60
+Skye Terrier,25,26
+Spitz,18,22
+Staffordshire-Bullterrier,36,41
+Steirische Rauhhaarige Hochgebirgsbracke,45,53
+Tibet-Terrier,36,41
+Welsh Corgi Cardigan,25,33
+Welsh Corgi Pembroke,25,30
+West Highland White Terrier,25,28
+Whippet,44,56
+Zwergpinscher,25,30
+Aussiedoodle,30,58
+Balkanbracke,46,55
+Barsoi,68,85
+Bedlington-Terrier,38,44
+Deutscher Schäferhund Brauner langhaariger Schlag,55,65
+English Setter,61,69
+Griffon Belge,18,20
+Hollandse Herdershond,55,62
+Irish Soft Coated Wheaten Terrier,46,48
+Jagdterrier,33,40
+Kooikerhond,35,40
+Kromfohrländer,38,46
+Kuvasz,66,76
+Labradoodle,53,61
+Lakeland-Terrier,33,38
+Landseer,72,80
+Mittelspitz,30,38
+Podenco Ibicenco,56,74
+Pointer,61,69
+Prager Rattler,20,23
+Pumi,38,47
+Riesenschnauzer,60,70
+Shiloh Shepherd,66,76
+Sussex-Spaniel,38,41
+Tibet-Spaniel,25,26
+Volpino,25,30
+Windhund,60,76
+Wolfsspitz,43,55
+Zwergschnauzer,30,35
+Zwergschäferhund,30,35
+Österreichischer Pinscher,35,50
+Barbet,52,65
+Chesapeake Bay Retriever,53,66
+Deutscher Wolfsspitz,43,55
+Dänischer Bauernhund,32,35
+Irish red-and-white Setter,57,61
+Kurzhaardackel,20,27
+Mastiff,70,91
+Pharaonenhund,53,63
+Polnischer Niederungshütehund,42,50
+Ratero,20,30
+Schapendoes,40,50
+Sloughi,61,72
+Soft-Coated Wheaten Terrier,46,48
+Spinone,60,70
+Welsh Springer Spaniel,46,48
+American Foxhound,53,64
+Kangal,70,81
+Mexikanischer Nackthund,25,60
+Ungarische Bracke,55,65
+Brabancon,18,20
+Francais Tricolore,62,72
+Griffon Nivernais,55,60
+Japanischer Spitz,30,37
+Perro de Agua Espanol,40,50
+Podengo Portugueso Pequeno,20,30
+Tosa Inu,60,82
+Berger de Pyrénées,38,48
+Pudelpointer,55,66
+Azawakh,60,74
+Klein- oder Mittelpudel,28,45
+Kurzhaariger Collie,51,61
+Nova Scotia Duck Tolling Retriever,45,54
+Cesky Fousek,58,66
+Norwegischer Buhund,41,47
+Norwegischer Lundehund,32,38
+Berner Laufhund,40,46
+Phalene,20,28
+Saarloos-Wolfhund,60,75
+Ainu-Hund,45,55
+Australian Silky Terrier,23,26
+Berger Picard,55,65
+Bosnischer Rauhhaariger Laufhund,46,56
+Komondor,65,80
+Maremmaner Hirtenhund,60,73
+Norwegischer Elchhund,45,52
+Petit Basset Griffon Vendeen,32,40
+Wachtelhund,45,54
+American Staghound,71,76
+Deutscher Schäferhund Schwarzer langhaariger Schlag,55,65
+Deutscher Schäferhund Schwarzer langhaariger Schla,55,65
+Mastino Napoletano,60,75
+Peruanische Nackthund,25,60
+Podengo Portugueso Medio,40,54
+Altdänischer Vorstehhund,50,60
+Isländer Spitz,38,46
+Tibetischer Kyi Apso,61,66
+Brasilianischer Terrier,35,40
+Ca de Bestiar,55,73
+Drentse Patrijshond,55,63
+Grand Basset Griffon Vendeen,40,44
+Istrianer Rauhhaarige Bracke,46,58
+Schwyzer Laufhund,49,59
+Tiroler Bracke,42,50
+Dandie-Dinmont Terrier,20,28
+English Toy Terrier,25,30
+Inka Nackthund,25,60
+Rafeiro do Alentejo,64,74
+Chien d´Artois,52,58
+Save-Bracke,46,55
+Beagle-Harrier,45,50
+Deutscher Schäferhund Cremefarbener langhaariger Schlag,55,65
+Deutscher Schäferhund Cremefarbener langhaariger S,55,65
+Polnischer Berghund,65,70
+Wäller,50,65
+Basset Bleu de Gascogne,34,38
+Bouvier des Flandres,59,68
+Sealyham-Terrier,27,30
+Epagneul Picard,55,62
+Perdigueiro Portugues,48,57
+Slovensky Cuvac,59,70
+Braque d´Auvergne,53,63
+Hannoverscher Schweisshund,50,55
+Korea Jindo Dog,45,55
+Lancashire-Heeler,25,30
+Otterhound,61,69
+Appenzeller Gebirgsschweisshund,50,56
+Carolina Dog,43,61
+Grönlandhund,55,60
+Kai,45,55
+Perdiguero de Burgos,59,67
+Podhalenhund,61,70
+Russisch-Europäischer Laika,52,58
+Basset Fauve de Bretagne,32,38
+Braque Saint-Germain,56,62
+Briquet Griffon Vendeen,48,55
+Kanarische Dogge,60,65
+Bichon/Yorkie,20,30
+Cesky Terrier,25,32
+Eskimohund,50,60
+Catahoula Leopard Dog,51,66
+Deerhound,71,81
+Epagneul Bleu de Picardie,57,60
+Glen of Imaal Terrier,32,36
+Harzer Fuchs,50,60
+Boerboel,60,70
+Bracco Italiano,55,67
+Field Spaniel,43,48
+Lappländer Rentierhund,45,55
+Black-and-tan Coonhound,58,69
+Epagneul Francais,55,61
+Slovensky Kopov,40,50
+Petit Bleu de Gascogne,50,58
+Stabyhond,48,53
+Basset Artésien-Normand,30,36
+Anglo-Francais de Petite Vénerie,48,56
+Chodsky Pes,49,56
+Griffon bleue de Gascogne,48,57
+Zentralasiatischer Owtscharka,65,78
+Braque du Bourbonnais,48,57
+Bloodhound,58,69
+Shikoku,43,55
+Bayrischer Gebirgsschweisshund,44,52
+Berger Blanc Suisse,55,66
+Bichon frise,23,30
+Brandlbracke,48,56
+Bull Terrier (Standard),45,55
+Cane Corso Italiano,60,68
+Cao de Agua Portugues (Portug. Wasserhund),43,57
+Chihuahua Kurzhaar,15,23
+Chihuahua Langhaar,15,23
+Chinese Crested Dog hairless,23,33
+Ciobanesc Romanesc Carpatin,59,73
+Collie Kurzhaar (Smooth),51,61
+Collie Langhaar (Rough),51,61
+Dobermann braun-rot,63,72
+Dobermann schwarz-rot,63,72
+English Cocker Spaniel einfärbig,38,41
+English Cocker Spaniel mehrfärbig,38,41
+English Pointer,61,69
+Fox Terrier drahthaar,36,39
+Grosspudel Apricot,45,62
+Hellinikos Ichnilatis,47,55
+Irish Red and White Setter,55,61
+Kooikerhondje,35,40
+Kurzhaar Dachshund Kaninchen,12,15
+Kurzhaar Dachshund Normal,20,27
+Kurzhaar Dachshund Zwerg,16,21
+Miniatur Bull Terrier,25,35
+Mops (Carlin),25,30
+Pharaoh Hound,53,63
+Rauhhaar Dachshund Kaninchen,12,15
+Rauhhaar Dachshund Normal,20,27
+Rauhhaar Dachshund Zwerg,16,21
+Schnauzer pfeffersalz,45,50
+Segugio Italiano a pelo forte,52,60
+St. Bernhardshund Kurzhaar,65,80
+Toypudel Apricot,24,28
+Toypudel Braun,24,28
+Toypudel Rot,24,28
+Toypudel Weiss,24,28
+Tschechoslowakischer Wolfhund,60,65
+Weimaraner Kurzhaar,59,70
+Weimaraner Langhaar,59,70
+Zwergschnauzer pfeffer-salz,30,35
+Zwergspitz (Pomeranian),18,24
+Berger de Beauce (Beauceron),61,70
+Berger de Brie (Briard),56,68
+Berger de Picardie (Berger Picard),55,65
+Berger des Pyrenees a poil long,38,48
+Berner Niederlaufhund,33,41
+Braque francais - Type Pyrenees (Petite),47,58
+Ca de Bestiar (Mallorca Schäferhund),55,73
+Canaan Dog,50,60
+Chinese Crested Dog powderpuff,23,33
+Cirneco dell'Etna,42,50
+Deutscher Boxer gestromt,53,63
+Deutscher Spitz,30,38
+Dog de Bordeaux (Bordeauxdogge),60,68
+Drentsche Patrijshond,55,63
+Fox Terrier glatthaar,36,39
+Gammel Dansk Hoensehund,50,60
+Griffon belge,22,32
+Grosspudel Braun,45,62
+Grosspudel Grau,45,62
+Grosspudel Rot,45,62
+Grosspudel Schwarz,45,62
+Grosspudel Weiss,45,62
+Grossspitz Braun/Schwarz,42,50
+Grossspitz Weiss,42,50
+Holländischer Schäferhund Kurzhaar,55,62
+Hrvatski Ovcar,40,50
+Kleinpudel falb aus Mehrfarben,28,35
+Kleinpudel schwarz aus Mehrfarben,28,35
+Kleinspitz Braun/Schwarz,23,29
+Lakeland Terrier,33,38
+Langhaar Dachshund Kaninchen,12,15
+Langhaar Dachshund Normal,20,27
+Langhaar Dachshund Zwerg,16,21
+Luzerner Laufhund,47,59
+Magyar Agar,62,70
+Mehrfarben Kleinpudel schwarz loh,35,45
+Mehrfarbenpudel schwarz-loh,35,45
+Mittelspitz Braun/Schwarz,30,38
+Mittelspitz Neufarben,30,38
+Mittelspitz Weiss,30,38
+Norfolk Terrier,25,26
+Norsk Lundehund,32,38
+Perro de agua Espanol,38,50
+Petit brabancon,25,30
+Pinscher,25,30
+Podenco Ibicenco Kurzhaar,60,72
+Podengo Portugues Kurzhaar Pequeno,20,30
+Polski Owczarek Nizinny,42,52
+Polski Owczarek Podhalanski,60,70
+Porcelaine,55,58
+Posavski Gonic,46,58
+Puli andersfarbig,36,44
+Riesenschnauzer pfeffer-salz,60,70
+Riesenschnauzer schwarz,60,70
+Schnauzer schwarz,45,50
+Srpski Gonic,45,55
+Stabyhoun,48,53
+Sussex Spaniel,38,41
+Thai Ridgeback Dog,51,61
+Tibetan Spaniel,24,28
+Tornjak,65,70
+Toypudel Falb,24,28
+Toypudel schwarz aus Mehrfarben,24,28
+Volpino Italiano,24,30
+Wolfspitz,43,55
+Zwergpudel schwarz aus Mehrfarben,28,35
+Zwergschnauzer schwarz,30,35
+Zwergschnauzer schwarz-silber,30,35
+Basset artesien normand,30,36
+Basset fauve de Bretagne,32,38
+Berger des Pyrenees a face rase,38,48
+Dansk-Svensk Gardshund,32,35
+Epagneul bleu de Picardie,57,60
+Finnischer Lapphund (Suomen Lapinkoira),46,52
+Gonczy Polski,50,56
+Griffon bruxellois,22,32
+Grosspudel Falb,45,62
+Grosspudel falb aus Mehrfarben,45,62
+Grosspudel schwarz aus Mehrfarben,45,62
+Irish Glen of Imaal Terrier,32,36
+Istrianer Bracke Kurzhaar (Kratkodlaki Gonic),44,56
+Istrianer Bracke Rauhhaar (Ostrodlaki Gonic),44,56
+Maremmano - Abruzzese,60,73
+Mehrfarben Grosspudel schwarz weiss,45,62
+Old English Sheepdog (Bobtail),55,61
+Podengo Portugues Kurzhaar Medio,40,54
+Podengo Portugues Rauhhaar Medio,40,54
+Puli weiss,36,44
+Sandros Leisha Dog,50,60
+Segugio Maremmano,48,58
+Silken Windsprite,47,60
+Steirische Rauhaarbracke,45,53
+Südrussischer Ovtcharka,65,78
+Toypudel Schwarz,24,28
+Xoloitzcuintle Medio,38,51
+Zwergpudel falb aus Mehrfarben,28,35
+Zwergschnauzer weiss,30,35
+Billy,60,70
+Bosanski Ostrodlaki Gonic - Barac,46,56
+Epagneul picard,55,60
+Gos d'Atura Catala,42,48
+Wetterhoun,55,59
+Cimarron Uruguayo,58,61
+Griffon Korthals,50,60
+Kleinspitz Neufarben,23,29
+Chin,20,27
+Ciobanesc Romanesc Mioritic,65,75
+Poitevin,60,72
+Basset bleu de Gascogne,34,38
+Braque francais - Type Gascogne (Grande),56,69
+Petit Basset griffon vendeen,34,38
+Bedlington Terrier,38,44
+Braque d'Auvergne,53,63
+Grand gascon saintongeois,65,72
+Norsk Buhund,41,47
+Ogar Polski,56,65
+Spinone Italiano,60,70
+Ariegeois,52,58
+Beagle Harrier,45,50
+Chinook,54,66
+Segugio Italiano a pelo raso,52,60
+Västgötaspets,31,33
+Black and Tan Coonhound,53,69
+Cao de Castro Laboreiro,52,60
+Finnen-Spitz,39,51
+Francais blanc et noir,62,72
+Islandhund,42,48
+Kaukasischer Ovtcharka,64,75
+Kleinspitz Weiss,23,29
+Krazski Ovcar,54,63
+Mastin espanol,72,88
+Mehrfarben Zwergpudel schwarz loh,28,35
+Perdigueiro de Burgos,59,67
+Perro dogo mallorquin,52,58
+Perro sin pelo del Peru (Grande),50,65
+Saarlooswolfhond,60,75
+Xoloitzcuintle Grande,50,65
+Griffon nivernais,55,60
+Toypudel falb aus Mehrfarben,24,28
+Dandie Dinmont Terrier,20,28
+Erdelyi Kopo,55,65
+Perro sin pelo del Peru (Pequeno),25,40
+Petit bleu de Gascogne,50,58
+Zentralasiatischer Ovtcharka,65,78
+Ciobanesc Romanesc de Bucovina,68,78
+Francais tricolore,62,72
+Grand Basset griffon vendeen,40,44
+Mehrfarben Grosspudel schwarz loh,45,62
+Mehrfarben Kleinpudel schwarz weiss,35,45
+Srpski Trobojni Gonic,45,55
+Taiwan Dog,48,52
+Toypudel Grau,24,28
+Griffon bleu de Gascogne,50,57
+Laekenois,60,65
+Perro sin pelo del Peru (Medio),40,50
+Norsk Elghund Grä,49,52
+Xoloitzcuintle Miniatura,25,35
+Lancashire Heeler,25,30
+Hollandse Smoushond,35,42
+Podengo Portugues Rauhhaar Pequeno,20,30
+Schweizerische Laufhunde,47,59
+Cao da Serra de Aires,45,55
+Do-Khyi,66,76
+Podenco Ibicenco Rauhhaar,60,72
+Holländischer Schäferhund Rauhhaar,55,62
+Jämthund,57,65
+Lapinporokoira,43,49
+Anglo-francais de petite venerie,48,56
+Anglo?francais de petite venerie,48,56
+Haldenstöver,50,60
+Mehrfarben Toypudel schwarz weiss,24,28
+Norbottenspets,41,45
+Smalandsstövare,42,54
+St. Bernhardshund Langhaar,65,80
+Thai Bangkaew Dog,41,55
+English Coonhound,53,69
+Harrier,48,55
+Holländischer Schäferhund Langhaar,55,62
+Jura Laufhund,43,58
+Mehrfarben Zwergpudel schwarz weiss,28,35
+Griffon fauve de Bretagne,48,56
+Schweizerische Niederlaufhunde,35,43
