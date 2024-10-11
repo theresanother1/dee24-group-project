@@ -1,0 +1,9410 @@
+,Dog Breed
+0,beagle
+1,chihuahua
+2,dackel
+3,deutscher schäferhund
+4,english cocker spaniel
+5,französische bulldogge
+6,golden retriever
+7,havaneser
+8,jack russell terrier
+9,labrador retriever
+10,malteser
+11,mops
+12,jack russell terrier
+13,toy-pudel
+14,dackel (zwergdackel)
+15,shih tzu
+16,toy-pudel
+17,west highland white terrier
+18,yorkshire terrier
+19,amerikanischer cocker spaniel
+20,american pit bull terrier
+21,american staffordshire terrier
+22,american staffordshire terrier
+23,australian shepherd
+24,beagle
+25,border collie
+26,border collie
+27,boxer
+28,cavalier king charles spaniel
+29,chihuahua
+30,chihuahua
+31,chihuahua
+32,cocker spaniel
+33,collie
+34,collie
+35,dackel
+36,dackel
+37,deutsche dogge
+38,deutscher schäferhund
+39,deutscher schäferhund
+40,dogo argentino
+41,english cocker spaniel
+42,english cocker spaniel
+43,französische bulldogge
+44,golden retriever
+45,golden retriever
+46,havaneser
+47,havaneser
+48,jack russell terrier
+49,jack russell terrier
+50,labrador retriever
+51,labrador retriever
+52,magyar vizsla
+53,malteser
+54,malteser
+55,mops
+56,jack russell terrier
+57,pekinese
+58,pekinese
+59,toy-pudel
+60,dackel (zwergdackel)
+61,rhodesian ridgeback
+62,rottweiler
+63,giant schnauzer
+64,giant schnauzer
+65,shih tzu
+66,siberian husky
+67,siberian husky
+68,staffordshire bull terrier
+69,west highland white terrier
+70,yorkshire terrier
+71,yorkshire terrier
+72,pinscher
+73,pinscher
+74,zwergspitz
+75,zwergspitz
+76,american pit bull terrier
+77,american staffordshire terrier
+78,american staffordshire terrier
+79,australian shepherd
+80,bayerischer gebirgsschweisshund
+81,beagle
+82,berner sennenhund
+83,border collie
+84,border collie
+85,boxer
+86,dackel
+87,french bulldog
+88,cavalier king charles spaniel
+89,chihuahua
+90,cocker spaniel
+91,collie
+92,collie
+93,dackel
+94,dackel
+95,deutscher schäferhund
+96,deutscher schäferhund
+97,foxterrier
+98,english cocker spaniel
+99,flat-coated retriever
+100,französische bulldogge
+101,golden retriever
+102,golden retriever
+103,havaneser
+104,havaneser
+105,jack russell terrier
+106,jack russell terrier
+107,großer münsterländer
+108,labrador retriever
+109,labrador retriever
+110,magyar vizsla
+111,malteser
+112,malteser
+113,mops
+114,jack russell terrier
+115,pekinese
+116,pekinese
+117,toy-pudel
+118,dackel (zwergdackel)
+119,rottweiler
+120,giant schnauzer
+121,shih tzu
+122,siberian husky
+123,siberian husky
+124,west highland white terrier
+125,whippet
+126,yorkshire terrier
+127,yorkshire terrier
+128,pinscher
+129,pinscher
+130,giant schnauzer
+131,zwergspitz
+132,beagle
+133,chihuahua
+134,chihuahua
+135,dackel
+136,dackel
+137,deutscher schäferhund
+138,deutscher schäferhund
+139,english cocker spaniel
+140,französische bulldogge
+141,golden retriever
+142,jack russell terrier
+143,labrador retriever
+144,labrador retriever
+145,malteser
+146,mops
+147,jack russell terrier
+148,dackel (zwergdackel)
+149,yorkshire terrier
+150,american pit bull terrier
+151,american staffordshire terrier
+152,american staffordshire terrier
+153,beagle
+154,chihuahua
+155,chihuahua
+156,dackel
+157,dackel
+158,deutscher schäferhund
+159,deutscher schäferhund
+160,english cocker spaniel
+161,französische bulldogge
+162,golden retriever
+163,havaneser
+164,jack russell terrier
+165,labrador retriever
+166,labrador retriever
+167,magyar vizsla
+168,malteser
+169,mops
+170,pekinese
+171,toy-pudel
+172,dackel (zwergdackel)
+173,rottweiler
+174,shih tzu
+175,staffordshire bull terrier
+176,west highland white terrier
+177,whippet
+178,yorkshire terrier
+179,pinscher
+180,pinscher
+181,american staffordshire terrier
+182,beagle
+183,cavalier king charles spaniel
+184,chihuahua
+185,dackel
+186,dackel
+187,english cocker spaniel
+188,französische bulldogge
+189,golden retriever
+190,havaneser
+191,jack russell terrier
+192,labrador retriever
+193,magyar vizsla
+194,malteser
+195,mops
+196,shih tzu
+197,west highland white terrier
+198,yorkshire terrier
+199,pinscher
+200,zwergspitz
+201,american staffordshire terrier
+202,beagle
+203,chihuahua
+204,dackel
+205,dackel
+206,deutscher schäferhund
+207,deutscher schäferhund
+208,english cocker spaniel
+209,golden retriever
+210,golden retriever
+211,havaneser
+212,jack russell terrier
+213,labrador retriever
+214,labrador retriever
+215,malteser
+216,mops
+217,west highland white terrier
+218,yorkshire terrier
+219,beagle
+220,border collie
+221,dackel
+222,deutscher schäferhund
+223,golden retriever
+224,havaneser
+225,jack russell terrier
+226,labrador retriever
+227,labrador retriever
+228,magyar vizsla
+229,malteser
+230,mops
+231,shih tzu
+232,yorkshire terrier
+233,american staffordshire terrier
+234,beagle
+235,chihuahua
+236,collie
+237,dackel
+238,dackel
+239,deutscher schäferhund
+240,dogo argentino
+241,english cocker spaniel
+242,französische bulldogge
+243,golden retriever
+244,jack russell terrier
+245,jack russell terrier
+246,labrador retriever
+247,labrador retriever
+248,magyar vizsla
+249,malteser
+250,mops
+251,jack russell terrier
+252,toy-pudel
+253,dackel (zwergdackel)
+254,shih tzu
+255,siberian husky
+256,west highland white terrier
+257,yorkshire terrier
+258,pinscher
+259,akita inu
+260,amerikanischer cocker spaniel
+261,american pit bull terrier
+262,american pit bull terrier
+263,american staffordshire terrier
+264,american staffordshire terrier
+265,australian shepherd
+266,beagle
+267,beagle
+268,deutscher schäferhund
+269,berner sennenhund
+270,berner sennenhund
+271,bordeauxdogge
+272,border collie
+273,border collie
+274,boxer
+275,boxer
+276,dackel
+277,french bulldog
+278,bullterrier
+279,cane corso
+280,cavalier king charles spaniel
+281,chihuahua
+282,chihuahua
+283,chihuahua
+284,chinesischer schopfhund
+285,cocker spaniel
+286,collie
+287,dackel
+288,dackel
+289,dalmatiner
+290,deutscher pinscher
+291,deutscher schäferhund
+292,deutscher schäferhund
+293,dobermann
+294,dogo argentino
+295,foxterrier
+296,foxterrier
+297,english cocker spaniel
+298,english cocker spaniel
+299,flat-coated retriever
+300,französische bulldogge
+301,golden retriever
+302,golden retriever
+303,havaneser
+304,havaneser
+305,hovawart
+306,jack russell terrier
+307,jack russell terrier
+308,großer münsterländer
+309,labrador retriever
+310,labrador retriever
+311,dackel
+312,lhasa apso
+313,magyar vizsla
+314,malinois
+315,malteser
+316,malteser
+317,mops
+318,mops
+319,papillon
+320,jack russell terrier
+321,pekinese
+322,pekinese
+323,toy-pudel
+324,toy-pudel
+325,dackel (zwergdackel)
+326,rhodesian ridgeback
+327,rottweiler
+328,rottweiler
+329,giant schnauzer
+330,giant schnauzer
+331,shar-pei
+332,sheltie
+333,shiba inu
+334,shih tzu
+335,shih tzu
+336,siberian husky
+337,siberian husky
+338,spitz
+339,staffordshire bull terrier
+340,staffordshire bull terrier
+341,tibetan terrier
+342,weimaraner
+343,weißer schweizer schäferhund
+344,west highland white terrier
+345,whippet
+346,yorkshire terrier
+347,yorkshire terrier
+348,pinscher
+349,pinscher
+350,zwergpudel
+351,giant schnauzer
+352,zwergspitz
+353,zwergspitz
+354,deutscher pinscher
+355,airedale terrier
+356,amerikanischer cocker spaniel
+357,american pit bull terrier
+358,american pit bull terrier
+359,american staffordshire terrier
+360,american staffordshire terrier
+361,australian shepherd
+362,beagle
+363,deutscher schäferhund
+364,berner sennenhund
+365,berner sennenhund
+366,border collie
+367,border collie
+368,boxer
+369,dackel
+370,french bulldog
+371,bullterrier
+372,cavalier king charles spaniel
+373,chihuahua
+374,chihuahua
+375,chihuahua
+376,cocker spaniel
+377,collie
+378,dackel
+379,dackel
+380,deutsche dogge
+381,deutscher schäferhund
+382,deutscher schäferhund
+383,dobermann
+384,dogo argentino
+385,foxterrier
+386,english cocker spaniel
+387,english cocker spaniel
+388,französische bulldogge
+389,golden retriever
+390,golden retriever
+391,havaneser
+392,havaneser
+393,jack russell terrier
+394,jack russell terrier
+395,labrador retriever
+396,labrador retriever
+397,dackel
+398,magyar vizsla
+399,malinois
+400,malteser
+401,malteser
+402,mops
+403,papillon
+404,jack russell terrier
+405,pekinese
+406,pekinese
+407,toy-pudel
+408,toy-pudel
+409,dackel (zwergdackel)
+410,rhodesian ridgeback
+411,rottweiler
+412,rottweiler
+413,giant schnauzer
+414,giant schnauzer
+415,shar-pei
+416,sheltie
+417,shih tzu
+418,siberian husky
+419,siberian husky
+420,spitz
+421,staffordshire bull terrier
+422,staffordshire bull terrier
+423,tibetan terrier
+424,west highland white terrier
+425,whippet
+426,yorkshire terrier
+427,yorkshire terrier
+428,pinscher
+429,pinscher
+430,zwergpudel
+431,zwergspitz
+432,zwergspitz
+433,american pit bull terrier
+434,american pit bull terrier
+435,american staffordshire terrier
+436,american staffordshire terrier
+437,beagle
+438,beagle
+439,berner sennenhund
+440,bordeauxdogge
+441,border collie
+442,border collie
+443,boxer
+444,dackel
+445,bullterrier
+446,cavalier king charles spaniel
+447,chihuahua
+448,chihuahua
+449,chihuahua
+450,cocker spaniel
+451,dackel
+452,dackel
+453,deutscher schäferhund
+454,deutscher schäferhund
+455,dobermann
+456,dogo argentino
+457,foxterrier
+458,english cocker spaniel
+459,english cocker spaniel
+460,französische bulldogge
+461,golden retriever
+462,golden retriever
+463,havaneser
+464,havaneser
+465,havaneser
+466,jack russell terrier
+467,jack russell terrier
+468,labrador retriever
+469,labrador retriever
+470,malteser
+471,malteser
+472,mops
+473,jack russell terrier
+474,pekinese
+475,pekinese
+476,toy-pudel
+477,toy-pudel
+478,dackel (zwergdackel)
+479,rottweiler
+480,giant schnauzer
+481,shih tzu
+482,siberian husky
+483,staffordshire bull terrier
+484,west highland white terrier
+485,yorkshire terrier
+486,yorkshire terrier
+487,pinscher
+488,pinscher
+489,zwergpudel
+490,zwergspitz
+491,airedale terrier
+492,american staffordshire terrier
+493,american staffordshire terrier
+494,australian shepherd
+495,bayerischer gebirgsschweisshund
+496,beagle
+497,berner sennenhund
+498,border collie
+499,border collie
+500,boxer
+501,dackel
+502,cairn terrier
+503,cavalier king charles spaniel
+504,chihuahua
+505,chihuahua
+506,collie
+507,dackel
+508,dackel
+509,dalmatiner
+510,deutsche dogge
+511,deutscher schäferhund
+512,deutscher schäferhund
+513,english cocker spaniel
+514,berner sennenhund
+515,flat-coated retriever
+516,französische bulldogge
+517,golden retriever
+518,golden retriever
+519,havaneser
+520,havaneser
+521,hovawart
+522,irish setter
+523,jack russell terrier
+524,jack russell terrier
+525,großer münsterländer
+526,labrador retriever
+527,labrador retriever
+528,lhasa apso
+529,magyar vizsla
+530,malteser
+531,mops
+532,jack russell terrier
+533,pekinese
+534,pekinese
+535,toy-pudel
+536,dackel (zwergdackel)
+537,rottweiler
+538,giant schnauzer
+539,shih tzu
+540,siberian husky
+541,tibetan terrier
+542,west highland white terrier
+543,yorkshire terrier
+544,pinscher
+545,pinscher
+546,zwergpudel
+547,zwergspitz
+548,american pit bull terrier
+549,american pit bull terrier
+550,american staffordshire terrier
+551,american staffordshire terrier
+552,australian shepherd
+553,beagle
+554,beagle
+555,berner sennenhund
+556,berner sennenhund
+557,bolonka
+558,border collie
+559,border collie
+560,boxer
+561,dackel
+562,bullterrier
+563,cavalier king charles spaniel
+564,chihuahua
+565,chihuahua
+566,chihuahua
+567,cocker spaniel
+568,collie
+569,dackel
+570,dackel
+571,deutsche dogge
+572,deutscher schäferhund
+573,deutscher schäferhund
+574,dobermann
+575,dogo argentino
+576,foxterrier
+577,english cocker spaniel
+578,english cocker spaniel
+579,flat-coated retriever
+580,französische bulldogge
+581,golden retriever
+582,golden retriever
+583,havaneser
+584,havaneser
+585,hovawart
+586,jack russell terrier
+587,jack russell terrier
+588,großer münsterländer
+589,labrador retriever
+590,labrador retriever
+591,dackel
+592,lhasa apso
+593,magyar vizsla
+594,malinois
+595,malteser
+596,malteser
+597,mops
+598,papillon
+599,jack russell terrier
+600,pekinese
+601,pekinese
+602,toy-pudel
+603,toy-pudel
+604,dackel (zwergdackel)
+605,rhodesian ridgeback
+606,rottweiler
+607,rottweiler
+608,giant schnauzer
+609,sheltie
+610,shih tzu
+611,shih tzu
+612,siberian husky
+613,siberian husky
+614,staffordshire bull terrier
+615,staffordshire bull terrier
+616,weimaraner
+617,west highland white terrier
+618,whippet
+619,yorkshire terrier
+620,yorkshire terrier
+621,pinscher
+622,pinscher
+623,zwergpudel
+624,giant schnauzer
+625,zwergspitz
+626,zwergspitz
+627,american pit bull terrier
+628,american pit bull terrier
+629,american staffordshire terrier
+630,american staffordshire terrier
+631,beagle
+632,border collie
+633,chihuahua
+634,chihuahua
+635,collie
+636,dackel
+637,dackel
+638,deutscher schäferhund
+639,deutscher schäferhund
+640,dobermann
+641,foxterrier
+642,english cocker spaniel
+643,französische bulldogge
+644,golden retriever
+645,havaneser
+646,jack russell terrier
+647,jack russell terrier
+648,labrador retriever
+649,labrador retriever
+650,magyar vizsla
+651,malteser
+652,malteser
+653,mops
+654,pekinese
+655,toy-pudel
+656,dackel (zwergdackel)
+657,rottweiler
+658,giant schnauzer
+659,sheltie
+660,shih tzu
+661,staffordshire bull terrier
+662,west highland white terrier
+663,yorkshire terrier
+664,yorkshire terrier
+665,pinscher
+666,zwergspitz
+667,zwergspitz
+668,amerikanischer cocker spaniel
+669,american pit bull terrier
+670,american pit bull terrier
+671,american staffordshire terrier
+672,american staffordshire terrier
+673,australian shepherd
+674,beagle
+675,border collie
+676,border collie
+677,boxer
+678,cavalier king charles spaniel
+679,chihuahua
+680,chihuahua
+681,chihuahua
+682,dackel
+683,dackel
+684,deutscher schäferhund
+685,deutscher schäferhund
+686,dogo argentino
+687,english cocker spaniel
+688,english cocker spaniel
+689,flat-coated retriever
+690,französische bulldogge
+691,golden retriever
+692,golden retriever
+693,havaneser
+694,havaneser
+695,jack russell terrier
+696,jack russell terrier
+697,labrador retriever
+698,labrador retriever
+699,magyar vizsla
+700,malteser
+701,malteser
+702,mops
+703,papillon
+704,jack russell terrier
+705,pekinese
+706,pekinese
+707,toy-pudel
+708,dackel (zwergdackel)
+709,rhodesian ridgeback
+710,rottweiler
+711,giant schnauzer
+712,sheltie
+713,shih tzu
+714,siberian husky
+715,siberian husky
+716,staffordshire bull terrier
+717,west highland white terrier
+718,yorkshire terrier
+719,pinscher
+720,zwergpudel
+721,zwergspitz
+722,zwergspitz
+723,american pit bull terrier
+724,american staffordshire terrier
+725,australian shepherd
+726,beagle
+727,berner sennenhund
+728,berner sennenhund
+729,border collie
+730,border collie
+731,boxer
+732,dackel
+733,cavalier king charles spaniel
+734,chihuahua
+735,chihuahua
+736,chihuahua
+737,cocker spaniel
+738,dackel
+739,dackel
+740,deutscher schäferhund
+741,deutscher schäferhund
+742,english cocker spaniel
+743,flat-coated retriever
+744,französische bulldogge
+745,golden retriever
+746,golden retriever
+747,havaneser
+748,jack russell terrier
+749,jack russell terrier
+750,großer münsterländer
+751,labrador retriever
+752,labrador retriever
+753,magyar vizsla
+754,malteser
+755,mops
+756,pekinese
+757,toy-pudel
+758,dackel (zwergdackel)
+759,rottweiler
+760,giant schnauzer
+761,shih tzu
+762,siberian husky
+763,siberian husky
+764,staffordshire bull terrier
+765,tibetan terrier
+766,west highland white terrier
+767,yorkshire terrier
+768,yorkshire terrier
+769,pinscher
+770,pinscher
+771,zwergpudel
+772,zwergspitz
+773,american pit bull terrier
+774,american staffordshire terrier
+775,beagle
+776,border collie
+777,border collie
+778,boxer
+779,bullterrier
+780,cavalier king charles spaniel
+781,chihuahua
+782,chihuahua
+783,dackel
+784,dackel
+785,deutscher schäferhund
+786,deutscher schäferhund
+787,foxterrier
+788,english cocker spaniel
+789,französische bulldogge
+790,golden retriever
+791,havaneser
+792,havaneser
+793,hovawart
+794,jack russell terrier
+795,jack russell terrier
+796,großer münsterländer
+797,labrador retriever
+798,labrador retriever
+799,magyar vizsla
+800,malteser
+801,mops
+802,jack russell terrier
+803,toy-pudel
+804,dackel (zwergdackel)
+805,shih tzu
+806,siberian husky
+807,west highland white terrier
+808,yorkshire terrier
+809,pinscher
+810,zwergpudel
+811,zwergspitz
+812,amerikanischer cocker spaniel
+813,american pit bull terrier
+814,american pit bull terrier
+815,american staffordshire terrier
+816,american staffordshire terrier
+817,australian shepherd
+818,beagle
+819,berner sennenhund
+820,berner sennenhund
+821,border collie
+822,border collie
+823,boxer
+824,dackel
+825,french bulldog
+826,bullterrier
+827,cavalier king charles spaniel
+828,chihuahua
+829,chihuahua
+830,chihuahua
+831,cocker spaniel
+832,collie
+833,collie
+834,dackel
+835,dackel
+836,dalmatiner
+837,deutsche dogge
+838,deutsche dogge
+839,deutscher schäferhund
+840,deutscher schäferhund
+841,dobermann
+842,foxterrier
+843,english cocker spaniel
+844,english setter
+845,flat-coated retriever
+846,französische bulldogge
+847,golden retriever
+848,golden retriever
+849,großer münsterländer
+850,havaneser
+851,havaneser
+852,hovawart
+853,irish setter
+854,jack russell terrier
+855,jack russell terrier
+856,großer münsterländer
+857,labrador retriever
+858,labrador retriever
+859,magyar vizsla
+860,malteser
+861,malteser
+862,mops
+863,jack russell terrier
+864,pekinese
+865,toy-pudel
+866,toy-pudel
+867,dackel (zwergdackel)
+868,rhodesian ridgeback
+869,rottweiler
+870,rottweiler
+871,giant schnauzer
+872,shih tzu
+873,siberian husky
+874,siberian husky
+875,staffordshire bull terrier
+876,toy-pudel
+877,weimaraner
+878,weißer schweizer schäferhund
+879,west highland white terrier
+880,whippet
+881,yorkshire terrier
+882,yorkshire terrier
+883,pinscher
+884,pinscher
+885,zwergpudel
+886,zwergspitz
+887,zwergspitz
+888,american pit bull terrier
+889,american pit bull terrier
+890,american staffordshire terrier
+891,american staffordshire terrier
+892,australian shepherd
+893,beagle
+894,berner sennenhund
+895,border collie
+896,border collie
+897,boxer
+898,dackel
+899,bullterrier
+900,chihuahua
+901,chihuahua
+902,chihuahua
+903,cocker spaniel
+904,collie
+905,dackel
+906,dackel
+907,deutscher schäferhund
+908,deutscher schäferhund
+909,foxterrier
+910,english cocker spaniel
+911,französische bulldogge
+912,golden retriever
+913,havaneser
+914,havaneser
+915,jack russell terrier
+916,jack russell terrier
+917,labrador retriever
+918,labrador retriever
+919,magyar vizsla
+920,malteser
+921,malteser
+922,mops
+923,jack russell terrier
+924,pekinese
+925,pekinese
+926,toy-pudel
+927,toy-pudel
+928,dackel (zwergdackel)
+929,rottweiler
+930,shih tzu
+931,siberian husky
+932,siberian husky
+933,staffordshire bull terrier
+934,west highland white terrier
+935,yorkshire terrier
+936,yorkshire terrier
+937,pinscher
+938,pinscher
+939,zwergspitz
+940,alaskan malamute
+941,amerikanischer cocker spaniel
+942,american pit bull terrier
+943,american pit bull terrier
+944,american staffordshire terrier
+945,american staffordshire terrier
+946,australian cattle dog
+947,australian shepherd
+948,beagle
+949,beagle
+950,bearded collie
+951,deutscher schäferhund
+952,deutscher schäferhund
+953,berner sennenhund
+954,berner sennenhund
+955,bichon frisé
+956,border collie
+957,border collie
+958,boxer
+959,boxer
+960,dackel
+961,french bulldog
+962,bullmastiff
+963,bullterrier
+964,cairn terrier
+965,cane corso
+966,cavalier king charles spaniel
+967,chihuahua
+968,chihuahua
+969,chihuahua
+970,chinesischer schopfhund
+971,cocker spaniel
+972,cocker spaniel
+973,collie
+974,collie
+975,dackel
+976,dackel
+977,dalmatiner
+978,dalmatiner
+979,deutsche dogge
+980,deutsche dogge
+981,deutscher pinscher
+982,deutscher schäferhund
+983,deutscher schäferhund
+984,dobermann
+985,dogo argentino
+986,foxterrier
+987,english cocker spaniel
+988,english cocker spaniel
+989,berner sennenhund
+990,eurasier
+991,flat-coated retriever
+992,französische bulldogge
+993,golden retriever
+994,golden retriever
+995,gordon setter
+996,havaneser
+997,havaneser
+998,hovawart
+999,irish setter
+1000,jack russell terrier
+1001,jack russell terrier
+1002,großer münsterländer
+1003,großer münsterländer
+1004,labrador retriever
+1005,labrador retriever
+1006,landseer
+1007,dackel
+1008,magyar vizsla
+1009,malinois
+1010,malteser
+1011,malteser
+1012,mops
+1013,mops
+1014,neufundländer
+1015,neufundländer
+1016,papillon
+1017,jack russell terrier
+1018,pekinese
+1019,pekinese
+1020,toy-pudel
+1021,toy-pudel
+1022,dackel (zwergdackel)
+1023,rhodesian ridgeback
+1024,giant schnauzer
+1025,rottweiler
+1026,rottweiler
+1027,giant schnauzer
+1028,giant schnauzer
+1029,scottish terrier
+1030,shar-pei
+1031,sheltie
+1032,shiba inu
+1033,shih tzu
+1034,shih tzu
+1035,siberian husky
+1036,siberian husky
+1037,spitz
+1038,staffordshire bull terrier
+1039,staffordshire bull terrier
+1040,tervueren
+1041,cocker spaniel
+1042,tibetan terrier
+1043,weimaraner
+1044,weißer schweizer schäferhund
+1045,west highland white terrier
+1046,whippet
+1047,yorkshire terrier
+1048,yorkshire terrier
+1049,pinscher
+1050,pinscher
+1051,zwergpudel
+1052,giant schnauzer
+1053,zwergspitz
+1054,zwergspitz
+1055,airedale terrier
+1056,akita inu
+1057,alaskan malamute
+1058,amerikanischer cocker spaniel
+1059,american pit bull terrier
+1060,american pit bull terrier
+1061,american staffordshire terrier
+1062,american staffordshire terrier
+1063,australian shepherd
+1064,beagle
+1065,beagle
+1066,deutscher schäferhund
+1067,deutscher schäferhund
+1068,berner sennenhund
+1069,berner sennenhund
+1070,harrier
+1071,bichon frisé
+1072,bobtail
+1073,bolonka
+1074,bordeauxdogge
+1075,border collie
+1076,border collie
+1077,border terrier
+1078,boxer
+1079,boxer
+1080,dackel
+1081,french bulldog
+1082,bullmastiff
+1083,bullterrier
+1084,bullterrier
+1085,cairn terrier
+1086,cane corso
+1087,cavalier king charles spaniel
+1088,chihuahua
+1089,chihuahua
+1090,chihuahua
+1091,chinesischer schopfhund
+1092,chow chow
+1093,cocker spaniel
+1094,cocker spaniel
+1095,collie
+1096,collie
+1097,dackel
+1098,dackel
+1099,dalmatiner
+1100,dalmatiner
+1101,deutsche dogge
+1102,deutsche dogge
+1103,deutsche dogge
+1104,deutscher pinscher
+1105,deutscher schäferhund
+1106,deutscher schäferhund
+1107,dobermann
+1108,dogo argentino
+1109,dogo argentino
+1110,foxterrier
+1111,elo
+1112,english cocker spaniel
+1113,english cocker spaniel
+1114,english springer spaniel
+1115,berner sennenhund
+1116,flat-coated retriever
+1117,französische bulldogge
+1118,foxterrier
+1119,golden retriever
+1120,golden retriever
+1121,gordon setter
+1122,großer münsterländer
+1123,havaneser
+1124,havaneser
+1125,hollandse herdershond
+1126,hovawart
+1127,irish setter
+1128,jack russell terrier
+1129,jack russell terrier
+1130,großer münsterländer
+1131,großer münsterländer
+1132,labrador retriever
+1133,labrador retriever
+1134,landseer
+1135,dackel
+1136,lhasa apso
+1137,magyar vizsla
+1138,malinois
+1139,malteser
+1140,malteser
+1141,mops
+1142,mops
+1143,neufundländer
+1144,englische bulldogge
+1145,papillon
+1146,jack russell terrier
+1147,pekinese
+1148,pekinese
+1149,prager rattler
+1150,toy-pudel
+1151,toy-pudel
+1152,dackel (zwergdackel)
+1153,rhodesian ridgeback
+1154,giant schnauzer
+1155,rottweiler
+1156,rottweiler
+1157,giant schnauzer
+1158,giant schnauzer
+1159,shar-pei
+1160,sheltie
+1161,shiba inu
+1162,shih tzu
+1163,shih tzu
+1164,siberian husky
+1165,siberian husky
+1166,afghanischer windhund
+1167,spitz
+1168,spitz
+1169,staffordshire bull terrier
+1170,staffordshire bull terrier
+1171,cocker spaniel
+1172,tibetan terrier
+1173,toy-pudel
+1174,weimaraner
+1175,weißer schweizer schäferhund
+1176,welsh terrier
+1177,west highland white terrier
+1178,whippet
+1179,yorkshire terrier
+1180,yorkshire terrier
+1181,pinscher
+1182,pinscher
+1183,zwergpudel
+1184,giant schnauzer
+1185,zwergspitz
+1186,zwergspitz
+1187,deutscher pinscher
+1188,airedale terrier
+1189,alaskan malamute
+1190,amerikanischer cocker spaniel
+1191,american pit bull terrier
+1192,american pit bull terrier
+1193,american staffordshire terrier
+1194,american staffordshire terrier
+1195,australian shepherd
+1196,bayerischer gebirgsschweisshund
+1197,beagle
+1198,beagle
+1199,bearded collie
+1200,deutscher schäferhund
+1201,berner sennenhund
+1202,berner sennenhund
+1203,bichon frisé
+1204,border collie
+1205,border collie
+1206,boxer
+1207,dackel
+1208,bullterrier
+1209,cairn terrier
+1210,cavalier king charles spaniel
+1211,chihuahua
+1212,chihuahua
+1213,chihuahua
+1214,cocker spaniel
+1215,collie
+1216,collie
+1217,dackel
+1218,dackel
+1219,dalmatiner
+1220,deutsche dogge
+1221,deutsche dogge
+1222,deutscher pinscher
+1223,deutscher schäferhund
+1224,deutscher schäferhund
+1225,dobermann
+1226,foxterrier
+1227,english cocker spaniel
+1228,berner sennenhund
+1229,flat-coated retriever
+1230,französische bulldogge
+1231,golden retriever
+1232,golden retriever
+1233,greyhound
+1234,großer münsterländer
+1235,havaneser
+1236,havaneser
+1237,hovawart
+1238,irish setter
+1239,jack russell terrier
+1240,jack russell terrier
+1241,großer münsterländer
+1242,labrador retriever
+1243,labrador retriever
+1244,dackel
+1245,magyar vizsla
+1246,malinois
+1247,malteser
+1248,malteser
+1249,mops
+1250,papillon
+1251,jack russell terrier
+1252,pekinese
+1253,pekinese
+1254,toy-pudel
+1255,toy-pudel
+1256,puli
+1257,dackel (zwergdackel)
+1258,rhodesian ridgeback
+1259,rottweiler
+1260,schapendoes
+1261,giant schnauzer
+1262,giant schnauzer
+1263,sheltie
+1264,shiba inu
+1265,shih tzu
+1266,shih tzu
+1267,siberian husky
+1268,siberian husky
+1269,spitz
+1270,staffordshire bull terrier
+1271,tibetan terrier
+1272,west highland white terrier
+1273,whippet
+1274,yorkshire terrier
+1275,yorkshire terrier
+1276,pinscher
+1277,pinscher
+1278,zwergpudel
+1279,giant schnauzer
+1280,zwergspitz
+1281,zwergspitz
+1282,beagle
+1283,chihuahua
+1284,dackel
+1285,deutscher schäferhund
+1286,english cocker spaniel
+1287,französische bulldogge
+1288,golden retriever
+1289,havaneser
+1290,jack russell terrier
+1291,labrador retriever
+1292,labrador retriever
+1293,malteser
+1294,jack russell terrier
+1295,toy-pudel
+1296,shih tzu
+1297,toy-pudel
+1298,west highland white terrier
+1299,yorkshire terrier
+1300,amerikanischer cocker spaniel
+1301,american pit bull terrier
+1302,american pit bull terrier
+1303,american staffordshire terrier
+1304,american staffordshire terrier
+1305,australian shepherd
+1306,beagle
+1307,beagle
+1308,berner sennenhund
+1309,border collie
+1310,border collie
+1311,boxer
+1312,bullterrier
+1313,cavalier king charles spaniel
+1314,chihuahua
+1315,chihuahua
+1316,chihuahua
+1317,collie
+1318,dackel
+1319,dackel
+1320,deutsche dogge
+1321,deutscher schäferhund
+1322,deutscher schäferhund
+1323,dogo argentino
+1324,english cocker spaniel
+1325,english cocker spaniel
+1326,französische bulldogge
+1327,golden retriever
+1328,golden retriever
+1329,havaneser
+1330,havaneser
+1331,jack russell terrier
+1332,jack russell terrier
+1333,labrador retriever
+1334,labrador retriever
+1335,magyar vizsla
+1336,malteser
+1337,malteser
+1338,mops
+1339,jack russell terrier
+1340,pekinese
+1341,pekinese
+1342,toy-pudel
+1343,dackel (zwergdackel)
+1344,rhodesian ridgeback
+1345,rottweiler
+1346,giant schnauzer
+1347,shih tzu
+1348,siberian husky
+1349,siberian husky
+1350,afghanischer windhund
+1351,spitz
+1352,staffordshire bull terrier
+1353,west highland white terrier
+1354,yorkshire terrier
+1355,yorkshire terrier
+1356,pinscher
+1357,pinscher
+1358,zwergspitz
+1359,zwergspitz
+1360,american pit bull terrier
+1361,american staffordshire terrier
+1362,american staffordshire terrier
+1363,australian shepherd
+1364,bayerischer gebirgsschweisshund
+1365,beagle
+1366,berner sennenhund
+1367,border collie
+1368,border collie
+1369,boxer
+1370,dackel
+1371,french bulldog
+1372,cavalier king charles spaniel
+1373,chihuahua
+1374,cocker spaniel
+1375,collie
+1376,collie
+1377,dackel
+1378,dackel
+1379,deutscher schäferhund
+1380,deutscher schäferhund
+1381,foxterrier
+1382,english cocker spaniel
+1383,flat-coated retriever
+1384,französische bulldogge
+1385,golden retriever
+1386,golden retriever
+1387,havaneser
+1388,havaneser
+1389,jack russell terrier
+1390,jack russell terrier
+1391,großer münsterländer
+1392,labrador retriever
+1393,labrador retriever
+1394,magyar vizsla
+1395,malteser
+1396,malteser
+1397,mops
+1398,jack russell terrier
+1399,pekinese
+1400,pekinese
+1401,toy-pudel
+1402,dackel (zwergdackel)
+1403,rhodesian ridgeback
+1404,rottweiler
+1405,shih tzu
+1406,siberian husky
+1407,siberian husky
+1408,west highland white terrier
+1409,whippet
+1410,yorkshire terrier
+1411,yorkshire terrier
+1412,pinscher
+1413,pinscher
+1414,zwergpudel
+1415,zwergspitz
+1416,american staffordshire terrier
+1417,beagle
+1418,chihuahua
+1419,chihuahua
+1420,dackel
+1421,dackel
+1422,deutscher schäferhund
+1423,deutscher schäferhund
+1424,english cocker spaniel
+1425,französische bulldogge
+1426,golden retriever
+1427,jack russell terrier
+1428,labrador retriever
+1429,labrador retriever
+1430,malteser
+1431,mops
+1432,jack russell terrier
+1433,dackel (zwergdackel)
+1434,yorkshire terrier
+1435,american pit bull terrier
+1436,american staffordshire terrier
+1437,american staffordshire terrier
+1438,beagle
+1439,chihuahua
+1440,chihuahua
+1441,chihuahua
+1442,dackel
+1443,dackel
+1444,deutscher schäferhund
+1445,deutscher schäferhund
+1446,english cocker spaniel
+1447,französische bulldogge
+1448,golden retriever
+1449,havaneser
+1450,jack russell terrier
+1451,labrador retriever
+1452,labrador retriever
+1453,magyar vizsla
+1454,malteser
+1455,mops
+1456,pekinese
+1457,toy-pudel
+1458,dackel (zwergdackel)
+1459,rottweiler
+1460,shih tzu
+1461,spitz
+1462,west highland white terrier
+1463,whippet
+1464,yorkshire terrier
+1465,pinscher
+1466,pinscher
+1467,american staffordshire terrier
+1468,australian shepherd
+1469,beagle
+1470,cavalier king charles spaniel
+1471,chihuahua
+1472,dackel
+1473,dackel
+1474,deutscher schäferhund
+1475,english cocker spaniel
+1476,französische bulldogge
+1477,golden retriever
+1478,havaneser
+1479,jack russell terrier
+1480,labrador retriever
+1481,labrador retriever
+1482,magyar vizsla
+1483,malteser
+1484,mops
+1485,shih tzu
+1486,west highland white terrier
+1487,yorkshire terrier
+1488,pinscher
+1489,american staffordshire terrier
+1490,beagle
+1491,chihuahua
+1492,dackel
+1493,dackel
+1494,deutscher schäferhund
+1495,english cocker spaniel
+1496,golden retriever
+1497,golden retriever
+1498,havaneser
+1499,jack russell terrier
+1500,jack russell terrier
+1501,labrador retriever
+1502,labrador retriever
+1503,malteser
+1504,mops
+1505,yorkshire terrier
+1506,beagle
+1507,border collie
+1508,cavalier king charles spaniel
+1509,deutscher schäferhund
+1510,english cocker spaniel
+1511,golden retriever
+1512,havaneser
+1513,jack russell terrier
+1514,labrador retriever
+1515,labrador retriever
+1516,magyar vizsla
+1517,malteser
+1518,mops
+1519,shih tzu
+1520,american staffordshire terrier
+1521,american staffordshire terrier
+1522,berner sennenhund
+1523,cavalier king charles spaniel
+1524,chihuahua
+1525,dackel
+1526,dackel
+1527,deutscher schäferhund
+1528,dogo argentino
+1529,english cocker spaniel
+1530,französische bulldogge
+1531,golden retriever
+1532,golden retriever
+1533,jack russell terrier
+1534,jack russell terrier
+1535,labrador retriever
+1536,labrador retriever
+1537,malteser
+1538,mops
+1539,jack russell terrier
+1540,dackel (zwergdackel)
+1541,siberian husky
+1542,west highland white terrier
+1543,yorkshire terrier
+1544,pinscher
+1545,akita inu
+1546,amerikanischer cocker spaniel
+1547,american pit bull terrier
+1548,american pit bull terrier
+1549,american staffordshire terrier
+1550,american staffordshire terrier
+1551,australian shepherd
+1552,beagle
+1553,beagle
+1554,deutscher schäferhund
+1555,berner sennenhund
+1556,berner sennenhund
+1557,bordeauxdogge
+1558,border collie
+1559,border collie
+1560,boxer
+1561,boxer
+1562,dackel
+1563,french bulldog
+1564,bullterrier
+1565,cane corso
+1566,cavalier king charles spaniel
+1567,chihuahua
+1568,chihuahua
+1569,chihuahua
+1570,chinesischer schopfhund
+1571,chinesischer schopfhund
+1572,cocker spaniel
+1573,cocker spaniel
+1574,collie
+1575,collie
+1576,dackel
+1577,dackel
+1578,dalmatiner
+1579,deutsche dogge
+1580,deutscher pinscher
+1581,deutscher schäferhund
+1582,deutscher schäferhund
+1583,dobermann
+1584,dobermann
+1585,dogo argentino
+1586,foxterrier
+1587,foxterrier
+1588,english cocker spaniel
+1589,english cocker spaniel
+1590,flat-coated retriever
+1591,französische bulldogge
+1592,golden retriever
+1593,golden retriever
+1594,havaneser
+1595,havaneser
+1596,hovawart
+1597,jack russell terrier
+1598,jack russell terrier
+1599,großer münsterländer
+1600,labrador retriever
+1601,labrador retriever
+1602,dackel
+1603,lhasa apso
+1604,magyar vizsla
+1605,malinois
+1606,malteser
+1607,malteser
+1608,mops
+1609,englische bulldogge
+1610,papillon
+1611,jack russell terrier
+1612,pekinese
+1613,pekinese
+1614,toy-pudel
+1615,toy-pudel
+1616,puli
+1617,dackel (zwergdackel)
+1618,rhodesian ridgeback
+1619,rottweiler
+1620,rottweiler
+1621,giant schnauzer
+1622,giant schnauzer
+1623,shar-pei
+1624,sheltie
+1625,shiba inu
+1626,shih tzu
+1627,shih tzu
+1628,siberian husky
+1629,siberian husky
+1630,spitz
+1631,spitz
+1632,staffordshire bull terrier
+1633,staffordshire bull terrier
+1634,tibetan terrier
+1635,weimaraner
+1636,weißer schweizer schäferhund
+1637,west highland white terrier
+1638,whippet
+1639,yorkshire terrier
+1640,yorkshire terrier
+1641,pinscher
+1642,pinscher
+1643,zwergpudel
+1644,giant schnauzer
+1645,zwergspitz
+1646,zwergspitz
+1647,deutscher pinscher
+1648,deutscher pinscher
+1649,airedale terrier
+1650,amerikanischer cocker spaniel
+1651,american pit bull terrier
+1652,american pit bull terrier
+1653,american staffordshire terrier
+1654,american staffordshire terrier
+1655,australian shepherd
+1656,beagle
+1657,beagle
+1658,deutscher schäferhund
+1659,berner sennenhund
+1660,berner sennenhund
+1661,border collie
+1662,border collie
+1663,boxer
+1664,dackel
+1665,french bulldog
+1666,bullterrier
+1667,cavalier king charles spaniel
+1668,chihuahua
+1669,chihuahua
+1670,chihuahua
+1671,cocker spaniel
+1672,collie
+1673,dackel
+1674,dackel
+1675,deutsche dogge
+1676,deutscher pinscher
+1677,deutscher schäferhund
+1678,deutscher schäferhund
+1679,dobermann
+1680,dogo argentino
+1681,foxterrier
+1682,english cocker spaniel
+1683,english cocker spaniel
+1684,flat-coated retriever
+1685,französische bulldogge
+1686,golden retriever
+1687,golden retriever
+1688,havaneser
+1689,havaneser
+1690,jack russell terrier
+1691,jack russell terrier
+1692,labrador retriever
+1693,labrador retriever
+1694,dackel
+1695,magyar vizsla
+1696,malinois
+1697,malteser
+1698,malteser
+1699,mops
+1700,neufundländer
+1701,englische bulldogge
+1702,papillon
+1703,jack russell terrier
+1704,pekinese
+1705,pekinese
+1706,toy-pudel
+1707,dackel (zwergdackel)
+1708,rhodesian ridgeback
+1709,rottweiler
+1710,rottweiler
+1711,samoyed
+1712,giant schnauzer
+1713,giant schnauzer
+1714,shar-pei
+1715,sheltie
+1716,shih tzu
+1717,siberian husky
+1718,siberian husky
+1719,spitz
+1720,staffordshire bull terrier
+1721,staffordshire bull terrier
+1722,tibetan terrier
+1723,west highland white terrier
+1724,whippet
+1725,yorkshire terrier
+1726,yorkshire terrier
+1727,pinscher
+1728,pinscher
+1729,zwergpudel
+1730,zwergspitz
+1731,zwergspitz
+1732,deutscher pinscher
+1733,american pit bull terrier
+1734,american pit bull terrier
+1735,american staffordshire terrier
+1736,american staffordshire terrier
+1737,australian shepherd
+1738,beagle
+1739,berner sennenhund
+1740,border collie
+1741,border collie
+1742,boxer
+1743,dackel
+1744,bullterrier
+1745,cane corso
+1746,cavalier king charles spaniel
+1747,chihuahua
+1748,chihuahua
+1749,chihuahua
+1750,cocker spaniel
+1751,dackel
+1752,dackel
+1753,deutscher schäferhund
+1754,deutscher schäferhund
+1755,foxterrier
+1756,english cocker spaniel
+1757,english cocker spaniel
+1758,französische bulldogge
+1759,golden retriever
+1760,golden retriever
+1761,havaneser
+1762,havaneser
+1763,havaneser
+1764,jack russell terrier
+1765,jack russell terrier
+1766,labrador retriever
+1767,labrador retriever
+1768,malteser
+1769,malteser
+1770,mops
+1771,jack russell terrier
+1772,pekinese
+1773,pekinese
+1774,toy-pudel
+1775,toy-pudel
+1776,dackel (zwergdackel)
+1777,rottweiler
+1778,giant schnauzer
+1779,shih tzu
+1780,siberian husky
+1781,staffordshire bull terrier
+1782,west highland white terrier
+1783,yorkshire terrier
+1784,yorkshire terrier
+1785,pinscher
+1786,pinscher
+1787,zwergspitz
+1788,airedale terrier
+1789,american staffordshire terrier
+1790,australian shepherd
+1791,bayerischer gebirgsschweisshund
+1792,beagle
+1793,deutscher schäferhund
+1794,berner sennenhund
+1795,border collie
+1796,border collie
+1797,boxer
+1798,chihuahua
+1799,chihuahua
+1800,collie
+1801,dackel
+1802,dackel
+1803,dalmatiner
+1804,deutsche dogge
+1805,deutscher schäferhund
+1806,deutscher schäferhund
+1807,english cocker spaniel
+1808,berner sennenhund
+1809,flat-coated retriever
+1810,französische bulldogge
+1811,golden retriever
+1812,golden retriever
+1813,havaneser
+1814,havaneser
+1815,hovawart
+1816,irish setter
+1817,jack russell terrier
+1818,großer münsterländer
+1819,labrador retriever
+1820,labrador retriever
+1821,dackel
+1822,magyar vizsla
+1823,malteser
+1824,mops
+1825,papillon
+1826,jack russell terrier
+1827,pekinese
+1828,pekinese
+1829,toy-pudel
+1830,dackel (zwergdackel)
+1831,giant schnauzer
+1832,giant schnauzer
+1833,shih tzu
+1834,siberian husky
+1835,staffordshire bull terrier
+1836,tibetan terrier
+1837,west highland white terrier
+1838,yorkshire terrier
+1839,pinscher
+1840,pinscher
+1841,zwergpudel
+1842,zwergspitz
+1843,american pit bull terrier
+1844,american pit bull terrier
+1845,american staffordshire terrier
+1846,american staffordshire terrier
+1847,australian shepherd
+1848,beagle
+1849,beagle
+1850,berner sennenhund
+1851,bichon frisé
+1852,bolonka
+1853,border collie
+1854,border collie
+1855,boxer
+1856,dackel
+1857,bullterrier
+1858,cavalier king charles spaniel
+1859,chihuahua
+1860,chihuahua
+1861,chihuahua
+1862,cocker spaniel
+1863,collie
+1864,dackel
+1865,dackel
+1866,deutsche dogge
+1867,deutscher schäferhund
+1868,deutscher schäferhund
+1869,dobermann
+1870,dogo argentino
+1871,foxterrier
+1872,english cocker spaniel
+1873,flat-coated retriever
+1874,französische bulldogge
+1875,golden retriever
+1876,golden retriever
+1877,havaneser
+1878,havaneser
+1879,hovawart
+1880,jack russell terrier
+1881,jack russell terrier
+1882,großer münsterländer
+1883,labrador retriever
+1884,labrador retriever
+1885,dackel
+1886,lhasa apso
+1887,magyar vizsla
+1888,malinois
+1889,malteser
+1890,malteser
+1891,mops
+1892,papillon
+1893,jack russell terrier
+1894,pekinese
+1895,pekinese
+1896,toy-pudel
+1897,toy-pudel
+1898,dackel (zwergdackel)
+1899,rhodesian ridgeback
+1900,rottweiler
+1901,giant schnauzer
+1902,sheltie
+1903,shih tzu
+1904,shih tzu
+1905,siberian husky
+1906,siberian husky
+1907,spitz
+1908,staffordshire bull terrier
+1909,staffordshire bull terrier
+1910,weimaraner
+1911,west highland white terrier
+1912,whippet
+1913,yorkshire terrier
+1914,yorkshire terrier
+1915,pinscher
+1916,pinscher
+1917,zwergpudel
+1918,giant schnauzer
+1919,zwergspitz
+1920,zwergspitz
+1921,american pit bull terrier
+1922,american staffordshire terrier
+1923,american staffordshire terrier
+1924,beagle
+1925,border collie
+1926,border collie
+1927,chihuahua
+1928,chihuahua
+1929,chihuahua
+1930,collie
+1931,dackel
+1932,dackel
+1933,deutscher schäferhund
+1934,deutscher schäferhund
+1935,dobermann
+1936,foxterrier
+1937,english cocker spaniel
+1938,französische bulldogge
+1939,golden retriever
+1940,havaneser
+1941,jack russell terrier
+1942,jack russell terrier
+1943,labrador retriever
+1944,labrador retriever
+1945,magyar vizsla
+1946,malteser
+1947,malteser
+1948,mops
+1949,pekinese
+1950,toy-pudel
+1951,dackel (zwergdackel)
+1952,rottweiler
+1953,giant schnauzer
+1954,sheltie
+1955,shih tzu
+1956,staffordshire bull terrier
+1957,west highland white terrier
+1958,yorkshire terrier
+1959,yorkshire terrier
+1960,pinscher
+1961,zwergspitz
+1962,american pit bull terrier
+1963,american pit bull terrier
+1964,american staffordshire terrier
+1965,american staffordshire terrier
+1966,australian shepherd
+1967,beagle
+1968,berner sennenhund
+1969,border collie
+1970,border collie
+1971,cavalier king charles spaniel
+1972,chihuahua
+1973,chihuahua
+1974,chihuahua
+1975,cocker spaniel
+1976,dackel
+1977,dackel
+1978,deutscher schäferhund
+1979,deutscher schäferhund
+1980,dogo argentino
+1981,english cocker spaniel
+1982,flat-coated retriever
+1983,französische bulldogge
+1984,golden retriever
+1985,golden retriever
+1986,havaneser
+1987,havaneser
+1988,jack russell terrier
+1989,jack russell terrier
+1990,labrador retriever
+1991,labrador retriever
+1992,magyar vizsla
+1993,malteser
+1994,malteser
+1995,mops
+1996,papillon
+1997,jack russell terrier
+1998,pekinese
+1999,pekinese
+2000,toy-pudel
+2001,dackel (zwergdackel)
+2002,rhodesian ridgeback
+2003,rottweiler
+2004,giant schnauzer
+2005,shih tzu
+2006,siberian husky
+2007,staffordshire bull terrier
+2008,west highland white terrier
+2009,yorkshire terrier
+2010,pinscher
+2011,zwergpudel
+2012,giant schnauzer
+2013,zwergspitz
+2014,zwergspitz
+2015,american pit bull terrier
+2016,american staffordshire terrier
+2017,american staffordshire terrier
+2018,australian shepherd
+2019,beagle
+2020,beagle
+2021,berner sennenhund
+2022,berner sennenhund
+2023,border collie
+2024,border collie
+2025,boxer
+2026,dackel
+2027,cavalier king charles spaniel
+2028,chihuahua
+2029,chihuahua
+2030,chihuahua
+2031,dackel
+2032,dackel
+2033,deutscher schäferhund
+2034,deutscher schäferhund
+2035,english cocker spaniel
+2036,flat-coated retriever
+2037,französische bulldogge
+2038,golden retriever
+2039,golden retriever
+2040,havaneser
+2041,havaneser
+2042,jack russell terrier
+2043,jack russell terrier
+2044,großer münsterländer
+2045,labrador retriever
+2046,labrador retriever
+2047,magyar vizsla
+2048,malteser
+2049,mops
+2050,jack russell terrier
+2051,pekinese
+2052,toy-pudel
+2053,dackel (zwergdackel)
+2054,rottweiler
+2055,giant schnauzer
+2056,shih tzu
+2057,siberian husky
+2058,staffordshire bull terrier
+2059,tibetan terrier
+2060,west highland white terrier
+2061,yorkshire terrier
+2062,yorkshire terrier
+2063,pinscher
+2064,pinscher
+2065,american staffordshire terrier
+2066,australian shepherd
+2067,beagle
+2068,border collie
+2069,border collie
+2070,boxer
+2071,bullterrier
+2072,cavalier king charles spaniel
+2073,chihuahua
+2074,chihuahua
+2075,cocker spaniel
+2076,dackel
+2077,dackel
+2078,deutscher schäferhund
+2079,deutscher schäferhund
+2080,english cocker spaniel
+2081,flat-coated retriever
+2082,französische bulldogge
+2083,golden retriever
+2084,havaneser
+2085,havaneser
+2086,jack russell terrier
+2087,jack russell terrier
+2088,großer münsterländer
+2089,labrador retriever
+2090,labrador retriever
+2091,magyar vizsla
+2092,malteser
+2093,mops
+2094,jack russell terrier
+2095,toy-pudel
+2096,dackel (zwergdackel)
+2097,giant schnauzer
+2098,shih tzu
+2099,siberian husky
+2100,west highland white terrier
+2101,yorkshire terrier
+2102,pinscher
+2103,pinscher
+2104,zwergpudel
+2105,amerikanischer cocker spaniel
+2106,american pit bull terrier
+2107,american pit bull terrier
+2108,american staffordshire terrier
+2109,american staffordshire terrier
+2110,australian shepherd
+2111,beagle
+2112,berner sennenhund
+2113,berner sennenhund
+2114,border collie
+2115,border collie
+2116,border terrier
+2117,boxer
+2118,boxer
+2119,dackel
+2120,french bulldog
+2121,bullterrier
+2122,cavalier king charles spaniel
+2123,chihuahua
+2124,chihuahua
+2125,chihuahua
+2126,cocker spaniel
+2127,collie
+2128,collie
+2129,dackel
+2130,dackel
+2131,dalmatiner
+2132,deutsche dogge
+2133,deutscher schäferhund
+2134,deutscher schäferhund
+2135,dobermann
+2136,foxterrier
+2137,english cocker spaniel
+2138,english setter
+2139,flat-coated retriever
+2140,französische bulldogge
+2141,golden retriever
+2142,golden retriever
+2143,großer münsterländer
+2144,großpudel
+2145,havaneser
+2146,havaneser
+2147,hovawart
+2148,irish setter
+2149,jack russell terrier
+2150,jack russell terrier
+2151,labrador retriever
+2152,labrador retriever
+2153,magyar vizsla
+2154,malteser
+2155,malteser
+2156,mops
+2157,jack russell terrier
+2158,pekinese
+2159,pekinese
+2160,toy-pudel
+2161,toy-pudel
+2162,dackel (zwergdackel)
+2163,rhodesian ridgeback
+2164,rottweiler
+2165,rottweiler
+2166,giant schnauzer
+2167,sheltie
+2168,shih tzu
+2169,siberian husky
+2170,siberian husky
+2171,toy-pudel
+2172,weimaraner
+2173,weißer schweizer schäferhund
+2174,west highland white terrier
+2175,whippet
+2176,yorkshire terrier
+2177,yorkshire terrier
+2178,pinscher
+2179,pinscher
+2180,zwergpudel
+2181,zwergspitz
+2182,zwergspitz
+2183,american pit bull terrier
+2184,american staffordshire terrier
+2185,american staffordshire terrier
+2186,australian shepherd
+2187,beagle
+2188,berner sennenhund
+2189,border collie
+2190,border collie
+2191,boxer
+2192,dackel
+2193,bullterrier
+2194,chihuahua
+2195,chihuahua
+2196,chihuahua
+2197,cocker spaniel
+2198,collie
+2199,dackel
+2200,dackel
+2201,deutscher schäferhund
+2202,deutscher schäferhund
+2203,dogo argentino
+2204,foxterrier
+2205,english cocker spaniel
+2206,französische bulldogge
+2207,golden retriever
+2208,havaneser
+2209,havaneser
+2210,italienisches windspiel
+2211,jack russell terrier
+2212,jack russell terrier
+2213,labrador retriever
+2214,labrador retriever
+2215,magyar vizsla
+2216,malteser
+2217,malteser
+2218,mops
+2219,jack russell terrier
+2220,pekinese
+2221,pekinese
+2222,toy-pudel
+2223,toy-pudel
+2224,dackel (zwergdackel)
+2225,rottweiler
+2226,giant schnauzer
+2227,shih tzu
+2228,siberian husky
+2229,siberian husky
+2230,staffordshire bull terrier
+2231,west highland white terrier
+2232,yorkshire terrier
+2233,yorkshire terrier
+2234,pinscher
+2235,pinscher
+2236,zwergspitz
+2237,alaskan malamute
+2238,amerikanischer cocker spaniel
+2239,american pit bull terrier
+2240,american pit bull terrier
+2241,american staffordshire terrier
+2242,american staffordshire terrier
+2243,australian shepherd
+2244,beagle
+2245,beagle
+2246,bearded collie
+2247,deutscher schäferhund
+2248,deutscher schäferhund
+2249,berner sennenhund
+2250,berner sennenhund
+2251,bichon frisé
+2252,bordeauxdogge
+2253,border collie
+2254,border collie
+2255,boxer
+2256,dackel
+2257,dackel
+2258,french bulldog
+2259,bullmastiff
+2260,bullterrier
+2261,cairn terrier
+2262,cane corso
+2263,cavalier king charles spaniel
+2264,chihuahua
+2265,chihuahua
+2266,chihuahua
+2267,chinesischer schopfhund
+2268,cocker spaniel
+2269,cocker spaniel
+2270,collie
+2271,collie
+2272,dackel
+2273,dackel
+2274,dalmatiner
+2275,dalmatiner
+2276,deutsche dogge
+2277,deutsche dogge
+2278,schottischer terrier
+2279,deutscher pinscher
+2280,deutscher schäferhund
+2281,deutscher schäferhund
+2282,deutscher schäferhund
+2283,dobermann
+2284,dogo argentino
+2285,foxterrier
+2286,english cocker spaniel
+2287,english cocker spaniel
+2288,berner sennenhund
+2289,eurasier
+2290,flat-coated retriever
+2291,französische bulldogge
+2292,golden retriever
+2293,golden retriever
+2294,gordon setter
+2295,großer münsterländer
+2296,havaneser
+2297,havaneser
+2298,hovawart
+2299,irish setter
+2300,jack russell terrier
+2301,jack russell terrier
+2302,großer münsterländer
+2303,großer münsterländer
+2304,labrador retriever
+2305,labrador retriever
+2306,landseer
+2307,dackel
+2308,magyar vizsla
+2309,malinois
+2310,malteser
+2311,malteser
+2312,mops
+2313,mops
+2314,neufundländer
+2315,englische bulldogge
+2316,papillon
+2317,jack russell terrier
+2318,pekinese
+2319,pekinese
+2320,toy-pudel
+2321,toy-pudel
+2322,dackel (zwergdackel)
+2323,rhodesian ridgeback
+2324,giant schnauzer
+2325,rottweiler
+2326,rottweiler
+2327,giant schnauzer
+2328,giant schnauzer
+2329,scottish terrier
+2330,shar-pei
+2331,sheltie
+2332,shiba inu
+2333,shih tzu
+2334,shih tzu
+2335,siberian husky
+2336,siberian husky
+2337,spitz
+2338,spitz
+2339,staffordshire bull terrier
+2340,staffordshire bull terrier
+2341,tervueren
+2342,cocker spaniel
+2343,tibetan terrier
+2344,weimaraner
+2345,weißer schweizer schäferhund
+2346,west highland white terrier
+2347,whippet
+2348,yorkshire terrier
+2349,yorkshire terrier
+2350,pinscher
+2351,pinscher
+2352,zwergpudel
+2353,giant schnauzer
+2354,zwergspitz
+2355,zwergspitz
+2356,afghanischer windhund
+2357,airedale terrier
+2358,akita inu
+2359,alaskan malamute
+2360,amerikanischer cocker spaniel
+2361,american pit bull terrier
+2362,american pit bull terrier
+2363,american staffordshire terrier
+2364,american staffordshire terrier
+2365,australian shepherd
+2366,beagle
+2367,beagle
+2368,deutscher schäferhund
+2369,deutscher schäferhund
+2370,berner sennenhund
+2371,berner sennenhund
+2372,harrier
+2373,bichon frisé
+2374,bobtail
+2375,bolonka
+2376,bordeauxdogge
+2377,border collie
+2378,border collie
+2379,border terrier
+2380,boxer
+2381,boxer
+2382,dackel
+2383,french bulldog
+2384,bullmastiff
+2385,bullterrier
+2386,bullterrier
+2387,cairn terrier
+2388,cane corso
+2389,cavalier king charles spaniel
+2390,chihuahua
+2391,chihuahua
+2392,chihuahua
+2393,chinesischer schopfhund
+2394,chow chow
+2395,cocker spaniel
+2396,cocker spaniel
+2397,collie
+2398,collie
+2399,dackel
+2400,dackel
+2401,dalmatiner
+2402,dalmatiner
+2403,deutsche dogge
+2404,deutsche dogge
+2405,deutsche dogge
+2406,deutscher pinscher
+2407,deutscher pinscher
+2408,deutscher schäferhund
+2409,deutscher schäferhund
+2410,dobermann
+2411,dogo argentino
+2412,dogo argentino
+2413,foxterrier
+2414,elo
+2415,english cocker spaniel
+2416,english cocker spaniel
+2417,english springer spaniel
+2418,berner sennenhund
+2419,flat-coated retriever
+2420,französische bulldogge
+2421,foxterrier
+2422,golden retriever
+2423,golden retriever
+2424,gordon setter
+2425,großer münsterländer
+2426,havaneser
+2427,havaneser
+2428,hollandse herdershond
+2429,hovawart
+2430,irish setter
+2431,jack russell terrier
+2432,jack russell terrier
+2433,harrier
+2434,großer münsterländer
+2435,großer münsterländer
+2436,labrador retriever
+2437,labrador retriever
+2438,landseer
+2439,dackel
+2440,leonberger
+2441,lhasa apso
+2442,magyar vizsla
+2443,malinois
+2444,malteser
+2445,malteser
+2446,mops
+2447,mops
+2448,neufundländer
+2449,englische bulldogge
+2450,papillon
+2451,jack russell terrier
+2452,pekinese
+2453,pekinese
+2454,prager rattler
+2455,toy-pudel
+2456,toy-pudel
+2457,dackel (zwergdackel)
+2458,rhodesian ridgeback
+2459,giant schnauzer
+2460,rottweiler
+2461,rottweiler
+2462,giant schnauzer
+2463,giant schnauzer
+2464,scottish terrier
+2465,shar-pei
+2466,shar-pei
+2467,sheltie
+2468,shiba inu
+2469,shih tzu
+2470,shih tzu
+2471,siberian husky
+2472,siberian husky
+2473,afghanischer windhund
+2474,spitz
+2475,spitz
+2476,staffordshire bull terrier
+2477,staffordshire bull terrier
+2478,cocker spaniel
+2479,tibetan terrier
+2480,tibetan terrier
+2481,toy-pudel
+2482,weimaraner
+2483,weißer schweizer schäferhund
+2484,welsh terrier
+2485,west highland white terrier
+2486,whippet
+2487,yorkshire terrier
+2488,yorkshire terrier
+2489,pinscher
+2490,pinscher
+2491,zwergpudel
+2492,giant schnauzer
+2493,zwergspitz
+2494,zwergspitz
+2495,deutscher pinscher
+2496,deutscher pinscher
+2497,airedale terrier
+2498,amerikanischer cocker spaniel
+2499,american pit bull terrier
+2500,american pit bull terrier
+2501,american staffordshire terrier
+2502,american staffordshire terrier
+2503,australian shepherd
+2504,bayerischer gebirgsschweisshund
+2505,beagle
+2506,beagle
+2507,bearded collie
+2508,deutscher schäferhund
+2509,deutscher schäferhund
+2510,berner sennenhund
+2511,berner sennenhund
+2512,bichon frisé
+2513,bolonka
+2514,border collie
+2515,border collie
+2516,boxer
+2517,dackel
+2518,bullterrier
+2519,cairn terrier
+2520,cane corso
+2521,cavalier king charles spaniel
+2522,chihuahua
+2523,chihuahua
+2524,chihuahua
+2525,cocker spaniel
+2526,collie
+2527,collie
+2528,dackel
+2529,dackel
+2530,dalmatiner
+2531,deutsche dogge
+2532,deutscher pinscher
+2533,deutscher schäferhund
+2534,deutscher schäferhund
+2535,dobermann
+2536,foxterrier
+2537,english cocker spaniel
+2538,berner sennenhund
+2539,flat-coated retriever
+2540,französische bulldogge
+2541,golden retriever
+2542,golden retriever
+2543,greyhound
+2544,havaneser
+2545,havaneser
+2546,hovawart
+2547,irish setter
+2548,jack russell terrier
+2549,jack russell terrier
+2550,großer münsterländer
+2551,labrador retriever
+2552,labrador retriever
+2553,dackel
+2554,magyar vizsla
+2555,malinois
+2556,malteser
+2557,malteser
+2558,mops
+2559,papillon
+2560,jack russell terrier
+2561,pekinese
+2562,pekinese
+2563,toy-pudel
+2564,toy-pudel
+2565,puli
+2566,dackel (zwergdackel)
+2567,rhodesian ridgeback
+2568,rottweiler
+2569,rottweiler
+2570,schapendoes
+2571,giant schnauzer
+2572,giant schnauzer
+2573,sheltie
+2574,shiba inu
+2575,shih tzu
+2576,siberian husky
+2577,siberian husky
+2578,spitz
+2579,staffordshire bull terrier
+2580,tibetan terrier
+2581,weißer schweizer schäferhund
+2582,west highland white terrier
+2583,whippet
+2584,yorkshire terrier
+2585,yorkshire terrier
+2586,pinscher
+2587,pinscher
+2588,zwergpudel
+2589,giant schnauzer
+2590,zwergspitz
+2591,zwergspitz
+2592,beagle
+2593,boxer
+2594,chihuahua
+2595,dackel
+2596,deutscher schäferhund
+2597,english cocker spaniel
+2598,flat-coated retriever
+2599,golden retriever
+2600,havaneser
+2601,jack russell terrier
+2602,labrador retriever
+2603,labrador retriever
+2604,malteser
+2605,mops
+2606,jack russell terrier
+2607,toy-pudel
+2608,shih tzu
+2609,toy-pudel
+2610,west highland white terrier
+2611,yorkshire terrier
+2612,amerikanischer cocker spaniel
+2613,american pit bull terrier
+2614,american pit bull terrier
+2615,american staffordshire terrier
+2616,american staffordshire terrier
+2617,australian shepherd
+2618,beagle
+2619,beagle
+2620,berner sennenhund
+2621,border collie
+2622,border collie
+2623,boxer
+2624,cavalier king charles spaniel
+2625,chihuahua
+2626,chihuahua
+2627,chihuahua
+2628,collie
+2629,collie
+2630,dackel
+2631,dackel
+2632,deutsche dogge
+2633,deutscher schäferhund
+2634,deutscher schäferhund
+2635,english cocker spaniel
+2636,english cocker spaniel
+2637,französische bulldogge
+2638,golden retriever
+2639,golden retriever
+2640,havaneser
+2641,havaneser
+2642,jack russell terrier
+2643,jack russell terrier
+2644,großer münsterländer
+2645,labrador retriever
+2646,labrador retriever
+2647,magyar vizsla
+2648,malinois
+2649,malteser
+2650,malteser
+2651,mops
+2652,jack russell terrier
+2653,pekinese
+2654,pekinese
+2655,toy-pudel
+2656,dackel (zwergdackel)
+2657,rottweiler
+2658,giant schnauzer
+2659,shih tzu
+2660,siberian husky
+2661,siberian husky
+2662,afghanischer windhund
+2663,staffordshire bull terrier
+2664,west highland white terrier
+2665,yorkshire terrier
+2666,yorkshire terrier
+2667,pinscher
+2668,pinscher
+2669,zwergspitz
+2670,zwergspitz
+2671,american pit bull terrier
+2672,american staffordshire terrier
+2673,american staffordshire terrier
+2674,australian shepherd
+2675,beagle
+2676,border collie
+2677,border collie
+2678,boxer
+2679,dackel
+2680,french bulldog
+2681,cavalier king charles spaniel
+2682,chihuahua
+2683,chihuahua
+2684,chihuahua
+2685,cocker spaniel
+2686,collie
+2687,collie
+2688,dackel
+2689,dackel
+2690,deutscher schäferhund
+2691,deutscher schäferhund
+2692,english cocker spaniel
+2693,französische bulldogge
+2694,golden retriever
+2695,golden retriever
+2696,havaneser
+2697,havaneser
+2698,jack russell terrier
+2699,jack russell terrier
+2700,großer münsterländer
+2701,labrador retriever
+2702,labrador retriever
+2703,magyar vizsla
+2704,malteser
+2705,malteser
+2706,mops
+2707,jack russell terrier
+2708,pekinese
+2709,pekinese
+2710,toy-pudel
+2711,dackel (zwergdackel)
+2712,rottweiler
+2713,shih tzu
+2714,siberian husky
+2715,siberian husky
+2716,west highland white terrier
+2717,whippet
+2718,yorkshire terrier
+2719,yorkshire terrier
+2720,pinscher
+2721,pinscher
+2722,zwergpudel
+2723,giant schnauzer
+2724,zwergspitz
+2725,american staffordshire terrier
+2726,beagle
+2727,chihuahua
+2728,chihuahua
+2729,dackel
+2730,dackel
+2731,deutscher schäferhund
+2732,deutscher schäferhund
+2733,english cocker spaniel
+2734,französische bulldogge
+2735,golden retriever
+2736,jack russell terrier
+2737,labrador retriever
+2738,labrador retriever
+2739,malteser
+2740,mops
+2741,jack russell terrier
+2742,dackel (zwergdackel)
+2743,west highland white terrier
+2744,yorkshire terrier
+2745,american pit bull terrier
+2746,american staffordshire terrier
+2747,american staffordshire terrier
+2748,beagle
+2749,chihuahua
+2750,chihuahua
+2751,chihuahua
+2752,dackel
+2753,dackel
+2754,deutscher schäferhund
+2755,deutscher schäferhund
+2756,english cocker spaniel
+2757,französische bulldogge
+2758,golden retriever
+2759,havaneser
+2760,havaneser
+2761,jack russell terrier
+2762,jack russell terrier
+2763,labrador retriever
+2764,labrador retriever
+2765,magyar vizsla
+2766,malteser
+2767,mops
+2768,pekinese
+2769,toy-pudel
+2770,dackel (zwergdackel)
+2771,rottweiler
+2772,west highland white terrier
+2773,whippet
+2774,yorkshire terrier
+2775,yorkshire terrier
+2776,pinscher
+2777,american staffordshire terrier
+2778,australian shepherd
+2779,beagle
+2780,cavalier king charles spaniel
+2781,chihuahua
+2782,dackel
+2783,english cocker spaniel
+2784,französische bulldogge
+2785,golden retriever
+2786,havaneser
+2787,italienisches windspiel
+2788,jack russell terrier
+2789,labrador retriever
+2790,labrador retriever
+2791,malteser
+2792,mops
+2793,shih tzu
+2794,west highland white terrier
+2795,yorkshire terrier
+2796,pinscher
+2797,american staffordshire terrier
+2798,beagle
+2799,chihuahua
+2800,dackel
+2801,dackel
+2802,deutscher schäferhund
+2803,english cocker spaniel
+2804,französische bulldogge
+2805,golden retriever
+2806,golden retriever
+2807,havaneser
+2808,jack russell terrier
+2809,jack russell terrier
+2810,labrador retriever
+2811,labrador retriever
+2812,malteser
+2813,mops
+2814,yorkshire terrier
+2815,beagle
+2816,border collie
+2817,cavalier king charles spaniel
+2818,chihuahua
+2819,deutscher schäferhund
+2820,golden retriever
+2821,havaneser
+2822,jack russell terrier
+2823,labrador retriever
+2824,labrador retriever
+2825,magyar vizsla
+2826,malteser
+2827,mops
+2828,shih tzu
+2829,american staffordshire terrier
+2830,american staffordshire terrier
+2831,beagle
+2832,cavalier king charles spaniel
+2833,chihuahua
+2834,dackel
+2835,dackel
+2836,deutscher schäferhund
+2837,deutscher schäferhund
+2838,english cocker spaniel
+2839,französische bulldogge
+2840,golden retriever
+2841,golden retriever
+2842,havaneser
+2843,jack russell terrier
+2844,jack russell terrier
+2845,labrador retriever
+2846,labrador retriever
+2847,malteser
+2848,mops
+2849,jack russell terrier
+2850,shih tzu
+2851,siberian husky
+2852,west highland white terrier
+2853,yorkshire terrier
+2854,pinscher
+2855,akita inu
+2856,amerikanischer cocker spaniel
+2857,american pit bull terrier
+2858,american pit bull terrier
+2859,american staffordshire terrier
+2860,american staffordshire terrier
+2861,australian shepherd
+2862,beagle
+2863,beagle
+2864,deutscher schäferhund
+2865,berner sennenhund
+2866,berner sennenhund
+2867,bichon frisé
+2868,bordeauxdogge
+2869,border collie
+2870,border collie
+2871,boxer
+2872,boxer
+2873,dackel
+2874,french bulldog
+2875,bullterrier
+2876,cane corso
+2877,cavalier king charles spaniel
+2878,chihuahua
+2879,chihuahua
+2880,chihuahua
+2881,chinesischer schopfhund
+2882,chinesischer schopfhund
+2883,cocker spaniel
+2884,cocker spaniel
+2885,collie
+2886,dackel
+2887,dackel
+2888,dalmatiner
+2889,deutsche dogge
+2890,deutscher pinscher
+2891,deutscher schäferhund
+2892,deutscher schäferhund
+2893,dobermann
+2894,dobermann
+2895,dogo argentino
+2896,foxterrier
+2897,foxterrier
+2898,english cocker spaniel
+2899,english cocker spaniel
+2900,berner sennenhund
+2901,flat-coated retriever
+2902,französische bulldogge
+2903,golden retriever
+2904,golden retriever
+2905,havaneser
+2906,havaneser
+2907,hovawart
+2908,jack russell terrier
+2909,jack russell terrier
+2910,großer münsterländer
+2911,labrador retriever
+2912,labrador retriever
+2913,dackel
+2914,lhasa apso
+2915,magyar vizsla
+2916,malinois
+2917,malteser
+2918,malteser
+2919,mops
+2920,englische bulldogge
+2921,papillon
+2922,jack russell terrier
+2923,pekinese
+2924,pekinese
+2925,toy-pudel
+2926,toy-pudel
+2927,dackel (zwergdackel)
+2928,dackel (zwergdackel)
+2929,rhodesian ridgeback
+2930,rottweiler
+2931,rottweiler
+2932,giant schnauzer
+2933,giant schnauzer
+2934,shar-pei
+2935,sheltie
+2936,shiba inu
+2937,shih tzu
+2938,shih tzu
+2939,siberian husky
+2940,siberian husky
+2941,spitz
+2942,spitz
+2943,staffordshire bull terrier
+2944,staffordshire bull terrier
+2945,tibetan terrier
+2946,weißer schweizer schäferhund
+2947,west highland white terrier
+2948,whippet
+2949,yorkshire terrier
+2950,yorkshire terrier
+2951,pinscher
+2952,pinscher
+2953,zwergpudel
+2954,giant schnauzer
+2955,zwergspitz
+2956,zwergspitz
+2957,deutscher pinscher
+2958,deutscher pinscher
+2959,airedale terrier
+2960,amerikanischer cocker spaniel
+2961,american pit bull terrier
+2962,american pit bull terrier
+2963,american staffordshire terrier
+2964,american staffordshire terrier
+2965,australian shepherd
+2966,beagle
+2967,beagle
+2968,deutscher schäferhund
+2969,berner sennenhund
+2970,berner sennenhund
+2971,border collie
+2972,border collie
+2973,boxer
+2974,dackel
+2975,french bulldog
+2976,bullterrier
+2977,cavalier king charles spaniel
+2978,chihuahua
+2979,chihuahua
+2980,chihuahua
+2981,cocker spaniel
+2982,collie
+2983,dackel
+2984,dackel
+2985,deutscher pinscher
+2986,deutscher schäferhund
+2987,deutscher schäferhund
+2988,dobermann
+2989,dogo argentino
+2990,foxterrier
+2991,english cocker spaniel
+2992,english cocker spaniel
+2993,flat-coated retriever
+2994,französische bulldogge
+2995,golden retriever
+2996,golden retriever
+2997,havaneser
+2998,havaneser
+2999,hovawart
+3000,jack russell terrier
+3001,jack russell terrier
+3002,labrador retriever
+3003,labrador retriever
+3004,dackel
+3005,magyar vizsla
+3006,malinois
+3007,malteser
+3008,malteser
+3009,mops
+3010,englische bulldogge
+3011,papillon
+3012,jack russell terrier
+3013,pekinese
+3014,pekinese
+3015,toy-pudel
+3016,dackel (zwergdackel)
+3017,rhodesian ridgeback
+3018,rottweiler
+3019,rottweiler
+3020,samoyed
+3021,giant schnauzer
+3022,giant schnauzer
+3023,shar-pei
+3024,sheltie
+3025,shih tzu
+3026,siberian husky
+3027,siberian husky
+3028,spitz
+3029,staffordshire bull terrier
+3030,staffordshire bull terrier
+3031,west highland white terrier
+3032,whippet
+3033,yorkshire terrier
+3034,yorkshire terrier
+3035,pinscher
+3036,pinscher
+3037,zwergpudel
+3038,zwergspitz
+3039,zwergspitz
+3040,deutscher pinscher
+3041,american pit bull terrier
+3042,american pit bull terrier
+3043,american staffordshire terrier
+3044,american staffordshire terrier
+3045,australian shepherd
+3046,beagle
+3047,beagle
+3048,berner sennenhund
+3049,border collie
+3050,border collie
+3051,bullterrier
+3052,cane corso
+3053,cavalier king charles spaniel
+3054,chihuahua
+3055,chihuahua
+3056,chihuahua
+3057,cocker spaniel
+3058,dackel
+3059,dackel
+3060,deutscher schäferhund
+3061,deutscher schäferhund
+3062,foxterrier
+3063,english cocker spaniel
+3064,english cocker spaniel
+3065,französische bulldogge
+3066,golden retriever
+3067,golden retriever
+3068,havaneser
+3069,havaneser
+3070,jack russell terrier
+3071,jack russell terrier
+3072,labrador retriever
+3073,labrador retriever
+3074,malteser
+3075,malteser
+3076,mops
+3077,jack russell terrier
+3078,pekinese
+3079,pekinese
+3080,toy-pudel
+3081,toy-pudel
+3082,dackel (zwergdackel)
+3083,rottweiler
+3084,giant schnauzer
+3085,shar-pei
+3086,shih tzu
+3087,siberian husky
+3088,staffordshire bull terrier
+3089,west highland white terrier
+3090,whippet
+3091,yorkshire terrier
+3092,yorkshire terrier
+3093,pinscher
+3094,pinscher
+3095,zwergpudel
+3096,giant schnauzer
+3097,zwergspitz
+3098,airedale terrier
+3099,american staffordshire terrier
+3100,australian shepherd
+3101,bayerischer gebirgsschweisshund
+3102,beagle
+3103,deutscher schäferhund
+3104,berner sennenhund
+3105,bichon frisé
+3106,border collie
+3107,border collie
+3108,boxer
+3109,cairn terrier
+3110,chihuahua
+3111,chihuahua
+3112,cocker spaniel
+3113,collie
+3114,dackel
+3115,dackel
+3116,dalmatiner
+3117,deutsche dogge
+3118,deutscher schäferhund
+3119,deutscher schäferhund
+3120,english cocker spaniel
+3121,berner sennenhund
+3122,flat-coated retriever
+3123,französische bulldogge
+3124,golden retriever
+3125,golden retriever
+3126,havaneser
+3127,havaneser
+3128,hovawart
+3129,irish setter
+3130,jack russell terrier
+3131,jack russell terrier
+3132,großer münsterländer
+3133,labrador retriever
+3134,labrador retriever
+3135,lhasa apso
+3136,magyar vizsla
+3137,malteser
+3138,malteser
+3139,mops
+3140,papillon
+3141,jack russell terrier
+3142,toy-pudel
+3143,dackel (zwergdackel)
+3144,rottweiler
+3145,giant schnauzer
+3146,shih tzu
+3147,siberian husky
+3148,staffordshire bull terrier
+3149,tibetan terrier
+3150,weimaraner
+3151,west highland white terrier
+3152,yorkshire terrier
+3153,pinscher
+3154,pinscher
+3155,zwergpudel
+3156,zwergspitz
+3157,zwergspitz
+3158,amerikanischer cocker spaniel
+3159,american pit bull terrier
+3160,american pit bull terrier
+3161,american staffordshire terrier
+3162,american staffordshire terrier
+3163,australian shepherd
+3164,beagle
+3165,beagle
+3166,berner sennenhund
+3167,bichon frisé
+3168,border collie
+3169,border collie
+3170,boxer
+3171,dackel
+3172,bullterrier
+3173,cavalier king charles spaniel
+3174,chihuahua
+3175,chihuahua
+3176,cocker spaniel
+3177,collie
+3178,dackel
+3179,dackel
+3180,deutsche dogge
+3181,deutscher schäferhund
+3182,deutscher schäferhund
+3183,dobermann
+3184,dogo argentino
+3185,foxterrier
+3186,english cocker spaniel
+3187,flat-coated retriever
+3188,französische bulldogge
+3189,golden retriever
+3190,golden retriever
+3191,havaneser
+3192,havaneser
+3193,hovawart
+3194,jack russell terrier
+3195,jack russell terrier
+3196,großer münsterländer
+3197,labrador retriever
+3198,labrador retriever
+3199,lagotto romagnolo
+3200,magyar vizsla
+3201,malinois
+3202,malteser
+3203,malteser
+3204,mops
+3205,papillon
+3206,jack russell terrier
+3207,pekinese
+3208,pekinese
+3209,toy-pudel
+3210,toy-pudel
+3211,dackel (zwergdackel)
+3212,rhodesian ridgeback
+3213,rottweiler
+3214,giant schnauzer
+3215,sheltie
+3216,shiba inu
+3217,shih tzu
+3218,siberian husky
+3219,siberian husky
+3220,spitz
+3221,staffordshire bull terrier
+3222,staffordshire bull terrier
+3223,weimaraner
+3224,west highland white terrier
+3225,whippet
+3226,yorkshire terrier
+3227,yorkshire terrier
+3228,pinscher
+3229,pinscher
+3230,zwergpudel
+3231,giant schnauzer
+3232,zwergspitz
+3233,zwergspitz
+3234,american pit bull terrier
+3235,american staffordshire terrier
+3236,american staffordshire terrier
+3237,australian shepherd
+3238,beagle
+3239,border collie
+3240,border collie
+3241,chihuahua
+3242,chihuahua
+3243,chihuahua
+3244,collie
+3245,dackel
+3246,dackel
+3247,deutscher schäferhund
+3248,deutscher schäferhund
+3249,dobermann
+3250,foxterrier
+3251,english cocker spaniel
+3252,französische bulldogge
+3253,golden retriever
+3254,havaneser
+3255,jack russell terrier
+3256,jack russell terrier
+3257,labrador retriever
+3258,labrador retriever
+3259,magyar vizsla
+3260,malteser
+3261,malteser
+3262,mops
+3263,pekinese
+3264,toy-pudel
+3265,dackel (zwergdackel)
+3266,rottweiler
+3267,giant schnauzer
+3268,shih tzu
+3269,siberian husky
+3270,staffordshire bull terrier
+3271,west highland white terrier
+3272,yorkshire terrier
+3273,yorkshire terrier
+3274,pinscher
+3275,zwergpudel
+3276,zwergspitz
+3277,akita inu
+3278,american pit bull terrier
+3279,american pit bull terrier
+3280,american staffordshire terrier
+3281,american staffordshire terrier
+3282,australian shepherd
+3283,beagle
+3284,berner sennenhund
+3285,border collie
+3286,border collie
+3287,cavalier king charles spaniel
+3288,chihuahua
+3289,chihuahua
+3290,chihuahua
+3291,cocker spaniel
+3292,dackel
+3293,dackel
+3294,deutscher schäferhund
+3295,deutscher schäferhund
+3296,dogo argentino
+3297,english cocker spaniel
+3298,flat-coated retriever
+3299,französische bulldogge
+3300,golden retriever
+3301,golden retriever
+3302,havaneser
+3303,havaneser
+3304,jack russell terrier
+3305,jack russell terrier
+3306,labrador retriever
+3307,labrador retriever
+3308,magyar vizsla
+3309,malteser
+3310,malteser
+3311,mops
+3312,jack russell terrier
+3313,pekinese
+3314,pekinese
+3315,toy-pudel
+3316,dackel (zwergdackel)
+3317,rhodesian ridgeback
+3318,rottweiler
+3319,giant schnauzer
+3320,shih tzu
+3321,siberian husky
+3322,staffordshire bull terrier
+3323,west highland white terrier
+3324,yorkshire terrier
+3325,pinscher
+3326,pinscher
+3327,zwergpudel
+3328,giant schnauzer
+3329,zwergspitz
+3330,zwergspitz
+3331,american pit bull terrier
+3332,american staffordshire terrier
+3333,american staffordshire terrier
+3334,australian shepherd
+3335,beagle
+3336,beagle
+3337,berner sennenhund
+3338,berner sennenhund
+3339,border collie
+3340,boxer
+3341,dackel
+3342,cavalier king charles spaniel
+3343,chihuahua
+3344,chihuahua
+3345,chihuahua
+3346,cocker spaniel
+3347,dackel
+3348,dackel
+3349,deutscher schäferhund
+3350,deutscher schäferhund
+3351,english cocker spaniel
+3352,flat-coated retriever
+3353,französische bulldogge
+3354,golden retriever
+3355,golden retriever
+3356,havaneser
+3357,havaneser
+3358,jack russell terrier
+3359,jack russell terrier
+3360,großer münsterländer
+3361,labrador retriever
+3362,labrador retriever
+3363,magyar vizsla
+3364,malteser
+3365,mops
+3366,papillon
+3367,jack russell terrier
+3368,toy-pudel
+3369,dackel (zwergdackel)
+3370,rottweiler
+3371,giant schnauzer
+3372,shih tzu
+3373,siberian husky
+3374,staffordshire bull terrier
+3375,tibetan terrier
+3376,west highland white terrier
+3377,yorkshire terrier
+3378,yorkshire terrier
+3379,pinscher
+3380,pinscher
+3381,zwergspitz
+3382,american staffordshire terrier
+3383,australian shepherd
+3384,beagle
+3385,border collie
+3386,border collie
+3387,boxer
+3388,chihuahua
+3389,chihuahua
+3390,cocker spaniel
+3391,collie
+3392,dackel
+3393,dackel
+3394,deutsche dogge
+3395,deutscher schäferhund
+3396,deutscher schäferhund
+3397,english cocker spaniel
+3398,französische bulldogge
+3399,golden retriever
+3400,havaneser
+3401,havaneser
+3402,jack russell terrier
+3403,labrador retriever
+3404,labrador retriever
+3405,magyar vizsla
+3406,malteser
+3407,mops
+3408,englische bulldogge
+3409,jack russell terrier
+3410,toy-pudel
+3411,dackel (zwergdackel)
+3412,giant schnauzer
+3413,shih tzu
+3414,siberian husky
+3415,west highland white terrier
+3416,yorkshire terrier
+3417,pinscher
+3418,pinscher
+3419,zwergpudel
+3420,amerikanischer cocker spaniel
+3421,american pit bull terrier
+3422,american pit bull terrier
+3423,american staffordshire terrier
+3424,american staffordshire terrier
+3425,australian shepherd
+3426,basset hound
+3427,bayerischer gebirgsschweisshund
+3428,beagle
+3429,deutscher schäferhund
+3430,berner sennenhund
+3431,berner sennenhund
+3432,border collie
+3433,border collie
+3434,border terrier
+3435,boxer
+3436,boxer
+3437,dackel
+3438,bullterrier
+3439,cavalier king charles spaniel
+3440,chihuahua
+3441,chihuahua
+3442,chihuahua
+3443,cocker spaniel
+3444,collie
+3445,collie
+3446,dackel
+3447,dackel
+3448,deutsche dogge
+3449,deutscher schäferhund
+3450,deutscher schäferhund
+3451,dobermann
+3452,foxterrier
+3453,english cocker spaniel
+3454,english setter
+3455,flat-coated retriever
+3456,französische bulldogge
+3457,golden retriever
+3458,golden retriever
+3459,großer münsterländer
+3460,großpudel
+3461,havaneser
+3462,havaneser
+3463,hovawart
+3464,irish setter
+3465,irish terrier
+3466,jack russell terrier
+3467,jack russell terrier
+3468,labradoodle
+3469,labrador retriever
+3470,labrador retriever
+3471,magyar vizsla
+3472,malteser
+3473,malteser
+3474,mops
+3475,papillon
+3476,jack russell terrier
+3477,pekinese
+3478,pekinese
+3479,toy-pudel
+3480,toy-pudel
+3481,dackel (zwergdackel)
+3482,rhodesian ridgeback
+3483,rottweiler
+3484,rottweiler
+3485,giant schnauzer
+3486,sheltie
+3487,shih tzu
+3488,siberian husky
+3489,siberian husky
+3490,toy-pudel
+3491,weimaraner
+3492,weißer schweizer schäferhund
+3493,west highland white terrier
+3494,whippet
+3495,yorkshire terrier
+3496,yorkshire terrier
+3497,pinscher
+3498,pinscher
+3499,zwergpudel
+3500,zwergspitz
+3501,zwergspitz
+3502,american pit bull terrier
+3503,american staffordshire terrier
+3504,american staffordshire terrier
+3505,australian shepherd
+3506,beagle
+3507,beagle
+3508,berner sennenhund
+3509,border collie
+3510,border collie
+3511,boxer
+3512,dackel
+3513,bullterrier
+3514,chihuahua
+3515,chihuahua
+3516,chihuahua
+3517,cocker spaniel
+3518,collie
+3519,dackel
+3520,dackel
+3521,deutscher schäferhund
+3522,deutscher schäferhund
+3523,dogo argentino
+3524,english cocker spaniel
+3525,französische bulldogge
+3526,golden retriever
+3527,havaneser
+3528,havaneser
+3529,italienisches windspiel
+3530,jack russell terrier
+3531,jack russell terrier
+3532,labrador retriever
+3533,labrador retriever
+3534,magyar vizsla
+3535,malteser
+3536,malteser
+3537,mops
+3538,jack russell terrier
+3539,pekinese
+3540,pekinese
+3541,toy-pudel
+3542,toy-pudel
+3543,dackel (zwergdackel)
+3544,rottweiler
+3545,giant schnauzer
+3546,shih tzu
+3547,siberian husky
+3548,spitz
+3549,staffordshire bull terrier
+3550,west highland white terrier
+3551,yorkshire terrier
+3552,yorkshire terrier
+3553,pinscher
+3554,pinscher
+3555,zwergspitz
+3556,akita inu
+3557,alaskan malamute
+3558,amerikanischer cocker spaniel
+3559,american pit bull terrier
+3560,american pit bull terrier
+3561,american staffordshire terrier
+3562,american staffordshire terrier
+3563,australian shepherd
+3564,beagle
+3565,beagle
+3566,bearded collie
+3567,deutscher schäferhund
+3568,deutscher schäferhund
+3569,berner sennenhund
+3570,berner sennenhund
+3571,bichon frisé
+3572,bolonka
+3573,bordeauxdogge
+3574,border collie
+3575,border collie
+3576,boxer
+3577,dackel
+3578,dackel
+3579,french bulldog
+3580,bullmastiff
+3581,bullterrier
+3582,cairn terrier
+3583,cane corso
+3584,cavalier king charles spaniel
+3585,chihuahua
+3586,chihuahua
+3587,chihuahua
+3588,chihuahua
+3589,chinesischer schopfhund
+3590,cocker spaniel
+3591,cocker spaniel
+3592,collie
+3593,collie
+3594,dackel
+3595,dackel
+3596,dalmatiner
+3597,dalmatiner
+3598,deutsche dogge
+3599,deutsche dogge
+3600,schottischer terrier
+3601,deutscher pinscher
+3602,deutscher schäferhund
+3603,deutscher schäferhund
+3604,deutscher schäferhund
+3605,dobermann
+3606,dogo argentino
+3607,foxterrier
+3608,english cocker spaniel
+3609,english cocker spaniel
+3610,berner sennenhund
+3611,eurasier
+3612,flat-coated retriever
+3613,französische bulldogge
+3614,golden retriever
+3615,golden retriever
+3616,gordon setter
+3617,großpudel
+3618,havaneser
+3619,havaneser
+3620,hovawart
+3621,irish setter
+3622,jack russell terrier
+3623,jack russell terrier
+3624,großer münsterländer
+3625,großer münsterländer
+3626,kuvasz
+3627,labradoodle
+3628,labrador retriever
+3629,labrador retriever
+3630,landseer
+3631,dackel
+3632,magyar vizsla
+3633,malinois
+3634,malteser
+3635,malteser
+3636,mops
+3637,mops
+3638,englische bulldogge
+3639,papillon
+3640,jack russell terrier
+3641,pekinese
+3642,pekinese
+3643,prager rattler
+3644,toy-pudel
+3645,toy-pudel
+3646,dackel (zwergdackel)
+3647,rhodesian ridgeback
+3648,giant schnauzer
+3649,rottweiler
+3650,rottweiler
+3651,giant schnauzer
+3652,giant schnauzer
+3653,scottish terrier
+3654,shar-pei
+3655,sheltie
+3656,shiba inu
+3657,shih tzu
+3658,shih tzu
+3659,siberian husky
+3660,siberian husky
+3661,spitz
+3662,spitz
+3663,staffordshire bull terrier
+3664,staffordshire bull terrier
+3665,tervueren
+3666,cocker spaniel
+3667,weimaraner
+3668,weißer schweizer schäferhund
+3669,welsh terrier
+3670,west highland white terrier
+3671,whippet
+3672,yorkshire terrier
+3673,yorkshire terrier
+3674,pinscher
+3675,pinscher
+3676,zwergpudel
+3677,giant schnauzer
+3678,zwergspitz
+3679,zwergspitz
+3680,deutscher pinscher
+3681,afghanischer windhund
+3682,airedale terrier
+3683,akita inu
+3684,alaskan malamute
+3685,amerikanischer cocker spaniel
+3686,american pit bull terrier
+3687,american pit bull terrier
+3688,american staffordshire terrier
+3689,american staffordshire terrier
+3690,australian shepherd
+3691,beagle
+3692,beagle
+3693,deutscher schäferhund
+3694,deutscher schäferhund
+3695,berner sennenhund
+3696,berner sennenhund
+3697,harrier
+3698,bichon frisé
+3699,bobtail
+3700,bolonka
+3701,bordeauxdogge
+3702,border collie
+3703,border collie
+3704,border terrier
+3705,boxer
+3706,boxer
+3707,dackel
+3708,french bulldog
+3709,bullmastiff
+3710,bullterrier
+3711,bullterrier
+3712,cairn terrier
+3713,cane corso
+3714,cavalier king charles spaniel
+3715,chihuahua
+3716,chihuahua
+3717,chihuahua
+3718,chihuahua
+3719,chinesischer schopfhund
+3720,chow chow
+3721,cocker spaniel
+3722,cocker spaniel
+3723,collie
+3724,collie
+3725,dackel
+3726,dackel
+3727,dalmatiner
+3728,deutsche dogge
+3729,deutsche dogge
+3730,deutsche dogge
+3731,deutscher pinscher
+3732,deutscher pinscher
+3733,deutscher schäferhund
+3734,deutscher schäferhund
+3735,dobermann
+3736,dogo argentino
+3737,dogo argentino
+3738,foxterrier
+3739,elo
+3740,english cocker spaniel
+3741,english cocker spaniel
+3742,english springer spaniel
+3743,berner sennenhund
+3744,eurasier
+3745,flat-coated retriever
+3746,französische bulldogge
+3747,foxterrier
+3748,golden retriever
+3749,golden retriever
+3750,gordon setter
+3751,havaneser
+3752,havaneser
+3753,hollandse herdershond
+3754,hovawart
+3755,irish setter
+3756,irish wolfhound
+3757,jack russell terrier
+3758,jack russell terrier
+3759,harrier
+3760,großer münsterländer
+3761,großer münsterländer
+3762,labrador retriever
+3763,labrador retriever
+3764,landseer
+3765,dackel
+3766,leonberger
+3767,lhasa apso
+3768,magyar vizsla
+3769,malinois
+3770,malteser
+3771,malteser
+3772,mops
+3773,mops
+3774,neufundländer
+3775,englische bulldogge
+3776,papillon
+3777,jack russell terrier
+3778,pekinese
+3779,pekinese
+3780,prager rattler
+3781,toy-pudel
+3782,toy-pudel
+3783,dackel (zwergdackel)
+3784,rhodesian ridgeback
+3785,giant schnauzer
+3786,rottweiler
+3787,rottweiler
+3788,giant schnauzer
+3789,giant schnauzer
+3790,shar-pei
+3791,sheltie
+3792,shiba inu
+3793,shih tzu
+3794,shih tzu
+3795,siberian husky
+3796,siberian husky
+3797,afghanischer windhund
+3798,spitz
+3799,spitz
+3800,staffordshire bull terrier
+3801,staffordshire bull terrier
+3802,cocker spaniel
+3803,tibetan terrier
+3804,tibetan terrier
+3805,toy-pudel
+3806,weimaraner
+3807,weißer schweizer schäferhund
+3808,welsh terrier
+3809,west highland white terrier
+3810,whippet
+3811,yorkshire terrier
+3812,yorkshire terrier
+3813,pinscher
+3814,pinscher
+3815,zwergpudel
+3816,giant schnauzer
+3817,zwergspitz
+3818,zwergspitz
+3819,deutscher pinscher
+3820,deutscher pinscher
+3821,airedale terrier
+3822,akita inu
+3823,alaskan malamute
+3824,american pit bull terrier
+3825,american pit bull terrier
+3826,american staffordshire terrier
+3827,american staffordshire terrier
+3828,australian shepherd
+3829,bayerischer gebirgsschweisshund
+3830,beagle
+3831,beagle
+3832,bearded collie
+3833,deutscher schäferhund
+3834,deutscher schäferhund
+3835,berner sennenhund
+3836,berner sennenhund
+3837,bichon frisé
+3838,bolonka
+3839,border collie
+3840,border collie
+3841,boxer
+3842,dackel
+3843,bullterrier
+3844,cairn terrier
+3845,cane corso
+3846,cavalier king charles spaniel
+3847,chihuahua
+3848,chihuahua
+3849,chihuahua
+3850,cocker spaniel
+3851,collie
+3852,collie
+3853,dackel
+3854,dackel
+3855,dalmatiner
+3856,deutsche dogge
+3857,deutsche dogge
+3858,deutscher pinscher
+3859,deutscher schäferhund
+3860,deutscher schäferhund
+3861,dobermann
+3862,foxterrier
+3863,english cocker spaniel
+3864,berner sennenhund
+3865,flat-coated retriever
+3866,französische bulldogge
+3867,golden retriever
+3868,golden retriever
+3869,havaneser
+3870,havaneser
+3871,hovawart
+3872,irish setter
+3873,jack russell terrier
+3874,jack russell terrier
+3875,großer münsterländer
+3876,labrador retriever
+3877,labrador retriever
+3878,lhasa apso
+3879,magyar vizsla
+3880,malinois
+3881,malteser
+3882,malteser
+3883,mops
+3884,englische bulldogge
+3885,papillon
+3886,jack russell terrier
+3887,pekinese
+3888,pekinese
+3889,toy-pudel
+3890,toy-pudel
+3891,dackel (zwergdackel)
+3892,rhodesian ridgeback
+3893,rottweiler
+3894,rottweiler
+3895,schapendoes
+3896,giant schnauzer
+3897,giant schnauzer
+3898,shar-pei
+3899,sheltie
+3900,shiba inu
+3901,shih tzu
+3902,shih tzu
+3903,siberian husky
+3904,siberian husky
+3905,spitz
+3906,staffordshire bull terrier
+3907,tibetan terrier
+3908,weißer schweizer schäferhund
+3909,west highland white terrier
+3910,whippet
+3911,yorkshire terrier
+3912,yorkshire terrier
+3913,pinscher
+3914,pinscher
+3915,zwergpudel
+3916,giant schnauzer
+3917,zwergspitz
+3918,zwergspitz
+3919,beagle
+3920,boxer
+3921,chihuahua
+3922,dackel
+3923,deutscher schäferhund
+3924,english cocker spaniel
+3925,flat-coated retriever
+3926,golden retriever
+3927,havaneser
+3928,jack russell terrier
+3929,jack russell terrier
+3930,labrador retriever
+3931,labrador retriever
+3932,malteser
+3933,mops
+3934,jack russell terrier
+3935,toy-pudel
+3936,shih tzu
+3937,toy-pudel
+3938,west highland white terrier
+3939,yorkshire terrier
+3940,amerikanischer cocker spaniel
+3941,american pit bull terrier
+3942,american pit bull terrier
+3943,american staffordshire terrier
+3944,american staffordshire terrier
+3945,australian shepherd
+3946,beagle
+3947,beagle
+3948,berner sennenhund
+3949,border collie
+3950,border collie
+3951,boxer
+3952,cane corso
+3953,cavalier king charles spaniel
+3954,chihuahua
+3955,chihuahua
+3956,chihuahua
+3957,chinesischer schopfhund
+3958,cocker spaniel
+3959,collie
+3960,dackel
+3961,dackel
+3962,deutsche dogge
+3963,deutscher schäferhund
+3964,deutscher schäferhund
+3965,english cocker spaniel
+3966,english cocker spaniel
+3967,französische bulldogge
+3968,golden retriever
+3969,golden retriever
+3970,havaneser
+3971,havaneser
+3972,jack russell terrier
+3973,jack russell terrier
+3974,labrador retriever
+3975,labrador retriever
+3976,magyar vizsla
+3977,malinois
+3978,malteser
+3979,malteser
+3980,mops
+3981,jack russell terrier
+3982,pekinese
+3983,pekinese
+3984,toy-pudel
+3985,dackel (zwergdackel)
+3986,rhodesian ridgeback
+3987,rottweiler
+3988,giant schnauzer
+3989,sheltie
+3990,shih tzu
+3991,siberian husky
+3992,siberian husky
+3993,afghanischer windhund
+3994,spitz
+3995,staffordshire bull terrier
+3996,west highland white terrier
+3997,whippet
+3998,yorkshire terrier
+3999,yorkshire terrier
+4000,pinscher
+4001,pinscher
+4002,giant schnauzer
+4003,zwergspitz
+4004,zwergspitz
+4005,american pit bull terrier
+4006,american staffordshire terrier
+4007,american staffordshire terrier
+4008,australian shepherd
+4009,beagle
+4010,bolonka
+4011,border collie
+4012,border collie
+4013,boxer
+4014,dackel
+4015,cane corso
+4016,cavalier king charles spaniel
+4017,chihuahua
+4018,chihuahua
+4019,chihuahua
+4020,cocker spaniel
+4021,collie
+4022,dackel
+4023,dackel
+4024,deutscher schäferhund
+4025,deutscher schäferhund
+4026,dobermann
+4027,english cocker spaniel
+4028,flat-coated retriever
+4029,französische bulldogge
+4030,golden retriever
+4031,golden retriever
+4032,havaneser
+4033,havaneser
+4034,jack russell terrier
+4035,jack russell terrier
+4036,großer münsterländer
+4037,labradoodle
+4038,labrador retriever
+4039,labrador retriever
+4040,magyar vizsla
+4041,malteser
+4042,malteser
+4043,mops
+4044,jack russell terrier
+4045,pekinese
+4046,pekinese
+4047,toy-pudel
+4048,toy-pudel
+4049,dackel (zwergdackel)
+4050,rhodesian ridgeback
+4051,rottweiler
+4052,shih tzu
+4053,siberian husky
+4054,siberian husky
+4055,west highland white terrier
+4056,whippet
+4057,yorkshire terrier
+4058,yorkshire terrier
+4059,pinscher
+4060,pinscher
+4061,zwergpudel
+4062,giant schnauzer
+4063,zwergspitz
+4064,american staffordshire terrier
+4065,beagle
+4066,chihuahua
+4067,chihuahua
+4068,dackel
+4069,dackel
+4070,deutscher schäferhund
+4071,deutscher schäferhund
+4072,english cocker spaniel
+4073,französische bulldogge
+4074,golden retriever
+4075,havaneser
+4076,jack russell terrier
+4077,jack russell terrier
+4078,labrador retriever
+4079,labrador retriever
+4080,malteser
+4081,mops
+4082,jack russell terrier
+4083,toy-pudel
+4084,dackel (zwergdackel)
+4085,west highland white terrier
+4086,yorkshire terrier
+4087,pinscher
+4088,american pit bull terrier
+4089,american staffordshire terrier
+4090,american staffordshire terrier
+4091,beagle
+4092,chihuahua
+4093,chihuahua
+4094,chihuahua
+4095,dackel
+4096,dackel
+4097,deutscher schäferhund
+4098,deutscher schäferhund
+4099,französische bulldogge
+4100,golden retriever
+4101,havaneser
+4102,havaneser
+4103,jack russell terrier
+4104,jack russell terrier
+4105,labrador retriever
+4106,labrador retriever
+4107,magyar vizsla
+4108,malteser
+4109,mops
+4110,jack russell terrier
+4111,pekinese
+4112,toy-pudel
+4113,dackel (zwergdackel)
+4114,west highland white terrier
+4115,whippet
+4116,yorkshire terrier
+4117,yorkshire terrier
+4118,pinscher
+4119,american staffordshire terrier
+4120,australian shepherd
+4121,beagle
+4122,cavalier king charles spaniel
+4123,chihuahua
+4124,dackel
+4125,deutscher schäferhund
+4126,english cocker spaniel
+4127,französische bulldogge
+4128,golden retriever
+4129,havaneser
+4130,italienisches windspiel
+4131,jack russell terrier
+4132,labrador retriever
+4133,labrador retriever
+4134,magyar vizsla
+4135,malteser
+4136,mops
+4137,west highland white terrier
+4138,yorkshire terrier
+4139,pinscher
+4140,american staffordshire terrier
+4141,beagle
+4142,chihuahua
+4143,dackel
+4144,dackel
+4145,english cocker spaniel
+4146,französische bulldogge
+4147,golden retriever
+4148,golden retriever
+4149,havaneser
+4150,jack russell terrier
+4151,jack russell terrier
+4152,labrador retriever
+4153,labrador retriever
+4154,malteser
+4155,mops
+4156,toy-pudel
+4157,yorkshire terrier
+4158,beagle
+4159,border collie
+4160,chihuahua
+4161,dackel
+4162,golden retriever
+4163,havaneser
+4164,havaneser
+4165,jack russell terrier
+4166,labrador retriever
+4167,labrador retriever
+4168,magyar vizsla
+4169,malteser
+4170,mops
+4171,shih tzu
+4172,american staffordshire terrier
+4173,american staffordshire terrier
+4174,beagle
+4175,border collie
+4176,cavalier king charles spaniel
+4177,chihuahua
+4178,chihuahua
+4179,dackel
+4180,deutscher schäferhund
+4181,english cocker spaniel
+4182,französische bulldogge
+4183,golden retriever
+4184,golden retriever
+4185,havaneser
+4186,jack russell terrier
+4187,jack russell terrier
+4188,labrador retriever
+4189,labrador retriever
+4190,magyar vizsla
+4191,malteser
+4192,mops
+4193,jack russell terrier
+4194,giant schnauzer
+4195,siberian husky
+4196,west highland white terrier
+4197,yorkshire terrier
+4198,pinscher
+4199,akita inu
+4200,american bulldog
+4201,amerikanischer cocker spaniel
+4202,american pit bull terrier
+4203,american pit bull terrier
+4204,american staffordshire terrier
+4205,american staffordshire terrier
+4206,australian shepherd
+4207,beagle
+4208,beagle
+4209,deutscher schäferhund
+4210,berner sennenhund
+4211,berner sennenhund
+4212,bichon frisé
+4213,bordeauxdogge
+4214,border collie
+4215,border collie
+4216,boxer
+4217,boxer
+4218,dackel
+4219,french bulldog
+4220,bullterrier
+4221,cane corso
+4222,cavalier king charles spaniel
+4223,chihuahua
+4224,chihuahua
+4225,chihuahua
+4226,chinesischer schopfhund
+4227,chinesischer schopfhund
+4228,cocker spaniel
+4229,dackel
+4230,dackel
+4231,dalmatiner
+4232,deutsche dogge
+4233,deutscher pinscher
+4234,deutscher schäferhund
+4235,deutscher schäferhund
+4236,dobermann
+4237,dobermann
+4238,dogo argentino
+4239,foxterrier
+4240,foxterrier
+4241,english cocker spaniel
+4242,english cocker spaniel
+4243,berner sennenhund
+4244,französische bulldogge
+4245,golden retriever
+4246,golden retriever
+4247,havaneser
+4248,havaneser
+4249,hovawart
+4250,jack russell terrier
+4251,jack russell terrier
+4252,großer münsterländer
+4253,labrador retriever
+4254,labrador retriever
+4255,dackel
+4256,lhasa apso
+4257,magyar vizsla
+4258,malinois
+4259,malteser
+4260,malteser
+4261,mops
+4262,englische bulldogge
+4263,papillon
+4264,jack russell terrier
+4265,pekinese
+4266,pekinese
+4267,toy-pudel
+4268,toy-pudel
+4269,puli
+4270,dackel (zwergdackel)
+4271,rhodesian ridgeback
+4272,rottweiler
+4273,rottweiler
+4274,giant schnauzer
+4275,giant schnauzer
+4276,shar-pei
+4277,sheltie
+4278,shiba inu
+4279,shih tzu
+4280,shih tzu
+4281,siberian husky
+4282,spitz
+4283,spitz
+4284,staffordshire bull terrier
+4285,staffordshire bull terrier
+4286,tibetan terrier
+4287,west highland white terrier
+4288,whippet
+4289,yorkshire terrier
+4290,yorkshire terrier
+4291,pinscher
+4292,pinscher
+4293,zwergpudel
+4294,giant schnauzer
+4295,zwergspitz
+4296,zwergspitz
+4297,deutscher pinscher
+4298,deutscher pinscher
+4299,airedale terrier
+4300,amerikanischer cocker spaniel
+4301,american pit bull terrier
+4302,american pit bull terrier
+4303,american staffordshire terrier
+4304,american staffordshire terrier
+4305,australian shepherd
+4306,beagle
+4307,beagle
+4308,deutscher schäferhund
+4309,berner sennenhund
+4310,border collie
+4311,border collie
+4312,boxer
+4313,dackel
+4314,french bulldog
+4315,bullterrier
+4316,cane corso
+4317,cavalier king charles spaniel
+4318,chihuahua
+4319,chihuahua
+4320,chihuahua
+4321,cocker spaniel
+4322,collie
+4323,dackel
+4324,dackel
+4325,deutscher pinscher
+4326,deutscher schäferhund
+4327,deutscher schäferhund
+4328,dobermann
+4329,dogo argentino
+4330,foxterrier
+4331,english cocker spaniel
+4332,english cocker spaniel
+4333,flat-coated retriever
+4334,französische bulldogge
+4335,golden retriever
+4336,golden retriever
+4337,havaneser
+4338,havaneser
+4339,hovawart
+4340,jack russell terrier
+4341,jack russell terrier
+4342,labrador retriever
+4343,labrador retriever
+4344,dackel
+4345,magyar vizsla
+4346,malinois
+4347,malteser
+4348,malteser
+4349,mops
+4350,englische bulldogge
+4351,papillon
+4352,jack russell terrier
+4353,pekinese
+4354,pekinese
+4355,toy-pudel
+4356,toy-pudel
+4357,dackel (zwergdackel)
+4358,rhodesian ridgeback
+4359,rottweiler
+4360,rottweiler
+4361,giant schnauzer
+4362,shar-pei
+4363,sheltie
+4364,shih tzu
+4365,siberian husky
+4366,siberian husky
+4367,spitz
+4368,spitz
+4369,staffordshire bull terrier
+4370,staffordshire bull terrier
+4371,west highland white terrier
+4372,whippet
+4373,yorkshire terrier
+4374,yorkshire terrier
+4375,pinscher
+4376,zwergpudel
+4377,zwergspitz
+4378,zwergspitz
+4379,deutscher pinscher
+4380,american pit bull terrier
+4381,american pit bull terrier
+4382,american staffordshire terrier
+4383,american staffordshire terrier
+4384,australian shepherd
+4385,beagle
+4386,beagle
+4387,berner sennenhund
+4388,border collie
+4389,border collie
+4390,boxer
+4391,bullterrier
+4392,cane corso
+4393,cavalier king charles spaniel
+4394,chihuahua
+4395,chihuahua
+4396,chihuahua
+4397,cocker spaniel
+4398,dackel
+4399,dackel
+4400,deutscher schäferhund
+4401,deutscher schäferhund
+4402,dobermann
+4403,english cocker spaniel
+4404,französische bulldogge
+4405,golden retriever
+4406,golden retriever
+4407,havaneser
+4408,havaneser
+4409,jack russell terrier
+4410,jack russell terrier
+4411,labrador retriever
+4412,labrador retriever
+4413,malteser
+4414,malteser
+4415,mops
+4416,jack russell terrier
+4417,pekinese
+4418,pekinese
+4419,toy-pudel
+4420,toy-pudel
+4421,dackel (zwergdackel)
+4422,rottweiler
+4423,giant schnauzer
+4424,shar-pei
+4425,shih tzu
+4426,siberian husky
+4427,staffordshire bull terrier
+4428,west highland white terrier
+4429,whippet
+4430,yorkshire terrier
+4431,yorkshire terrier
+4432,pinscher
+4433,pinscher
+4434,zwergpudel
+4435,giant schnauzer
+4436,zwergspitz
+4437,airedale terrier
+4438,american staffordshire terrier
+4439,australian shepherd
+4440,bayerischer gebirgsschweisshund
+4441,beagle
+4442,deutscher schäferhund
+4443,berner sennenhund
+4444,bichon frisé
+4445,border collie
+4446,border collie
+4447,boxer
+4448,cairn terrier
+4449,cavalier king charles spaniel
+4450,chihuahua
+4451,chihuahua
+4452,cocker spaniel
+4453,collie
+4454,dackel
+4455,dackel
+4456,dalmatiner
+4457,deutsche dogge
+4458,deutscher schäferhund
+4459,deutscher schäferhund
+4460,english cocker spaniel
+4461,berner sennenhund
+4462,flat-coated retriever
+4463,französische bulldogge
+4464,golden retriever
+4465,golden retriever
+4466,havaneser
+4467,havaneser
+4468,hovawart
+4469,irish setter
+4470,jack russell terrier
+4471,jack russell terrier
+4472,großer münsterländer
+4473,labrador retriever
+4474,labrador retriever
+4475,magyar vizsla
+4476,malteser
+4477,malteser
+4478,mops
+4479,jack russell terrier
+4480,pekinese
+4481,toy-pudel
+4482,dackel (zwergdackel)
+4483,rottweiler
+4484,giant schnauzer
+4485,giant schnauzer
+4486,shih tzu
+4487,siberian husky
+4488,spitz
+4489,staffordshire bull terrier
+4490,west highland white terrier
+4491,yorkshire terrier
+4492,yorkshire terrier
+4493,pinscher
+4494,pinscher
+4495,zwergpudel
+4496,zwergspitz
+4497,zwergspitz
+4498,american pit bull terrier
+4499,american pit bull terrier
+4500,american staffordshire terrier
+4501,american staffordshire terrier
+4502,australian shepherd
+4503,beagle
+4504,beagle
+4505,berner sennenhund
+4506,bichon frisé
+4507,bolonka
+4508,border collie
+4509,border collie
+4510,boxer
+4511,dackel
+4512,bullterrier
+4513,cavalier king charles spaniel
+4514,chihuahua
+4515,chihuahua
+4516,chihuahua
+4517,cocker spaniel
+4518,collie
+4519,dackel
+4520,dackel
+4521,deutsche dogge
+4522,deutscher schäferhund
+4523,deutscher schäferhund
+4524,dobermann
+4525,foxterrier
+4526,english cocker spaniel
+4527,berner sennenhund
+4528,flat-coated retriever
+4529,französische bulldogge
+4530,golden retriever
+4531,golden retriever
+4532,havaneser
+4533,havaneser
+4534,hovawart
+4535,jack russell terrier
+4536,jack russell terrier
+4537,großer münsterländer
+4538,labrador retriever
+4539,labrador retriever
+4540,lagotto romagnolo
+4541,magyar vizsla
+4542,malinois
+4543,malteser
+4544,malteser
+4545,mops
+4546,papillon
+4547,jack russell terrier
+4548,pekinese
+4549,pekinese
+4550,toy-pudel
+4551,toy-pudel
+4552,dackel (zwergdackel)
+4553,rhodesian ridgeback
+4554,rottweiler
+4555,giant schnauzer
+4556,sheltie
+4557,shiba inu
+4558,shih tzu
+4559,siberian husky
+4560,spitz
+4561,staffordshire bull terrier
+4562,staffordshire bull terrier
+4563,weimaraner
+4564,west highland white terrier
+4565,whippet
+4566,yorkshire terrier
+4567,yorkshire terrier
+4568,pinscher
+4569,pinscher
+4570,zwergpudel
+4571,giant schnauzer
+4572,zwergspitz
+4573,zwergspitz
+4574,american pit bull terrier
+4575,american staffordshire terrier
+4576,american staffordshire terrier
+4577,australian shepherd
+4578,beagle
+4579,border collie
+4580,chihuahua
+4581,chihuahua
+4582,chihuahua
+4583,dackel
+4584,dackel
+4585,deutscher schäferhund
+4586,deutscher schäferhund
+4587,dobermann
+4588,foxterrier
+4589,english cocker spaniel
+4590,französische bulldogge
+4591,golden retriever
+4592,havaneser
+4593,havaneser
+4594,jack russell terrier
+4595,jack russell terrier
+4596,labrador retriever
+4597,labrador retriever
+4598,magyar vizsla
+4599,malteser
+4600,malteser
+4601,mops
+4602,englische bulldogge
+4603,pekinese
+4604,toy-pudel
+4605,dackel (zwergdackel)
+4606,rottweiler
+4607,giant schnauzer
+4608,shih tzu
+4609,siberian husky
+4610,staffordshire bull terrier
+4611,weißer schweizer schäferhund
+4612,west highland white terrier
+4613,yorkshire terrier
+4614,yorkshire terrier
+4615,pinscher
+4616,zwergpudel
+4617,zwergspitz
+4618,american pit bull terrier
+4619,american pit bull terrier
+4620,american staffordshire terrier
+4621,american staffordshire terrier
+4622,australian shepherd
+4623,beagle
+4624,berner sennenhund
+4625,border collie
+4626,border collie
+4627,cavalier king charles spaniel
+4628,chihuahua
+4629,chihuahua
+4630,chihuahua
+4631,cocker spaniel
+4632,dackel
+4633,dackel
+4634,deutscher schäferhund
+4635,deutscher schäferhund
+4636,dobermann
+4637,dogo argentino
+4638,english cocker spaniel
+4639,flat-coated retriever
+4640,französische bulldogge
+4641,golden retriever
+4642,golden retriever
+4643,havaneser
+4644,havaneser
+4645,jack russell terrier
+4646,jack russell terrier
+4647,labrador retriever
+4648,labrador retriever
+4649,magyar vizsla
+4650,malteser
+4651,malteser
+4652,mops
+4653,jack russell terrier
+4654,pekinese
+4655,pekinese
+4656,toy-pudel
+4657,dackel (zwergdackel)
+4658,rhodesian ridgeback
+4659,rottweiler
+4660,giant schnauzer
+4661,shiba inu
+4662,shih tzu
+4663,siberian husky
+4664,staffordshire bull terrier
+4665,staffordshire bull terrier
+4666,west highland white terrier
+4667,yorkshire terrier
+4668,yorkshire terrier
+4669,pinscher
+4670,pinscher
+4671,zwergpudel
+4672,giant schnauzer
+4673,zwergspitz
+4674,american pit bull terrier
+4675,american staffordshire terrier
+4676,american staffordshire terrier
+4677,australian shepherd
+4678,beagle
+4679,beagle
+4680,berner sennenhund
+4681,border collie
+4682,boxer
+4683,cavalier king charles spaniel
+4684,chihuahua
+4685,chihuahua
+4686,chihuahua
+4687,dackel
+4688,dackel
+4689,deutscher schäferhund
+4690,deutscher schäferhund
+4691,english cocker spaniel
+4692,flat-coated retriever
+4693,französische bulldogge
+4694,golden retriever
+4695,havaneser
+4696,havaneser
+4697,jack russell terrier
+4698,jack russell terrier
+4699,großer münsterländer
+4700,labrador retriever
+4701,labrador retriever
+4702,magyar vizsla
+4703,malteser
+4704,mops
+4705,papillon
+4706,jack russell terrier
+4707,pekinese
+4708,toy-pudel
+4709,dackel (zwergdackel)
+4710,rottweiler
+4711,shih tzu
+4712,siberian husky
+4713,staffordshire bull terrier
+4714,tibetan terrier
+4715,west highland white terrier
+4716,yorkshire terrier
+4717,yorkshire terrier
+4718,pinscher
+4719,pinscher
+4720,american pit bull terrier
+4721,american staffordshire terrier
+4722,australian shepherd
+4723,beagle
+4724,border collie
+4725,border collie
+4726,boxer
+4727,bullterrier
+4728,chihuahua
+4729,cocker spaniel
+4730,collie
+4731,dackel
+4732,dackel
+4733,deutscher schäferhund
+4734,deutscher schäferhund
+4735,english cocker spaniel
+4736,flat-coated retriever
+4737,französische bulldogge
+4738,golden retriever
+4739,havaneser
+4740,havaneser
+4741,jack russell terrier
+4742,labrador retriever
+4743,labrador retriever
+4744,magyar vizsla
+4745,malteser
+4746,mops
+4747,englische bulldogge
+4748,jack russell terrier
+4749,toy-pudel
+4750,dackel (zwergdackel)
+4751,giant schnauzer
+4752,shih tzu
+4753,siberian husky
+4754,west highland white terrier
+4755,yorkshire terrier
+4756,pinscher
+4757,pinscher
+4758,zwergpudel
+4759,amerikanischer cocker spaniel
+4760,american pit bull terrier
+4761,american pit bull terrier
+4762,american staffordshire terrier
+4763,american staffordshire terrier
+4764,australian shepherd
+4765,basset hound
+4766,bayerischer gebirgsschweisshund
+4767,beagle
+4768,deutscher schäferhund
+4769,berner sennenhund
+4770,berner sennenhund
+4771,border collie
+4772,border collie
+4773,boxer
+4774,dackel
+4775,french bulldog
+4776,bullterrier
+4777,cavalier king charles spaniel
+4778,chihuahua
+4779,chihuahua
+4780,chihuahua
+4781,cocker spaniel
+4782,collie
+4783,dackel
+4784,dackel
+4785,deutsche dogge
+4786,deutscher schäferhund
+4787,deutscher schäferhund
+4788,foxterrier
+4789,english cocker spaniel
+4790,english setter
+4791,flat-coated retriever
+4792,französische bulldogge
+4793,golden retriever
+4794,golden retriever
+4795,havaneser
+4796,havaneser
+4797,hovawart
+4798,irish setter
+4799,irish terrier
+4800,jack russell terrier
+4801,jack russell terrier
+4802,labrador retriever
+4803,labrador retriever
+4804,magyar vizsla
+4805,malteser
+4806,malteser
+4807,mops
+4808,jack russell terrier
+4809,pekinese
+4810,pekinese
+4811,toy-pudel
+4812,toy-pudel
+4813,dackel (zwergdackel)
+4814,rhodesian ridgeback
+4815,rottweiler
+4816,giant schnauzer
+4817,giant schnauzer
+4818,shih tzu
+4819,siberian husky
+4820,siberian husky
+4821,staffordshire bull terrier
+4822,tervueren
+4823,toy-pudel
+4824,weimaraner
+4825,weißer schweizer schäferhund
+4826,west highland white terrier
+4827,whippet
+4828,yorkshire terrier
+4829,yorkshire terrier
+4830,pinscher
+4831,pinscher
+4832,zwergpudel
+4833,zwergspitz
+4834,zwergspitz
+4835,american pit bull terrier
+4836,american staffordshire terrier
+4837,american staffordshire terrier
+4838,australian shepherd
+4839,beagle
+4840,beagle
+4841,berner sennenhund
+4842,bichon frisé
+4843,border collie
+4844,boxer
+4845,dackel
+4846,bullterrier
+4847,chihuahua
+4848,chihuahua
+4849,chihuahua
+4850,chinesischer schopfhund
+4851,cocker spaniel
+4852,collie
+4853,dackel
+4854,dackel
+4855,deutscher schäferhund
+4856,deutscher schäferhund
+4857,english cocker spaniel
+4858,französische bulldogge
+4859,golden retriever
+4860,havaneser
+4861,havaneser
+4862,italienisches windspiel
+4863,jack russell terrier
+4864,jack russell terrier
+4865,labrador retriever
+4866,labrador retriever
+4867,magyar vizsla
+4868,malteser
+4869,malteser
+4870,mops
+4871,jack russell terrier
+4872,pekinese
+4873,pekinese
+4874,toy-pudel
+4875,toy-pudel
+4876,dackel (zwergdackel)
+4877,rottweiler
+4878,giant schnauzer
+4879,shih tzu
+4880,siberian husky
+4881,spitz
+4882,staffordshire bull terrier
+4883,weißer schweizer schäferhund
+4884,west highland white terrier
+4885,yorkshire terrier
+4886,yorkshire terrier
+4887,pinscher
+4888,pinscher
+4889,zwergspitz
+4890,akita inu
+4891,alaskan malamute
+4892,amerikanischer cocker spaniel
+4893,american pit bull terrier
+4894,american pit bull terrier
+4895,american staffordshire terrier
+4896,american staffordshire terrier
+4897,australian cattle dog
+4898,australian shepherd
+4899,beagle
+4900,beagle
+4901,bearded collie
+4902,deutscher schäferhund
+4903,deutscher schäferhund
+4904,berner sennenhund
+4905,berner sennenhund
+4906,bichon frisé
+4907,bolonka
+4908,bordeauxdogge
+4909,border collie
+4910,border collie
+4911,boxer
+4912,dackel
+4913,french bulldog
+4914,bullmastiff
+4915,bullterrier
+4916,cairn terrier
+4917,cane corso
+4918,cavalier king charles spaniel
+4919,chihuahua
+4920,chihuahua
+4921,chihuahua
+4922,chinesischer schopfhund
+4923,cocker spaniel
+4924,cocker spaniel
+4925,collie
+4926,collie
+4927,dackel
+4928,dackel
+4929,dalmatiner
+4930,deutsche dogge
+4931,deutsche dogge
+4932,deutscher pinscher
+4933,deutscher schäferhund
+4934,deutscher schäferhund
+4935,dobermann
+4936,dogo argentino
+4937,foxterrier
+4938,english cocker spaniel
+4939,english cocker spaniel
+4940,berner sennenhund
+4941,flat-coated retriever
+4942,französische bulldogge
+4943,französische bulldogge
+4944,golden retriever
+4945,golden retriever
+4946,großer münsterländer
+4947,großpudel
+4948,havaneser
+4949,havaneser
+4950,hovawart
+4951,irish setter
+4952,jack russell terrier
+4953,jack russell terrier
+4954,harrier
+4955,großer münsterländer
+4956,großer münsterländer
+4957,labradoodle
+4958,labrador retriever
+4959,labrador retriever
+4960,landseer
+4961,dackel
+4962,magyar vizsla
+4963,malinois
+4964,malteser
+4965,malteser
+4966,mops
+4967,mops
+4968,englische bulldogge
+4969,papillon
+4970,jack russell terrier
+4971,pekinese
+4972,pekinese
+4973,prager rattler
+4974,toy-pudel
+4975,toy-pudel
+4976,dackel (zwergdackel)
+4977,rhodesian ridgeback
+4978,giant schnauzer
+4979,rottweiler
+4980,rottweiler
+4981,giant schnauzer
+4982,giant schnauzer
+4983,scottish terrier
+4984,shar-pei
+4985,sheltie
+4986,shiba inu
+4987,shih tzu
+4988,shih tzu
+4989,siberian husky
+4990,siberian husky
+4991,spitz
+4992,spitz
+4993,staffordshire bull terrier
+4994,staffordshire bull terrier
+4995,tervueren
+4996,cocker spaniel
+4997,weimaraner
+4998,weißer schweizer schäferhund
+4999,welsh terrier
+5000,west highland white terrier
+5001,whippet
+5002,yorkshire terrier
+5003,yorkshire terrier
+5004,pinscher
+5005,pinscher
+5006,zwergpudel
+5007,giant schnauzer
+5008,zwergspitz
+5009,zwergspitz
+5010,deutscher pinscher
+5011,afghanischer windhund
+5012,airedale terrier
+5013,akita inu
+5014,amerikanischer cocker spaniel
+5015,american pit bull terrier
+5016,american pit bull terrier
+5017,american staffordshire terrier
+5018,american staffordshire terrier
+5019,australian shepherd
+5020,beagle
+5021,beagle
+5022,deutscher schäferhund
+5023,deutscher schäferhund
+5024,berner sennenhund
+5025,berner sennenhund
+5026,harrier
+5027,bichon frisé
+5028,bobtail
+5029,bolonka
+5030,bordeauxdogge
+5031,border collie
+5032,border collie
+5033,border terrier
+5034,boxer
+5035,boxer
+5036,dackel
+5037,french bulldog
+5038,bullmastiff
+5039,bullterrier
+5040,bullterrier
+5041,cairn terrier
+5042,cane corso
+5043,cavalier king charles spaniel
+5044,chihuahua
+5045,chihuahua
+5046,chihuahua
+5047,chihuahua
+5048,chinesischer schopfhund
+5049,chow chow
+5050,cocker spaniel
+5051,cocker spaniel
+5052,collie
+5053,collie
+5054,dackel
+5055,dackel
+5056,dalmatiner
+5057,deutsche dogge
+5058,deutsche dogge
+5059,deutsche dogge
+5060,deutscher pinscher
+5061,deutscher pinscher
+5062,deutscher schäferhund
+5063,deutscher schäferhund
+5064,dobermann
+5065,dogo argentino
+5066,dogo argentino
+5067,foxterrier
+5068,elo
+5069,english cocker spaniel
+5070,english cocker spaniel
+5071,english springer spaniel
+5072,flat-coated retriever
+5073,französische bulldogge
+5074,foxterrier
+5075,golden retriever
+5076,golden retriever
+5077,havaneser
+5078,havaneser
+5079,hollandse herdershond
+5080,hovawart
+5081,irish setter
+5082,irish wolfhound
+5083,irish setter
+5084,jack russell terrier
+5085,jack russell terrier
+5086,harrier
+5087,großer münsterländer
+5088,großer münsterländer
+5089,labrador retriever
+5090,labrador retriever
+5091,landseer
+5092,dackel
+5093,lhasa apso
+5094,magyar vizsla
+5095,malinois
+5096,malteser
+5097,malteser
+5098,mops
+5099,mops
+5100,neufundländer
+5101,englische bulldogge
+5102,papillon
+5103,jack russell terrier
+5104,pekinese
+5105,pekinese
+5106,anatolischer hirtenhund
+5107,prager rattler
+5108,toy-pudel
+5109,toy-pudel
+5110,dackel (zwergdackel)
+5111,dackel (zwergdackel)
+5112,rhodesian ridgeback
+5113,giant schnauzer
+5114,rottweiler
+5115,rottweiler
+5116,samoyed
+5117,giant schnauzer
+5118,giant schnauzer
+5119,scottish terrier
+5120,shar-pei
+5121,sheltie
+5122,shiba inu
+5123,shih tzu
+5124,shih tzu
+5125,siberian husky
+5126,siberian husky
+5127,afghanischer windhund
+5128,afghanischer windhund
+5129,spitz
+5130,spitz
+5131,staffordshire bull terrier
+5132,staffordshire bull terrier
+5133,cocker spaniel
+5134,tibetan terrier
+5135,tibetan terrier
+5136,toy-pudel
+5137,weimaraner
+5138,weißer schweizer schäferhund
+5139,welsh terrier
+5140,west highland white terrier
+5141,whippet
+5142,yorkshire terrier
+5143,yorkshire terrier
+5144,pinscher
+5145,pinscher
+5146,zwergpudel
+5147,giant schnauzer
+5148,zwergspitz
+5149,zwergspitz
+5150,deutscher pinscher
+5151,deutscher pinscher
+5152,airedale terrier
+5153,akita inu
+5154,american pit bull terrier
+5155,american pit bull terrier
+5156,american staffordshire terrier
+5157,american staffordshire terrier
+5158,australian shepherd
+5159,bayerischer gebirgsschweisshund
+5160,beagle
+5161,beagle
+5162,bearded collie
+5163,deutscher schäferhund
+5164,berner sennenhund
+5165,berner sennenhund
+5166,bichon frisé
+5167,bolonka
+5168,border collie
+5169,border collie
+5170,boxer
+5171,dackel
+5172,bullterrier
+5173,cairn terrier
+5174,cane corso
+5175,cavalier king charles spaniel
+5176,chihuahua
+5177,chihuahua
+5178,chihuahua
+5179,cocker spaniel
+5180,collie
+5181,collie
+5182,dackel
+5183,dackel
+5184,dalmatiner
+5185,deutsche dogge
+5186,deutsche dogge
+5187,deutscher pinscher
+5188,deutscher schäferhund
+5189,deutscher schäferhund
+5190,dobermann
+5191,foxterrier
+5192,elo
+5193,english cocker spaniel
+5194,berner sennenhund
+5195,flat-coated retriever
+5196,französische bulldogge
+5197,golden retriever
+5198,golden retriever
+5199,havaneser
+5200,havaneser
+5201,hovawart
+5202,irish setter
+5203,jack russell terrier
+5204,jack russell terrier
+5205,großer münsterländer
+5206,labradoodle
+5207,labrador retriever
+5208,labrador retriever
+5209,magyar vizsla
+5210,malinois
+5211,malteser
+5212,malteser
+5213,mops
+5214,englische bulldogge
+5215,papillon
+5216,jack russell terrier
+5217,pekinese
+5218,pekinese
+5219,toy-pudel
+5220,toy-pudel
+5221,puli
+5222,dackel (zwergdackel)
+5223,rhodesian ridgeback
+5224,rottweiler
+5225,giant schnauzer
+5226,giant schnauzer
+5227,shar-pei
+5228,sheltie
+5229,shiba inu
+5230,shih tzu
+5231,shih tzu
+5232,siberian husky
+5233,siberian husky
+5234,spitz
+5235,spitz
+5236,staffordshire bull terrier
+5237,tibetan terrier
+5238,weißer schweizer schäferhund
+5239,west highland white terrier
+5240,whippet
+5241,yorkshire terrier
+5242,yorkshire terrier
+5243,pinscher
+5244,pinscher
+5245,zwergpudel
+5246,giant schnauzer
+5247,zwergspitz
+5248,zwergspitz
+5249,beagle
+5250,boxer
+5251,chihuahua
+5252,dackel
+5253,flat-coated retriever
+5254,französische bulldogge
+5255,golden retriever
+5256,havaneser
+5257,jack russell terrier
+5258,jack russell terrier
+5259,labrador retriever
+5260,labrador retriever
+5261,malteser
+5262,mops
+5263,jack russell terrier
+5264,toy-pudel
+5265,shih tzu
+5266,toy-pudel
+5267,west highland white terrier
+5268,yorkshire terrier
+5269,amerikanischer cocker spaniel
+5270,american pit bull terrier
+5271,american pit bull terrier
+5272,american staffordshire terrier
+5273,american staffordshire terrier
+5274,australian shepherd
+5275,beagle
+5276,beagle
+5277,berner sennenhund
+5278,bichon frisé
+5279,border collie
+5280,border collie
+5281,boxer
+5282,cane corso
+5283,cavalier king charles spaniel
+5284,chihuahua
+5285,chihuahua
+5286,chihuahua
+5287,chihuahua
+5288,chinesischer schopfhund
+5289,cocker spaniel
+5290,collie
+5291,dackel
+5292,dackel
+5293,deutsche dogge
+5294,deutscher schäferhund
+5295,deutscher schäferhund
+5296,english cocker spaniel
+5297,english cocker spaniel
+5298,französische bulldogge
+5299,golden retriever
+5300,golden retriever
+5301,havaneser
+5302,havaneser
+5303,jack russell terrier
+5304,jack russell terrier
+5305,labrador retriever
+5306,labrador retriever
+5307,lagotto romagnolo
+5308,magyar vizsla
+5309,malinois
+5310,malteser
+5311,malteser
+5312,mops
+5313,jack russell terrier
+5314,pekinese
+5315,pekinese
+5316,toy-pudel
+5317,dackel (zwergdackel)
+5318,rhodesian ridgeback
+5319,rottweiler
+5320,giant schnauzer
+5321,sheltie
+5322,shiba inu
+5323,shih tzu
+5324,siberian husky
+5325,siberian husky
+5326,spitz
+5327,staffordshire bull terrier
+5328,west highland white terrier
+5329,whippet
+5330,yorkshire terrier
+5331,yorkshire terrier
+5332,pinscher
+5333,pinscher
+5334,giant schnauzer
+5335,zwergspitz
+5336,zwergspitz
+5337,american pit bull terrier
+5338,american staffordshire terrier
+5339,american staffordshire terrier
+5340,australian shepherd
+5341,beagle
+5342,bolonka
+5343,border collie
+5344,border collie
+5345,boxer
+5346,dackel
+5347,cane corso
+5348,cavalier king charles spaniel
+5349,chihuahua
+5350,chihuahua
+5351,chihuahua
+5352,cocker spaniel
+5353,collie
+5354,dackel
+5355,dackel
+5356,deutscher schäferhund
+5357,deutscher schäferhund
+5358,dobermann
+5359,english cocker spaniel
+5360,flat-coated retriever
+5361,französische bulldogge
+5362,golden retriever
+5363,golden retriever
+5364,havaneser
+5365,havaneser
+5366,jack russell terrier
+5367,jack russell terrier
+5368,großer münsterländer
+5369,labradoodle
+5370,labrador retriever
+5371,labrador retriever
+5372,magyar vizsla
+5373,malteser
+5374,malteser
+5375,mops
+5376,jack russell terrier
+5377,pekinese
+5378,pekinese
+5379,toy-pudel
+5380,toy-pudel
+5381,dackel (zwergdackel)
+5382,rottweiler
+5383,shiba inu
+5384,shih tzu
+5385,siberian husky
+5386,siberian husky
+5387,west highland white terrier
+5388,whippet
+5389,yorkshire terrier
+5390,yorkshire terrier
+5391,pinscher
+5392,pinscher
+5393,zwergpudel
+5394,giant schnauzer
+5395,zwergspitz
+5396,american staffordshire terrier
+5397,beagle
+5398,cavalier king charles spaniel
+5399,chihuahua
+5400,chihuahua
+5401,dackel
+5402,dackel
+5403,deutscher schäferhund
+5404,deutscher schäferhund
+5405,english cocker spaniel
+5406,französische bulldogge
+5407,golden retriever
+5408,havaneser
+5409,jack russell terrier
+5410,jack russell terrier
+5411,labrador retriever
+5412,labrador retriever
+5413,malteser
+5414,mops
+5415,jack russell terrier
+5416,toy-pudel
+5417,dackel (zwergdackel)
+5418,west highland white terrier
+5419,whippet
+5420,yorkshire terrier
+5421,pinscher
+5422,american staffordshire terrier
+5423,american staffordshire terrier
+5424,beagle
+5425,chihuahua
+5426,chihuahua
+5427,dackel
+5428,dackel
+5429,deutscher schäferhund
+5430,deutscher schäferhund
+5431,französische bulldogge
+5432,golden retriever
+5433,havaneser
+5434,havaneser
+5435,jack russell terrier
+5436,jack russell terrier
+5437,labrador retriever
+5438,labrador retriever
+5439,magyar vizsla
+5440,malteser
+5441,mops
+5442,jack russell terrier
+5443,pekinese
+5444,toy-pudel
+5445,dackel (zwergdackel)
+5446,rottweiler
+5447,west highland white terrier
+5448,whippet
+5449,yorkshire terrier
+5450,yorkshire terrier
+5451,pinscher
+5452,american staffordshire terrier
+5453,australian shepherd
+5454,beagle
+5455,cavalier king charles spaniel
+5456,chihuahua
+5457,collie
+5458,dackel
+5459,english cocker spaniel
+5460,französische bulldogge
+5461,golden retriever
+5462,havaneser
+5463,italienisches windspiel
+5464,jack russell terrier
+5465,labrador retriever
+5466,labrador retriever
+5467,malteser
+5468,mops
+5469,toy-pudel
+5470,west highland white terrier
+5471,yorkshire terrier
+5472,american staffordshire terrier
+5473,beagle
+5474,chihuahua
+5475,dackel
+5476,dackel
+5477,deutscher schäferhund
+5478,deutscher schäferhund
+5479,english cocker spaniel
+5480,französische bulldogge
+5481,golden retriever
+5482,havaneser
+5483,jack russell terrier
+5484,jack russell terrier
+5485,labrador retriever
+5486,labrador retriever
+5487,malteser
+5488,mops
+5489,toy-pudel
+5490,yorkshire terrier
+5491,beagle
+5492,border collie
+5493,chihuahua
+5494,dackel
+5495,dackel
+5496,havaneser
+5497,havaneser
+5498,labrador retriever
+5499,labrador retriever
+5500,magyar vizsla
+5501,malteser
+5502,mops
+5503,shih tzu
+5504,american staffordshire terrier
+5505,american staffordshire terrier
+5506,australian shepherd
+5507,beagle
+5508,chihuahua
+5509,chihuahua
+5510,dackel
+5511,deutscher schäferhund
+5512,deutscher schäferhund
+5513,dogo argentino
+5514,english cocker spaniel
+5515,französische bulldogge
+5516,golden retriever
+5517,golden retriever
+5518,havaneser
+5519,jack russell terrier
+5520,jack russell terrier
+5521,labrador retriever
+5522,labrador retriever
+5523,magyar vizsla
+5524,malteser
+5525,mops
+5526,jack russell terrier
+5527,giant schnauzer
+5528,siberian husky
+5529,west highland white terrier
+5530,yorkshire terrier
+5531,pinscher
+5532,akita inu
+5533,american bulldog
+5534,amerikanischer cocker spaniel
+5535,american pit bull terrier
+5536,american pit bull terrier
+5537,american staffordshire terrier
+5538,american staffordshire terrier
+5539,australian shepherd
+5540,beagle
+5541,beagle
+5542,deutscher schäferhund
+5543,berner sennenhund
+5544,bichon frisé
+5545,bordeauxdogge
+5546,border collie
+5547,border collie
+5548,boston terrier
+5549,boxer
+5550,boxer
+5551,dackel
+5552,french bulldog
+5553,bullterrier
+5554,cane corso
+5555,cavalier king charles spaniel
+5556,chihuahua
+5557,chihuahua
+5558,chihuahua
+5559,chihuahua
+5560,chinesischer schopfhund
+5561,chinesischer schopfhund
+5562,cocker spaniel
+5563,cocker spaniel
+5564,collie
+5565,dackel
+5566,dackel
+5567,dalmatiner
+5568,deutsche dogge
+5569,deutscher pinscher
+5570,deutscher schäferhund
+5571,deutscher schäferhund
+5572,dobermann
+5573,dogo argentino
+5574,foxterrier
+5575,foxterrier
+5576,english cocker spaniel
+5577,english cocker spaniel
+5578,berner sennenhund
+5579,flat-coated retriever
+5580,französische bulldogge
+5581,golden retriever
+5582,golden retriever
+5583,havaneser
+5584,havaneser
+5585,hovawart
+5586,jack russell terrier
+5587,jack russell terrier
+5588,großer münsterländer
+5589,labradoodle
+5590,labrador retriever
+5591,labrador retriever
+5592,dackel
+5593,magyar vizsla
+5594,malinois
+5595,malteser
+5596,malteser
+5597,mops
+5598,englische bulldogge
+5599,papillon
+5600,jack russell terrier
+5601,pekinese
+5602,pekinese
+5603,toy-pudel
+5604,toy-pudel
+5605,puli
+5606,dackel (zwergdackel)
+5607,rhodesian ridgeback
+5608,rottweiler
+5609,samoyed
+5610,giant schnauzer
+5611,shar-pei
+5612,sheltie
+5613,shiba inu
+5614,shih tzu
+5615,shih tzu
+5616,siberian husky
+5617,spitz
+5618,spitz
+5619,staffordshire bull terrier
+5620,staffordshire bull terrier
+5621,tibetan terrier
+5622,west highland white terrier
+5623,whippet
+5624,yorkshire terrier
+5625,yorkshire terrier
+5626,pinscher
+5627,pinscher
+5628,zwergpudel
+5629,giant schnauzer
+5630,zwergspitz
+5631,zwergspitz
+5632,deutscher pinscher
+5633,deutscher pinscher
+5634,airedale terrier
+5635,amerikanischer cocker spaniel
+5636,american pit bull terrier
+5637,american pit bull terrier
+5638,american staffordshire terrier
+5639,american staffordshire terrier
+5640,australian shepherd
+5641,beagle
+5642,beagle
+5643,deutscher schäferhund
+5644,berner sennenhund
+5645,bichon frisé
+5646,bordeauxdogge
+5647,border collie
+5648,border collie
+5649,boxer
+5650,dackel
+5651,french bulldog
+5652,bullterrier
+5653,cavalier king charles spaniel
+5654,chihuahua
+5655,chihuahua
+5656,chihuahua
+5657,cocker spaniel
+5658,cocker spaniel
+5659,collie
+5660,dackel
+5661,dackel
+5662,deutscher pinscher
+5663,deutscher schäferhund
+5664,deutscher schäferhund
+5665,dogo argentino
+5666,foxterrier
+5667,english cocker spaniel
+5668,english cocker spaniel
+5669,flat-coated retriever
+5670,französische bulldogge
+5671,golden retriever
+5672,golden retriever
+5673,havaneser
+5674,havaneser
+5675,hovawart
+5676,jack russell terrier
+5677,jack russell terrier
+5678,labrador retriever
+5679,labrador retriever
+5680,dackel
+5681,magyar vizsla
+5682,malinois
+5683,malteser
+5684,malteser
+5685,mops
+5686,englische bulldogge
+5687,papillon
+5688,jack russell terrier
+5689,pekinese
+5690,pekinese
+5691,toy-pudel
+5692,toy-pudel
+5693,dackel (zwergdackel)
+5694,rhodesian ridgeback
+5695,rottweiler
+5696,rottweiler
+5697,giant schnauzer
+5698,shar-pei
+5699,sheltie
+5700,shih tzu
+5701,siberian husky
+5702,siberian husky
+5703,spitz
+5704,spitz
+5705,staffordshire bull terrier
+5706,staffordshire bull terrier
+5707,west highland white terrier
+5708,yorkshire terrier
+5709,yorkshire terrier
+5710,pinscher
+5711,zwergpudel
+5712,zwergspitz
+5713,zwergspitz
+5714,deutscher pinscher
+5715,american pit bull terrier
+5716,american staffordshire terrier
+5717,american staffordshire terrier
+5718,australian shepherd
+5719,beagle
+5720,beagle
+5721,berner sennenhund
+5722,border collie
+5723,border collie
+5724,bullterrier
+5725,cane corso
+5726,cavalier king charles spaniel
+5727,chihuahua
+5728,chihuahua
+5729,chihuahua
+5730,cocker spaniel
+5731,dackel
+5732,dackel
+5733,deutscher schäferhund
+5734,deutscher schäferhund
+5735,dobermann
+5736,english cocker spaniel
+5737,französische bulldogge
+5738,golden retriever
+5739,golden retriever
+5740,havaneser
+5741,havaneser
+5742,jack russell terrier
+5743,jack russell terrier
+5744,labrador retriever
+5745,labrador retriever
+5746,malteser
+5747,malteser
+5748,mops
+5749,jack russell terrier
+5750,pekinese
+5751,pekinese
+5752,toy-pudel
+5753,toy-pudel
+5754,dackel (zwergdackel)
+5755,rottweiler
+5756,giant schnauzer
+5757,shih tzu
+5758,siberian husky
+5759,staffordshire bull terrier
+5760,west highland white terrier
+5761,whippet
+5762,yorkshire terrier
+5763,yorkshire terrier
+5764,pinscher
+5765,pinscher
+5766,zwergpudel
+5767,giant schnauzer
+5768,zwergspitz
+5769,airedale terrier
+5770,american staffordshire terrier
+5771,australian shepherd
+5772,bayerischer gebirgsschweisshund
+5773,beagle
+5774,deutscher schäferhund
+5775,berner sennenhund
+5776,bichon frisé
+5777,border collie
+5778,border collie
+5779,boxer
+5780,chihuahua
+5781,chihuahua
+5782,cocker spaniel
+5783,collie
+5784,dackel
+5785,dackel
+5786,dalmatiner
+5787,deutsche dogge
+5788,deutscher schäferhund
+5789,deutscher schäferhund
+5790,english cocker spaniel
+5791,berner sennenhund
+5792,flat-coated retriever
+5793,französische bulldogge
+5794,golden retriever
+5795,golden retriever
+5796,havaneser
+5797,havaneser
+5798,hovawart
+5799,irish setter
+5800,irish setter
+5801,jack russell terrier
+5802,jack russell terrier
+5803,großer münsterländer
+5804,labrador retriever
+5805,labrador retriever
+5806,magyar vizsla
+5807,malteser
+5808,malteser
+5809,mops
+5810,jack russell terrier
+5811,pekinese
+5812,pekinese
+5813,toy-pudel
+5814,dackel (zwergdackel)
+5815,rottweiler
+5816,giant schnauzer
+5817,giant schnauzer
+5818,shih tzu
+5819,siberian husky
+5820,staffordshire bull terrier
+5821,weimaraner
+5822,west highland white terrier
+5823,yorkshire terrier
+5824,yorkshire terrier
+5825,pinscher
+5826,pinscher
+5827,zwergpudel
+5828,zwergspitz
+5829,zwergspitz
+5830,american pit bull terrier
+5831,american staffordshire terrier
+5832,american staffordshire terrier
+5833,australian shepherd
+5834,beagle
+5835,beagle
+5836,berner sennenhund
+5837,bichon frisé
+5838,bolonka
+5839,border collie
+5840,border collie
+5841,boxer
+5842,dackel
+5843,bullterrier
+5844,cavalier king charles spaniel
+5845,chihuahua
+5846,chihuahua
+5847,chihuahua
+5848,cocker spaniel
+5849,collie
+5850,dackel
+5851,dackel
+5852,deutsche dogge
+5853,deutscher schäferhund
+5854,deutscher schäferhund
+5855,dobermann
+5856,foxterrier
+5857,english cocker spaniel
+5858,berner sennenhund
+5859,eurasier
+5860,flat-coated retriever
+5861,französische bulldogge
+5862,golden retriever
+5863,golden retriever
+5864,havaneser
+5865,havaneser
+5866,hovawart
+5867,jack russell terrier
+5868,jack russell terrier
+5869,großer münsterländer
+5870,labrador retriever
+5871,labrador retriever
+5872,lhasa apso
+5873,magyar vizsla
+5874,malteser
+5875,malteser
+5876,mops
+5877,jack russell terrier
+5878,pekinese
+5879,pekinese
+5880,toy-pudel
+5881,toy-pudel
+5882,dackel (zwergdackel)
+5883,rhodesian ridgeback
+5884,rottweiler
+5885,giant schnauzer
+5886,sheltie
+5887,shiba inu
+5888,shih tzu
+5889,siberian husky
+5890,spitz
+5891,spitz
+5892,staffordshire bull terrier
+5893,weimaraner
+5894,west highland white terrier
+5895,whippet
+5896,yorkshire terrier
+5897,yorkshire terrier
+5898,pinscher
+5899,pinscher
+5900,zwergpudel
+5901,giant schnauzer
+5902,zwergspitz
+5903,zwergspitz
+5904,american pit bull terrier
+5905,american staffordshire terrier
+5906,american staffordshire terrier
+5907,australian shepherd
+5908,beagle
+5909,border collie
+5910,chihuahua
+5911,chihuahua
+5912,chihuahua
+5913,dackel
+5914,dackel
+5915,deutscher schäferhund
+5916,deutscher schäferhund
+5917,foxterrier
+5918,english cocker spaniel
+5919,französische bulldogge
+5920,golden retriever
+5921,havaneser
+5922,havaneser
+5923,jack russell terrier
+5924,jack russell terrier
+5925,labrador retriever
+5926,labrador retriever
+5927,magyar vizsla
+5928,malteser
+5929,malteser
+5930,mops
+5931,pekinese
+5932,toy-pudel
+5933,dackel (zwergdackel)
+5934,rottweiler
+5935,shih tzu
+5936,siberian husky
+5937,staffordshire bull terrier
+5938,weißer schweizer schäferhund
+5939,yorkshire terrier
+5940,yorkshire terrier
+5941,pinscher
+5942,zwergpudel
+5943,zwergspitz
+5944,american pit bull terrier
+5945,american pit bull terrier
+5946,american staffordshire terrier
+5947,american staffordshire terrier
+5948,australian shepherd
+5949,beagle
+5950,berner sennenhund
+5951,border collie
+5952,border collie
+5953,cavalier king charles spaniel
+5954,chihuahua
+5955,chihuahua
+5956,chihuahua
+5957,cocker spaniel
+5958,dackel
+5959,dackel
+5960,deutsche dogge
+5961,deutscher schäferhund
+5962,deutscher schäferhund
+5963,english cocker spaniel
+5964,flat-coated retriever
+5965,französische bulldogge
+5966,golden retriever
+5967,golden retriever
+5968,havaneser
+5969,havaneser
+5970,jack russell terrier
+5971,jack russell terrier
+5972,labrador retriever
+5973,labrador retriever
+5974,magyar vizsla
+5975,malteser
+5976,malteser
+5977,mops
+5978,jack russell terrier
+5979,pekinese
+5980,pekinese
+5981,toy-pudel
+5982,dackel (zwergdackel)
+5983,rhodesian ridgeback
+5984,rottweiler
+5985,giant schnauzer
+5986,shiba inu
+5987,shih tzu
+5988,siberian husky
+5989,staffordshire bull terrier
+5990,staffordshire bull terrier
+5991,west highland white terrier
+5992,yorkshire terrier
+5993,yorkshire terrier
+5994,pinscher
+5995,pinscher
+5996,zwergpudel
+5997,giant schnauzer
+5998,zwergspitz
+5999,american pit bull terrier
+6000,american staffordshire terrier
+6001,american staffordshire terrier
+6002,australian shepherd
+6003,beagle
+6004,border collie
+6005,boxer
+6006,cao de agua portugues
+6007,cavalier king charles spaniel
+6008,chihuahua
+6009,chihuahua
+6010,chihuahua
+6011,dackel
+6012,dackel
+6013,deutscher schäferhund
+6014,deutscher schäferhund
+6015,english cocker spaniel
+6016,französische bulldogge
+6017,golden retriever
+6018,havaneser
+6019,havaneser
+6020,jack russell terrier
+6021,jack russell terrier
+6022,labrador retriever
+6023,labrador retriever
+6024,magyar vizsla
+6025,malteser
+6026,mops
+6027,papillon
+6028,jack russell terrier
+6029,toy-pudel
+6030,dackel (zwergdackel)
+6031,rottweiler
+6032,shih tzu
+6033,siberian husky
+6034,staffordshire bull terrier
+6035,tibetan terrier
+6036,west highland white terrier
+6037,yorkshire terrier
+6038,yorkshire terrier
+6039,pinscher
+6040,pinscher
+6041,american staffordshire terrier
+6042,australian shepherd
+6043,beagle
+6044,berner sennenhund
+6045,border collie
+6046,border collie
+6047,boxer
+6048,bullterrier
+6049,chihuahua
+6050,chihuahua
+6051,cocker spaniel
+6052,dackel
+6053,dackel
+6054,deutscher schäferhund
+6055,deutscher schäferhund
+6056,english cocker spaniel
+6057,französische bulldogge
+6058,golden retriever
+6059,golden retriever
+6060,havaneser
+6061,havaneser
+6062,jack russell terrier
+6063,jack russell terrier
+6064,labrador retriever
+6065,labrador retriever
+6066,magyar vizsla
+6067,malteser
+6068,mops
+6069,englische bulldogge
+6070,jack russell terrier
+6071,toy-pudel
+6072,dackel (zwergdackel)
+6073,giant schnauzer
+6074,shih tzu
+6075,siberian husky
+6076,west highland white terrier
+6077,yorkshire terrier
+6078,pinscher
+6079,pinscher
+6080,zwergpudel
+6081,amerikanischer cocker spaniel
+6082,american pit bull terrier
+6083,american pit bull terrier
+6084,american staffordshire terrier
+6085,american staffordshire terrier
+6086,australian shepherd
+6087,basset hound
+6088,bayerischer gebirgsschweisshund
+6089,beagle
+6090,deutscher schäferhund
+6091,berner sennenhund
+6092,berner sennenhund
+6093,border collie
+6094,border collie
+6095,boxer
+6096,dackel
+6097,french bulldog
+6098,bullterrier
+6099,cavalier king charles spaniel
+6100,chihuahua
+6101,chihuahua
+6102,chihuahua
+6103,cocker spaniel
+6104,collie
+6105,dackel
+6106,dackel
+6107,deutsche dogge
+6108,deutscher schäferhund
+6109,deutscher schäferhund
+6110,foxterrier
+6111,english cocker spaniel
+6112,english setter
+6113,flat-coated retriever
+6114,französische bulldogge
+6115,golden retriever
+6116,golden retriever
+6117,großpudel
+6118,havaneser
+6119,havaneser
+6120,hovawart
+6121,irish setter
+6122,irish terrier
+6123,jack russell terrier
+6124,jack russell terrier
+6125,labradoodle
+6126,labrador retriever
+6127,labrador retriever
+6128,lagotto romagnolo
+6129,magyar vizsla
+6130,malteser
+6131,malteser
+6132,mops
+6133,jack russell terrier
+6134,pekinese
+6135,toy-pudel
+6136,toy-pudel
+6137,dackel (zwergdackel)
+6138,rhodesian ridgeback
+6139,rottweiler
+6140,giant schnauzer
+6141,shih tzu
+6142,siberian husky
+6143,siberian husky
+6144,staffordshire bull terrier
+6145,weimaraner
+6146,weißer schweizer schäferhund
+6147,west highland white terrier
+6148,whippet
+6149,yorkshire terrier
+6150,yorkshire terrier
+6151,pinscher
+6152,pinscher
+6153,zwergpudel
+6154,zwergspitz
+6155,zwergspitz
+6156,american pit bull terrier
+6157,american staffordshire terrier
+6158,american staffordshire terrier
+6159,australian shepherd
+6160,beagle
+6161,beagle
+6162,bichon frisé
+6163,border collie
+6164,dackel
+6165,bullterrier
+6166,chihuahua
+6167,chihuahua
+6168,chihuahua
+6169,chinesischer schopfhund
+6170,cocker spaniel
+6171,dackel
+6172,dackel
+6173,deutscher schäferhund
+6174,deutscher schäferhund
+6175,english cocker spaniel
+6176,französische bulldogge
+6177,golden retriever
+6178,havaneser
+6179,havaneser
+6180,italienisches windspiel
+6181,jack russell terrier
+6182,jack russell terrier
+6183,labrador retriever
+6184,labrador retriever
+6185,magyar vizsla
+6186,malteser
+6187,malteser
+6188,mops
+6189,englische bulldogge
+6190,jack russell terrier
+6191,pekinese
+6192,pekinese
+6193,toy-pudel
+6194,toy-pudel
+6195,dackel (zwergdackel)
+6196,rottweiler
+6197,giant schnauzer
+6198,shih tzu
+6199,siberian husky
+6200,spitz
+6201,spitz
+6202,staffordshire bull terrier
+6203,west highland white terrier
+6204,yorkshire terrier
+6205,yorkshire terrier
+6206,pinscher
+6207,pinscher
+6208,zwergspitz
+6209,akita inu
+6210,amerikanischer cocker spaniel
+6211,american pit bull terrier
+6212,american pit bull terrier
+6213,american staffordshire terrier
+6214,american staffordshire terrier
+6215,australian cattle dog
+6216,australian shepherd
+6217,beagle
+6218,beagle
+6219,bearded collie
+6220,deutscher schäferhund
+6221,deutscher schäferhund
+6222,berner sennenhund
+6223,berner sennenhund
+6224,bichon frisé
+6225,bolonka
+6226,bordeauxdogge
+6227,border collie
+6228,border collie
+6229,boxer
+6230,boxer
+6231,dackel
+6232,french bulldog
+6233,bullmastiff
+6234,bullterrier
+6235,cairn terrier
+6236,cane corso
+6237,cavalier king charles spaniel
+6238,chihuahua
+6239,chihuahua
+6240,chihuahua
+6241,chihuahua
+6242,chinesischer schopfhund
+6243,chinesischer schopfhund
+6244,cocker spaniel
+6245,cocker spaniel
+6246,collie
+6247,collie
+6248,dackel
+6249,dackel
+6250,dalmatiner
+6251,deutsche dogge
+6252,deutsche dogge
+6253,deutscher pinscher
+6254,deutscher schäferhund
+6255,deutscher schäferhund
+6256,dobermann
+6257,dogo argentino
+6258,foxterrier
+6259,foxterrier
+6260,english cocker spaniel
+6261,english cocker spaniel
+6262,berner sennenhund
+6263,flat-coated retriever
+6264,französische bulldogge
+6265,golden retriever
+6266,golden retriever
+6267,großpudel
+6268,havaneser
+6269,havaneser
+6270,hovawart
+6271,irish setter
+6272,jack russell terrier
+6273,jack russell terrier
+6274,harrier
+6275,großer münsterländer
+6276,großer münsterländer
+6277,labradoodle
+6278,labrador retriever
+6279,labrador retriever
+6280,lagotto romagnolo
+6281,landseer
+6282,dackel
+6283,magyar vizsla
+6284,malinois
+6285,malteser
+6286,malteser
+6287,mops
+6288,mops
+6289,englische bulldogge
+6290,papillon
+6291,jack russell terrier
+6292,pekinese
+6293,pekinese
+6294,prager rattler
+6295,toy-pudel
+6296,toy-pudel
+6297,dackel (zwergdackel)
+6298,rhodesian ridgeback
+6299,giant schnauzer
+6300,rottweiler
+6301,rottweiler
+6302,giant schnauzer
+6303,giant schnauzer
+6304,scottish terrier
+6305,shar-pei
+6306,sheltie
+6307,shiba inu
+6308,shih tzu
+6309,shih tzu
+6310,siberian husky
+6311,siberian husky
+6312,afghanischer windhund
+6313,spitz
+6314,spitz
+6315,staffordshire bull terrier
+6316,staffordshire bull terrier
+6317,tervueren
+6318,cocker spaniel
+6319,weimaraner
+6320,weißer schweizer schäferhund
+6321,welsh terrier
+6322,west highland white terrier
+6323,whippet
+6324,yorkshire terrier
+6325,yorkshire terrier
+6326,pinscher
+6327,pinscher
+6328,zwergpudel
+6329,giant schnauzer
+6330,zwergspitz
+6331,zwergspitz
+6332,deutscher pinscher
+6333,deutscher pinscher
+6334,afghanischer windhund
+6335,airedale terrier
+6336,akita inu
+6337,alaskan malamute
+6338,american akita
+6339,amerikanischer cocker spaniel
+6340,american pit bull terrier
+6341,american pit bull terrier
+6342,american staffordshire terrier
+6343,american staffordshire terrier
+6344,australian shepherd
+6345,beagle
+6346,beagle
+6347,deutscher schäferhund
+6348,deutscher schäferhund
+6349,berger de pyrénées
+6350,berner sennenhund
+6351,berner sennenhund
+6352,harrier
+6353,bichon frisé
+6354,border terrier
+6355,bobtail
+6356,bolonka
+6357,bordeauxdogge
+6358,border collie
+6359,border collie
+6360,border terrier
+6361,boston terrier
+6362,boxer
+6363,boxer
+6364,dackel
+6365,french bulldog
+6366,bullmastiff
+6367,bullterrier
+6368,cairn terrier
+6369,cane corso
+6370,cao de agua portugues
+6371,cavalier king charles spaniel
+6372,chihuahua
+6373,chihuahua
+6374,chihuahua
+6375,chihuahua
+6376,chinesischer schopfhund
+6377,chow chow
+6378,cocker spaniel
+6379,cocker spaniel
+6380,collie
+6381,collie
+6382,dackel
+6383,dackel
+6384,dalmatiner
+6385,deutsche dogge
+6386,deutsche dogge
+6387,deutsche dogge
+6388,deutscher pinscher
+6389,deutscher pinscher
+6390,deutscher schäferhund
+6391,deutscher schäferhund
+6392,dobermann
+6393,dogo argentino
+6394,foxterrier
+6395,foxterrier
+6396,elo
+6397,english cocker spaniel
+6398,english cocker spaniel
+6399,english springer spaniel
+6400,flat-coated retriever
+6401,französische bulldogge
+6402,golden retriever
+6403,golden retriever
+6404,großpudel
+6405,havaneser
+6406,havaneser
+6407,hollandse herdershond
+6408,hovawart
+6409,irish wolfhound
+6410,irish setter
+6411,jack russell terrier
+6412,jack russell terrier
+6413,harrier
+6414,großer münsterländer
+6415,großer münsterländer
+6416,labradoodle
+6417,labrador retriever
+6418,labrador retriever
+6419,lagotto romagnolo
+6420,landseer
+6421,dackel
+6422,magyar vizsla
+6423,malinois
+6424,malinois
+6425,malteser
+6426,malteser
+6427,mops
+6428,mops
+6429,neufundländer
+6430,englische bulldogge
+6431,papillon
+6432,jack russell terrier
+6433,pekinese
+6434,pekinese
+6435,anatolischer hirtenhund
+6436,prager rattler
+6437,toy-pudel
+6438,toy-pudel
+6439,dackel (zwergdackel)
+6440,dackel (zwergdackel)
+6441,rhodesian ridgeback
+6442,rottweiler
+6443,rottweiler
+6444,samoyed
+6445,giant schnauzer
+6446,giant schnauzer
+6447,shar-pei
+6448,sheltie
+6449,shiba inu
+6450,shih tzu
+6451,shih tzu
+6452,siberian husky
+6453,siberian husky
+6454,afghanischer windhund
+6455,afghanischer windhund
+6456,spitz
+6457,spitz
+6458,staffordshire bull terrier
+6459,staffordshire bull terrier
+6460,cocker spaniel
+6461,tibetan terrier
+6462,tibetan terrier
+6463,toy-pudel
+6464,weimaraner
+6465,weißer schweizer schäferhund
+6466,welsh terrier
+6467,west highland white terrier
+6468,whippet
+6469,yorkshire terrier
+6470,yorkshire terrier
+6471,pinscher
+6472,pinscher
+6473,zwergpudel
+6474,giant schnauzer
+6475,zwergspitz
+6476,zwergspitz
+6477,deutscher pinscher
+6478,deutscher pinscher
+6479,airedale terrier
+6480,akita inu
+6481,american pit bull terrier
+6482,american pit bull terrier
+6483,american staffordshire terrier
+6484,american staffordshire terrier
+6485,australian shepherd
+6486,bayerischer gebirgsschweisshund
+6487,beagle
+6488,beagle
+6489,bearded collie
+6490,deutscher schäferhund
+6491,berner sennenhund
+6492,bichon frisé
+6493,bolonka
+6494,border collie
+6495,border collie
+6496,boxer
+6497,dackel
+6498,bullterrier
+6499,cairn terrier
+6500,cane corso
+6501,cavalier king charles spaniel
+6502,chihuahua
+6503,chihuahua
+6504,chihuahua
+6505,chow chow
+6506,cocker spaniel
+6507,collie
+6508,collie
+6509,dackel
+6510,dackel
+6511,dalmatiner
+6512,deutsche dogge
+6513,deutscher pinscher
+6514,deutscher schäferhund
+6515,deutscher schäferhund
+6516,dobermann
+6517,foxterrier
+6518,elo
+6519,english cocker spaniel
+6520,berner sennenhund
+6521,flat-coated retriever
+6522,französische bulldogge
+6523,golden retriever
+6524,golden retriever
+6525,havaneser
+6526,havaneser
+6527,hovawart
+6528,irish setter
+6529,jack russell terrier
+6530,jack russell terrier
+6531,labradoodle
+6532,labrador retriever
+6533,labrador retriever
+6534,leonberger
+6535,magyar vizsla
+6536,malinois
+6537,malteser
+6538,malteser
+6539,mops
+6540,englische bulldogge
+6541,papillon
+6542,jack russell terrier
+6543,pekinese
+6544,pekinese
+6545,toy-pudel
+6546,toy-pudel
+6547,puli
+6548,dackel (zwergdackel)
+6549,rhodesian ridgeback
+6550,rottweiler
+6551,giant schnauzer
+6552,giant schnauzer
+6553,shar-pei
+6554,sheltie
+6555,shiba inu
+6556,shih tzu
+6557,shih tzu
+6558,siberian husky
+6559,siberian husky
+6560,spitz
+6561,spitz
+6562,staffordshire bull terrier
+6563,tibetan terrier
+6564,weißer schweizer schäferhund
+6565,west highland white terrier
+6566,whippet
+6567,yorkshire terrier
+6568,yorkshire terrier
+6569,pinscher
+6570,pinscher
+6571,zwergpudel
+6572,giant schnauzer
+6573,zwergspitz
+6574,zwergspitz
+6575,chihuahua
+6576,dackel
+6577,französische bulldogge
+6578,golden retriever
+6579,havaneser
+6580,jack russell terrier
+6581,jack russell terrier
+6582,labrador retriever
+6583,labrador retriever
+6584,magyar vizsla
+6585,malteser
+6586,mops
+6587,jack russell terrier
+6588,toy-pudel
+6589,shih tzu
+6590,toy-pudel
+6591,weimaraner
+6592,west highland white terrier
+6593,yorkshire terrier
+6594,zwergspitz
+6595,amerikanischer cocker spaniel
+6596,american pit bull terrier
+6597,american pit bull terrier
+6598,american staffordshire terrier
+6599,american staffordshire terrier
+6600,australian shepherd
+6601,beagle
+6602,beagle
+6603,berner sennenhund
+6604,bichon frisé
+6605,border collie
+6606,border collie
+6607,boxer
+6608,cane corso
+6609,cavalier king charles spaniel
+6610,chihuahua
+6611,chihuahua
+6612,chihuahua
+6613,chihuahua
+6614,chinesischer schopfhund
+6615,cocker spaniel
+6616,dackel
+6617,dackel
+6618,deutscher schäferhund
+6619,deutscher schäferhund
+6620,dobermann
+6621,dogo argentino
+6622,english cocker spaniel
+6623,english cocker spaniel
+6624,französische bulldogge
+6625,golden retriever
+6626,golden retriever
+6627,havaneser
+6628,havaneser
+6629,jack russell terrier
+6630,jack russell terrier
+6631,labrador retriever
+6632,labrador retriever
+6633,lagotto romagnolo
+6634,magyar vizsla
+6635,malinois
+6636,malteser
+6637,malteser
+6638,mops
+6639,jack russell terrier
+6640,pekinese
+6641,pekinese
+6642,toy-pudel
+6643,dackel (zwergdackel)
+6644,rhodesian ridgeback
+6645,rottweiler
+6646,giant schnauzer
+6647,sheltie
+6648,shiba inu
+6649,shih tzu
+6650,siberian husky
+6651,siberian husky
+6652,spitz
+6653,staffordshire bull terrier
+6654,west highland white terrier
+6655,whippet
+6656,yorkshire terrier
+6657,yorkshire terrier
+6658,pinscher
+6659,pinscher
+6660,zwergpudel
+6661,giant schnauzer
+6662,zwergspitz
+6663,zwergspitz
+6664,american pit bull terrier
+6665,american staffordshire terrier
+6666,american staffordshire terrier
+6667,australian shepherd
+6668,beagle
+6669,bolonka
+6670,border collie
+6671,border collie
+6672,boxer
+6673,dackel
+6674,cavalier king charles spaniel
+6675,chihuahua
+6676,chihuahua
+6677,chihuahua
+6678,cocker spaniel
+6679,dackel
+6680,dackel
+6681,deutscher schäferhund
+6682,deutscher schäferhund
+6683,dobermann
+6684,english cocker spaniel
+6685,flat-coated retriever
+6686,französische bulldogge
+6687,golden retriever
+6688,golden retriever
+6689,havaneser
+6690,havaneser
+6691,jack russell terrier
+6692,jack russell terrier
+6693,labradoodle
+6694,labrador retriever
+6695,labrador retriever
+6696,magyar vizsla
+6697,malteser
+6698,malteser
+6699,mops
+6700,jack russell terrier
+6701,pekinese
+6702,pekinese
+6703,toy-pudel
+6704,toy-pudel
+6705,dackel (zwergdackel)
+6706,rottweiler
+6707,giant schnauzer
+6708,giant schnauzer
+6709,shiba inu
+6710,shih tzu
+6711,siberian husky
+6712,siberian husky
+6713,west highland white terrier
+6714,whippet
+6715,yorkshire terrier
+6716,yorkshire terrier
+6717,pinscher
+6718,pinscher
+6719,zwergpudel
+6720,zwergspitz
+6721,zwergspitz
+6722,american staffordshire terrier
+6723,beagle
+6724,cavalier king charles spaniel
+6725,chihuahua
+6726,chihuahua
+6727,dackel
+6728,dackel
+6729,deutscher schäferhund
+6730,deutscher schäferhund
+6731,english cocker spaniel
+6732,französische bulldogge
+6733,golden retriever
+6734,havaneser
+6735,jack russell terrier
+6736,jack russell terrier
+6737,labrador retriever
+6738,labrador retriever
+6739,malteser
+6740,malteser
+6741,mops
+6742,jack russell terrier
+6743,toy-pudel
+6744,dackel (zwergdackel)
+6745,west highland white terrier
+6746,yorkshire terrier
+6747,pinscher
+6748,zwergspitz
+6749,american staffordshire terrier
+6750,american staffordshire terrier
+6751,beagle
+6752,chihuahua
+6753,chihuahua
+6754,dackel
+6755,dackel
+6756,deutscher schäferhund
+6757,deutscher schäferhund
+6758,französische bulldogge
+6759,golden retriever
+6760,havaneser
+6761,havaneser
+6762,jack russell terrier
+6763,jack russell terrier
+6764,labrador retriever
+6765,labrador retriever
+6766,magyar vizsla
+6767,malteser
+6768,mops
+6769,jack russell terrier
+6770,pekinese
+6771,dackel (zwergdackel)
+6772,rottweiler
+6773,shih tzu
+6774,whippet
+6775,yorkshire terrier
+6776,pinscher
+6777,american staffordshire terrier
+6778,chihuahua
+6779,collie
+6780,dackel
+6781,deutscher schäferhund
+6782,english cocker spaniel
+6783,französische bulldogge
+6784,golden retriever
+6785,havaneser
+6786,italienisches windspiel
+6787,jack russell terrier
+6788,labrador retriever
+6789,labrador retriever
+6790,magyar vizsla
+6791,malteser
+6792,mops
+6793,toy-pudel
+6794,shiba inu
+6795,west highland white terrier
+6796,yorkshire terrier
+6797,american staffordshire terrier
+6798,beagle
+6799,chihuahua
+6800,chihuahua
+6801,dackel
+6802,dackel
+6803,deutscher schäferhund
+6804,deutscher schäferhund
+6805,english cocker spaniel
+6806,französische bulldogge
+6807,golden retriever
+6808,havaneser
+6809,jack russell terrier
+6810,jack russell terrier
+6811,labrador retriever
+6812,labrador retriever
+6813,malteser
+6814,mops
+6815,toy-pudel
+6816,shih tzu
+6817,yorkshire terrier
+6818,beagle
+6819,border collie
+6820,chihuahua
+6821,dackel
+6822,dackel
+6823,golden retriever
+6824,havaneser
+6825,havaneser
+6826,labrador retriever
+6827,labrador retriever
+6828,magyar vizsla
+6829,malteser
+6830,mops
+6831,shih tzu
+6832,american staffordshire terrier
+6833,australian shepherd
+6834,beagle
+6835,beagle
+6836,berner sennenhund
+6837,chihuahua
+6838,chihuahua
+6839,dackel
+6840,deutscher schäferhund
+6841,deutscher schäferhund
+6842,dogo argentino
+6843,english cocker spaniel
+6844,französische bulldogge
+6845,golden retriever
+6846,golden retriever
+6847,havaneser
+6848,jack russell terrier
+6849,jack russell terrier
+6850,labrador retriever
+6851,labrador retriever
+6852,lhasa apso
+6853,magyar vizsla
+6854,malteser
+6855,mops
+6856,jack russell terrier
+6857,siberian husky
+6858,west highland white terrier
+6859,yorkshire terrier
+6860,pinscher
+6861,zwergspitz
+6862,akita inu
+6863,american bulldog
+6864,amerikanischer cocker spaniel
+6865,american pit bull terrier
+6866,american pit bull terrier
+6867,american staffordshire terrier
+6868,american staffordshire terrier
+6869,australian shepherd
+6870,beagle
+6871,beagle
+6872,deutscher schäferhund
+6873,berner sennenhund
+6874,bichon frisé
+6875,bolonka
+6876,border collie
+6877,border collie
+6878,boston terrier
+6879,boxer
+6880,boxer
+6881,dackel
+6882,french bulldog
+6883,bullterrier
+6884,cane corso
+6885,cavalier king charles spaniel
+6886,chihuahua
+6887,chihuahua
+6888,chihuahua
+6889,chihuahua
+6890,chinesischer schopfhund
+6891,chinesischer schopfhund
+6892,cocker spaniel
+6893,cocker spaniel
+6894,collie
+6895,dackel
+6896,dackel
+6897,dalmatiner
+6898,deutsche dogge
+6899,deutscher pinscher
+6900,deutscher schäferhund
+6901,deutscher schäferhund
+6902,dobermann
+6903,dogo argentino
+6904,foxterrier
+6905,foxterrier
+6906,english cocker spaniel
+6907,english cocker spaniel
+6908,berner sennenhund
+6909,flat-coated retriever
+6910,französische bulldogge
+6911,golden retriever
+6912,golden retriever
+6913,havaneser
+6914,havaneser
+6915,hovawart
+6916,jack russell terrier
+6917,jack russell terrier
+6918,großer münsterländer
+6919,labradoodle
+6920,labrador retriever
+6921,labrador retriever
+6922,dackel
+6923,magyar vizsla
+6924,malinois
+6925,malteser
+6926,malteser
+6927,mops
+6928,englische bulldogge
+6929,papillon
+6930,jack russell terrier
+6931,pekinese
+6932,pekinese
+6933,prager rattler
+6934,toy-pudel
+6935,toy-pudel
+6936,puli
+6937,dackel (zwergdackel)
+6938,dackel (zwergdackel)
+6939,rhodesian ridgeback
+6940,rottweiler
+6941,samoyed
+6942,giant schnauzer
+6943,shar-pei
+6944,sheltie
+6945,shiba inu
+6946,shih tzu
+6947,shih tzu
+6948,siberian husky
+6949,spitz
+6950,spitz
+6951,staffordshire bull terrier
+6952,staffordshire bull terrier
+6953,tibetan terrier
+6954,weißer schweizer schäferhund
+6955,west highland white terrier
+6956,whippet
+6957,yorkshire terrier
+6958,yorkshire terrier
+6959,pinscher
+6960,pinscher
+6961,zwergpudel
+6962,giant schnauzer
+6963,zwergspitz
+6964,zwergspitz
+6965,deutscher pinscher
+6966,deutscher pinscher
+6967,airedale terrier
+6968,amerikanischer cocker spaniel
+6969,american pit bull terrier
+6970,american pit bull terrier
+6971,american staffordshire terrier
+6972,american staffordshire terrier
+6973,australian shepherd
+6974,beagle
+6975,beagle
+6976,deutscher schäferhund
+6977,berner sennenhund
+6978,berner sennenhund
+6979,bichon frisé
+6980,bordeauxdogge
+6981,border collie
+6982,border collie
+6983,boxer
+6984,french bulldog
+6985,bullterrier
+6986,cane corso
+6987,cavalier king charles spaniel
+6988,chihuahua
+6989,chihuahua
+6990,chihuahua
+6991,chow chow
+6992,cocker spaniel
+6993,dackel
+6994,dackel
+6995,deutscher pinscher
+6996,deutscher schäferhund
+6997,deutscher schäferhund
+6998,dogo argentino
+6999,foxterrier
+7000,english cocker spaniel
+7001,english cocker spaniel
+7002,flat-coated retriever
+7003,französische bulldogge
+7004,golden retriever
+7005,golden retriever
+7006,havaneser
+7007,havaneser
+7008,hovawart
+7009,jack russell terrier
+7010,jack russell terrier
+7011,labrador retriever
+7012,labrador retriever
+7013,magyar vizsla
+7014,malinois
+7015,malteser
+7016,malteser
+7017,mops
+7018,englische bulldogge
+7019,papillon
+7020,jack russell terrier
+7021,pekinese
+7022,pekinese
+7023,toy-pudel
+7024,toy-pudel
+7025,dackel (zwergdackel)
+7026,rhodesian ridgeback
+7027,rottweiler
+7028,rottweiler
+7029,giant schnauzer
+7030,shar-pei
+7031,sheltie
+7032,shih tzu
+7033,siberian husky
+7034,siberian husky
+7035,spitz
+7036,spitz
+7037,staffordshire bull terrier
+7038,staffordshire bull terrier
+7039,tibetan terrier
+7040,weimaraner
+7041,west highland white terrier
+7042,whippet
+7043,yorkshire terrier
+7044,yorkshire terrier
+7045,pinscher
+7046,zwergpudel
+7047,zwergspitz
+7048,zwergspitz
+7049,american pit bull terrier
+7050,american staffordshire terrier
+7051,american staffordshire terrier
+7052,australian shepherd
+7053,beagle
+7054,beagle
+7055,berner sennenhund
+7056,border collie
+7057,border collie
+7058,bullterrier
+7059,cane corso
+7060,chihuahua
+7061,chihuahua
+7062,chihuahua
+7063,cocker spaniel
+7064,dackel
+7065,dackel
+7066,deutscher schäferhund
+7067,deutscher schäferhund
+7068,dobermann
+7069,english cocker spaniel
+7070,französische bulldogge
+7071,golden retriever
+7072,golden retriever
+7073,havaneser
+7074,havaneser
+7075,jack russell terrier
+7076,jack russell terrier
+7077,labrador retriever
+7078,labrador retriever
+7079,malteser
+7080,malteser
+7081,mops
+7082,jack russell terrier
+7083,pekinese
+7084,pekinese
+7085,toy-pudel
+7086,toy-pudel
+7087,dackel (zwergdackel)
+7088,rottweiler
+7089,giant schnauzer
+7090,shih tzu
+7091,siberian husky
+7092,spitz
+7093,staffordshire bull terrier
+7094,west highland white terrier
+7095,whippet
+7096,yorkshire terrier
+7097,yorkshire terrier
+7098,pinscher
+7099,pinscher
+7100,zwergpudel
+7101,giant schnauzer
+7102,zwergspitz
+7103,zwergspitz
+7104,american staffordshire terrier
+7105,australian shepherd
+7106,bayerischer gebirgsschweisshund
+7107,beagle
+7108,deutscher schäferhund
+7109,berner sennenhund
+7110,bichon frisé
+7111,border collie
+7112,border collie
+7113,boxer
+7114,chihuahua
+7115,chihuahua
+7116,cocker spaniel
+7117,collie
+7118,collie
+7119,dackel
+7120,dackel
+7121,deutsche dogge
+7122,deutscher schäferhund
+7123,deutscher schäferhund
+7124,english cocker spaniel
+7125,berner sennenhund
+7126,flat-coated retriever
+7127,französische bulldogge
+7128,golden retriever
+7129,golden retriever
+7130,havaneser
+7131,havaneser
+7132,hovawart
+7133,irish setter
+7134,irish setter
+7135,jack russell terrier
+7136,jack russell terrier
+7137,labradoodle
+7138,labrador retriever
+7139,labrador retriever
+7140,magyar vizsla
+7141,malteser
+7142,malteser
+7143,mops
+7144,papillon
+7145,jack russell terrier
+7146,pekinese
+7147,pekinese
+7148,toy-pudel
+7149,dackel (zwergdackel)
+7150,rottweiler
+7151,giant schnauzer
+7152,giant schnauzer
+7153,shih tzu
+7154,siberian husky
+7155,spitz
+7156,weimaraner
+7157,west highland white terrier
+7158,yorkshire terrier
+7159,yorkshire terrier
+7160,pinscher
+7161,pinscher
+7162,zwergpudel
+7163,zwergspitz
+7164,zwergspitz
+7165,american pit bull terrier
+7166,american pit bull terrier
+7167,american staffordshire terrier
+7168,american staffordshire terrier
+7169,australian shepherd
+7170,beagle
+7171,beagle
+7172,berner sennenhund
+7173,bichon frisé
+7174,bolonka
+7175,border collie
+7176,border collie
+7177,boxer
+7178,dackel
+7179,bullterrier
+7180,cavalier king charles spaniel
+7181,chihuahua
+7182,chihuahua
+7183,chihuahua
+7184,cocker spaniel
+7185,collie
+7186,collie
+7187,dackel
+7188,dackel
+7189,deutsche dogge
+7190,deutscher schäferhund
+7191,deutscher schäferhund
+7192,dobermann
+7193,foxterrier
+7194,english cocker spaniel
+7195,berner sennenhund
+7196,eurasier
+7197,flat-coated retriever
+7198,französische bulldogge
+7199,golden retriever
+7200,golden retriever
+7201,havaneser
+7202,havaneser
+7203,hovawart
+7204,jack russell terrier
+7205,jack russell terrier
+7206,großer münsterländer
+7207,kooikerhondje
+7208,labrador retriever
+7209,labrador retriever
+7210,lagotto romagnolo
+7211,magyar vizsla
+7212,malteser
+7213,malteser
+7214,mops
+7215,jack russell terrier
+7216,pekinese
+7217,pekinese
+7218,toy-pudel
+7219,toy-pudel
+7220,dackel (zwergdackel)
+7221,rhodesian ridgeback
+7222,rottweiler
+7223,giant schnauzer
+7224,sheltie
+7225,shiba inu
+7226,shih tzu
+7227,siberian husky
+7228,spitz
+7229,spitz
+7230,staffordshire bull terrier
+7231,weimaraner
+7232,weißer schweizer schäferhund
+7233,west highland white terrier
+7234,whippet
+7235,yorkshire terrier
+7236,yorkshire terrier
+7237,pinscher
+7238,pinscher
+7239,zwergpudel
+7240,giant schnauzer
+7241,zwergspitz
+7242,zwergspitz
+7243,american pit bull terrier
+7244,american staffordshire terrier
+7245,american staffordshire terrier
+7246,australian shepherd
+7247,beagle
+7248,border collie
+7249,border collie
+7250,chihuahua
+7251,chihuahua
+7252,chihuahua
+7253,dackel
+7254,dackel
+7255,deutscher schäferhund
+7256,deutscher schäferhund
+7257,foxterrier
+7258,english cocker spaniel
+7259,französische bulldogge
+7260,golden retriever
+7261,havaneser
+7262,havaneser
+7263,jack russell terrier
+7264,jack russell terrier
+7265,labrador retriever
+7266,labrador retriever
+7267,magyar vizsla
+7268,malteser
+7269,malteser
+7270,mops
+7271,pekinese
+7272,toy-pudel
+7273,dackel (zwergdackel)
+7274,rottweiler
+7275,shih tzu
+7276,siberian husky
+7277,staffordshire bull terrier
+7278,weißer schweizer schäferhund
+7279,west highland white terrier
+7280,yorkshire terrier
+7281,pinscher
+7282,zwergpudel
+7283,zwergspitz
+7284,american pit bull terrier
+7285,american pit bull terrier
+7286,american staffordshire terrier
+7287,american staffordshire terrier
+7288,australian shepherd
+7289,beagle
+7290,border collie
+7291,border collie
+7292,bullterrier
+7293,cavalier king charles spaniel
+7294,chihuahua
+7295,chihuahua
+7296,chihuahua
+7297,cocker spaniel
+7298,dackel
+7299,dackel
+7300,deutscher schäferhund
+7301,deutscher schäferhund
+7302,english cocker spaniel
+7303,flat-coated retriever
+7304,französische bulldogge
+7305,golden retriever
+7306,golden retriever
+7307,havaneser
+7308,havaneser
+7309,jack russell terrier
+7310,jack russell terrier
+7311,labrador retriever
+7312,labrador retriever
+7313,magyar vizsla
+7314,malteser
+7315,malteser
+7316,mops
+7317,jack russell terrier
+7318,pekinese
+7319,pekinese
+7320,toy-pudel
+7321,dackel (zwergdackel)
+7322,rhodesian ridgeback
+7323,rottweiler
+7324,shar-pei
+7325,shiba inu
+7326,shih tzu
+7327,siberian husky
+7328,staffordshire bull terrier
+7329,staffordshire bull terrier
+7330,west highland white terrier
+7331,yorkshire terrier
+7332,yorkshire terrier
+7333,pinscher
+7334,pinscher
+7335,zwergpudel
+7336,zwergspitz
+7337,zwergspitz
+7338,american pit bull terrier
+7339,american staffordshire terrier
+7340,american staffordshire terrier
+7341,australian shepherd
+7342,beagle
+7343,beagle
+7344,border collie
+7345,boxer
+7346,cao de agua portugues
+7347,cavalier king charles spaniel
+7348,chihuahua
+7349,chihuahua
+7350,chihuahua
+7351,dackel
+7352,dackel
+7353,deutscher schäferhund
+7354,deutscher schäferhund
+7355,english cocker spaniel
+7356,flat-coated retriever
+7357,französische bulldogge
+7358,golden retriever
+7359,havaneser
+7360,havaneser
+7361,jack russell terrier
+7362,jack russell terrier
+7363,labrador retriever
+7364,labrador retriever
+7365,magyar vizsla
+7366,malteser
+7367,mops
+7368,jack russell terrier
+7369,toy-pudel
+7370,dackel (zwergdackel)
+7371,rottweiler
+7372,shiba inu
+7373,shih tzu
+7374,siberian husky
+7375,staffordshire bull terrier
+7376,tibetan terrier
+7377,west highland white terrier
+7378,yorkshire terrier
+7379,yorkshire terrier
+7380,pinscher
+7381,pinscher
+7382,zwergpudel
+7383,american staffordshire terrier
+7384,australian shepherd
+7385,beagle
+7386,berner sennenhund
+7387,border collie
+7388,border collie
+7389,boxer
+7390,chihuahua
+7391,chihuahua
+7392,dackel
+7393,dackel
+7394,deutscher schäferhund
+7395,deutscher schäferhund
+7396,english cocker spaniel
+7397,französische bulldogge
+7398,golden retriever
+7399,golden retriever
+7400,havaneser
+7401,havaneser
+7402,jack russell terrier
+7403,labrador retriever
+7404,labrador retriever
+7405,magyar vizsla
+7406,malteser
+7407,mops
+7408,englische bulldogge
+7409,jack russell terrier
+7410,toy-pudel
+7411,dackel (zwergdackel)
+7412,giant schnauzer
+7413,siberian husky
+7414,west highland white terrier
+7415,yorkshire terrier
+7416,pinscher
+7417,pinscher
+7418,zwergpudel
+7419,american pit bull terrier
+7420,american pit bull terrier
+7421,american staffordshire terrier
+7422,american staffordshire terrier
+7423,australian shepherd
+7424,beagle
+7425,berner sennenhund
+7426,border collie
+7427,border collie
+7428,boxer
+7429,dackel
+7430,french bulldog
+7431,bullterrier
+7432,cavalier king charles spaniel
+7433,chihuahua
+7434,chihuahua
+7435,chihuahua
+7436,cocker spaniel
+7437,collie
+7438,dackel
+7439,dackel
+7440,dalmatiner
+7441,deutsche dogge
+7442,deutscher schäferhund
+7443,deutscher schäferhund
+7444,foxterrier
+7445,english cocker spaniel
+7446,flat-coated retriever
+7447,französische bulldogge
+7448,golden retriever
+7449,golden retriever
+7450,großpudel
+7451,havaneser
+7452,havaneser
+7453,hovawart
+7454,irish setter
+7455,jack russell terrier
+7456,jack russell terrier
+7457,labradoodle
+7458,labrador retriever
+7459,labrador retriever
+7460,lagotto romagnolo
+7461,magyar vizsla
+7462,malteser
+7463,malteser
+7464,mops
+7465,papillon
+7466,jack russell terrier
+7467,pekinese
+7468,toy-pudel
+7469,toy-pudel
+7470,dackel (zwergdackel)
+7471,rhodesian ridgeback
+7472,rottweiler
+7473,giant schnauzer
+7474,shih tzu
+7475,siberian husky
+7476,toy-pudel
+7477,weimaraner
+7478,weißer schweizer schäferhund
+7479,west highland white terrier
+7480,whippet
+7481,yorkshire terrier
+7482,yorkshire terrier
+7483,pinscher
+7484,pinscher
+7485,zwergpudel
+7486,zwergspitz
+7487,zwergspitz
+7488,american pit bull terrier
+7489,american staffordshire terrier
+7490,american staffordshire terrier
+7491,australian shepherd
+7492,beagle
+7493,beagle
+7494,bichon frisé
+7495,border collie
+7496,dackel
+7497,bullterrier
+7498,chihuahua
+7499,chihuahua
+7500,chihuahua
+7501,cocker spaniel
+7502,dackel
+7503,dackel
+7504,deutscher schäferhund
+7505,deutscher schäferhund
+7506,english cocker spaniel
+7507,französische bulldogge
+7508,golden retriever
+7509,havaneser
+7510,havaneser
+7511,italienisches windspiel
+7512,jack russell terrier
+7513,jack russell terrier
+7514,labrador retriever
+7515,labrador retriever
+7516,magyar vizsla
+7517,malteser
+7518,malteser
+7519,mops
+7520,englische bulldogge
+7521,jack russell terrier
+7522,pekinese
+7523,pekinese
+7524,toy-pudel
+7525,toy-pudel
+7526,dackel (zwergdackel)
+7527,rottweiler
+7528,giant schnauzer
+7529,shih tzu
+7530,siberian husky
+7531,spitz
+7532,spitz
+7533,staffordshire bull terrier
+7534,weißer schweizer schäferhund
+7535,west highland white terrier
+7536,yorkshire terrier
+7537,yorkshire terrier
+7538,pinscher
+7539,pinscher
+7540,zwergspitz
+7541,akita inu
+7542,american bulldog
+7543,amerikanischer cocker spaniel
+7544,american pit bull terrier
+7545,american pit bull terrier
+7546,american staffordshire terrier
+7547,american staffordshire terrier
+7548,australian cattle dog
+7549,australian shepherd
+7550,beagle
+7551,beagle
+7552,bearded collie
+7553,deutscher schäferhund
+7554,deutscher schäferhund
+7555,berner sennenhund
+7556,berner sennenhund
+7557,bichon frisé
+7558,bologneser
+7559,bolonka
+7560,bordeauxdogge
+7561,border collie
+7562,border collie
+7563,boxer
+7564,boxer
+7565,dackel
+7566,dackel
+7567,french bulldog
+7568,bullmastiff
+7569,bullterrier
+7570,cairn terrier
+7571,cane corso
+7572,cavalier king charles spaniel
+7573,chihuahua
+7574,chihuahua
+7575,chihuahua
+7576,chihuahua
+7577,chinesischer schopfhund
+7578,cocker spaniel
+7579,cocker spaniel
+7580,collie
+7581,collie
+7582,dackel
+7583,dackel
+7584,dalmatiner
+7585,deutsche dogge
+7586,deutsche dogge
+7587,schottischer terrier
+7588,deutscher pinscher
+7589,deutscher pinscher
+7590,deutscher schäferhund
+7591,deutscher schäferhund
+7592,dobermann
+7593,dogo argentino
+7594,foxterrier
+7595,foxterrier
+7596,english cocker spaniel
+7597,english cocker spaniel
+7598,berner sennenhund
+7599,flat-coated retriever
+7600,französische bulldogge
+7601,golden retriever
+7602,golden retriever
+7603,großpudel
+7604,havaneser
+7605,havaneser
+7606,hovawart
+7607,irish setter
+7608,irish wolfhound
+7609,jack russell terrier
+7610,jack russell terrier
+7611,großer münsterländer
+7612,großer münsterländer
+7613,labrador retriever
+7614,labrador retriever
+7615,landseer
+7616,dackel
+7617,magyar vizsla
+7618,malinois
+7619,malteser
+7620,malteser
+7621,mops
+7622,mops
+7623,englische bulldogge
+7624,papillon
+7625,jack russell terrier
+7626,pekinese
+7627,pekinese
+7628,prager rattler
+7629,toy-pudel
+7630,toy-pudel
+7631,dackel (zwergdackel)
+7632,rhodesian ridgeback
+7633,giant schnauzer
+7634,rottweiler
+7635,samoyed
+7636,giant schnauzer
+7637,giant schnauzer
+7638,scottish terrier
+7639,shar-pei
+7640,sheltie
+7641,shiba inu
+7642,shih tzu
+7643,shih tzu
+7644,siberian husky
+7645,siberian husky
+7646,spitz
+7647,spitz
+7648,staffordshire bull terrier
+7649,staffordshire bull terrier
+7650,tervueren
+7651,cocker spaniel
+7652,weimaraner
+7653,weißer schweizer schäferhund
+7654,welsh terrier
+7655,west highland white terrier
+7656,whippet
+7657,yorkshire terrier
+7658,yorkshire terrier
+7659,pinscher
+7660,pinscher
+7661,zwergpudel
+7662,giant schnauzer
+7663,zwergspitz
+7664,zwergspitz
+7665,deutscher pinscher
+7666,deutscher pinscher
+7667,airedale terrier
+7668,akita inu
+7669,alaskan malamute
+7670,american akita
+7671,american bulldog
+7672,amerikanischer cocker spaniel
+7673,american pit bull terrier
+7674,american pit bull terrier
+7675,american staffordshire terrier
+7676,american staffordshire terrier
+7677,australian shepherd
+7678,beagle
+7679,beagle
+7680,deutscher schäferhund
+7681,deutscher schäferhund
+7682,berger de pyrénées
+7683,berner sennenhund
+7684,berner sennenhund
+7685,harrier
+7686,bichon frisé
+7687,border terrier
+7688,bobtail
+7689,bolonka
+7690,bordeauxdogge
+7691,border collie
+7692,border collie
+7693,border terrier
+7694,boston terrier
+7695,boxer
+7696,boxer
+7697,dackel
+7698,french bulldog
+7699,bullmastiff
+7700,bullterrier
+7701,cairn terrier
+7702,cane corso
+7703,cao de agua portugues
+7704,cavalier king charles spaniel
+7705,chihuahua
+7706,chihuahua
+7707,chihuahua
+7708,chihuahua
+7709,chinesischer schopfhund
+7710,chow chow
+7711,cocker spaniel
+7712,cocker spaniel
+7713,collie
+7714,collie
+7715,dackel
+7716,dackel
+7717,dalmatiner
+7718,deutsche dogge
+7719,deutsche dogge
+7720,deutsche dogge
+7721,deutscher pinscher
+7722,deutscher pinscher
+7723,deutscher schäferhund
+7724,deutscher schäferhund
+7725,dobermann
+7726,dogo argentino
+7727,foxterrier
+7728,foxterrier
+7729,elo
+7730,english cocker spaniel
+7731,english cocker spaniel
+7732,english springer spaniel
+7733,eurasier
+7734,flat-coated retriever
+7735,französische bulldogge
+7736,golden retriever
+7737,golden retriever
+7738,havaneser
+7739,havaneser
+7740,hollandse herdershond
+7741,hovawart
+7742,irish terrier
+7743,irish wolfhound
+7744,irish setter
+7745,jack russell terrier
+7746,jack russell terrier
+7747,harrier
+7748,großer münsterländer
+7749,labradoodle
+7750,labrador retriever
+7751,labrador retriever
+7752,lagotto romagnolo
+7753,landseer
+7754,dackel
+7755,magyar vizsla
+7756,malinois
+7757,malteser
+7758,malteser
+7759,mops
+7760,mops
+7761,neufundländer
+7762,englische bulldogge
+7763,papillon
+7764,jack russell terrier
+7765,pekinese
+7766,pekinese
+7767,prager rattler
+7768,toy-pudel
+7769,toy-pudel
+7770,dackel (zwergdackel)
+7771,dackel (zwergdackel)
+7772,rhodesian ridgeback
+7773,rottweiler
+7774,rottweiler
+7775,samoyed
+7776,giant schnauzer
+7777,giant schnauzer
+7778,shar-pei
+7779,shar-pei
+7780,sheltie
+7781,shiba inu
+7782,shih tzu
+7783,shih tzu
+7784,siberian husky
+7785,siberian husky
+7786,afghanischer windhund
+7787,afghanischer windhund
+7788,spitz
+7789,spitz
+7790,staffordshire bull terrier
+7791,staffordshire bull terrier
+7792,cocker spaniel
+7793,tibetan terrier
+7794,tibetan terrier
+7795,toy-pudel
+7796,weimaraner
+7797,weißer schweizer schäferhund
+7798,welsh terrier
+7799,west highland white terrier
+7800,whippet
+7801,yorkshire terrier
+7802,yorkshire terrier
+7803,pinscher
+7804,pinscher
+7805,zwergpudel
+7806,giant schnauzer
+7807,zwergspitz
+7808,zwergspitz
+7809,deutscher pinscher
+7810,deutscher pinscher
+7811,airedale terrier
+7812,akita inu
+7813,american pit bull terrier
+7814,american pit bull terrier
+7815,american staffordshire terrier
+7816,american staffordshire terrier
+7817,australian shepherd
+7818,bayerischer gebirgsschweisshund
+7819,beagle
+7820,beagle
+7821,bearded collie
+7822,berner sennenhund
+7823,bichon frisé
+7824,bolonka
+7825,border collie
+7826,border collie
+7827,boxer
+7828,dackel
+7829,bullterrier
+7830,cairn terrier
+7831,cane corso
+7832,cavalier king charles spaniel
+7833,chihuahua
+7834,chihuahua
+7835,chihuahua
+7836,chihuahua
+7837,cocker spaniel
+7838,collie
+7839,collie
+7840,dackel
+7841,dackel
+7842,dalmatiner
+7843,deutsche dogge
+7844,deutsche dogge
+7845,deutscher pinscher
+7846,deutscher schäferhund
+7847,deutscher schäferhund
+7848,dobermann
+7849,foxterrier
+7850,elo
+7851,english cocker spaniel
+7852,berner sennenhund
+7853,flat-coated retriever
+7854,französische bulldogge
+7855,golden retriever
+7856,golden retriever
+7857,havaneser
+7858,havaneser
+7859,hovawart
+7860,irish setter
+7861,jack russell terrier
+7862,jack russell terrier
+7863,labradoodle
+7864,labrador retriever
+7865,labrador retriever
+7866,magyar vizsla
+7867,malinois
+7868,malteser
+7869,malteser
+7870,mops
+7871,englische bulldogge
+7872,papillon
+7873,jack russell terrier
+7874,pekinese
+7875,pekinese
+7876,toy-pudel
+7877,toy-pudel
+7878,puli
+7879,dackel (zwergdackel)
+7880,rhodesian ridgeback
+7881,rottweiler
+7882,samoyed
+7883,giant schnauzer
+7884,shar-pei
+7885,sheltie
+7886,shiba inu
+7887,shih tzu
+7888,shih tzu
+7889,siberian husky
+7890,siberian husky
+7891,spitz
+7892,spitz
+7893,staffordshire bull terrier
+7894,tibetan terrier
+7895,weißer schweizer schäferhund
+7896,west highland white terrier
+7897,whippet
+7898,yorkshire terrier
+7899,yorkshire terrier
+7900,pinscher
+7901,pinscher
+7902,zwergpudel
+7903,giant schnauzer
+7904,zwergspitz
+7905,zwergspitz
+7906,cavalier king charles spaniel
+7907,chihuahua
+7908,dackel
+7909,deutscher schäferhund
+7910,französische bulldogge
+7911,golden retriever
+7912,havaneser
+7913,jack russell terrier
+7914,labrador retriever
+7915,labrador retriever
+7916,malteser
+7917,mops
+7918,papillon
+7919,jack russell terrier
+7920,spitz
+7921,yorkshire terrier
+7922,zwergpudel
+7923,zwergspitz
+7924,akita
+7925,american staffordshire terrier
+7926,american staffordshire terrier
+7927,australian shepherd
+7928,beagle
+7929,berner sennenhund
+7930,bolonka
+7931,border collie
+7932,border collie
+7933,dackel
+7934,bull terrier
+7935,french bulldog
+7936,cane corso
+7937,cao de agua portugues
+7938,cavalier king charles spaniel
+7939,chihuahua
+7940,chihuahua
+7941,chihuahua
+7942,chihuahua
+7943,dackel
+7944,dackel
+7945,deutsche dogge
+7946,deutscher schäferhund
+7947,deutscher schäferhund
+7948,english cocker spaniel
+7949,english cocker spaniel
+7950,flat-coated retriever
+7951,französische bulldogge
+7952,golden retriever
+7953,golden retriever
+7954,großpudel
+7955,havaneser
+7956,havaneser
+7957,italienisches windspiel
+7958,jack russell terrier
+7959,jack russell terrier
+7960,kleinpudel
+7961,dachshund
+7962,labrador retriever
+7963,labrador retriever
+7964,lagotto romagnolo
+7965,magyar vizsla
+7966,magyar vizsla
+7967,malinois
+7968,malteser
+7969,malteser
+7970,mops
+7971,deutscher pinscher
+7972,jack russell terrier
+7973,pekingese
+7974,pekingese
+7975,bull terrier
+7976,toy-pudel
+7977,dachshund
+7978,dachshund
+7979,rhodesian ridgeback
+7980,rottweiler
+7981,samoyed
+7982,giant schnauzer
+7983,shetland sheepdog
+7984,shiba‐inu
+7985,shih tzu
+7986,siberian husky
+7987,siberian husky
+7988,spitz
+7989,spitz
+7990,staffordshire bull terrier
+7991,toy-pudel
+7992,welsh corgi pembroke
+7993,west highland white terrier
+7994,whippet
+7995,yorkshire terrier
+7996,yorkshire terrier
+7997,pinscher
+7998,pinscher
+7999,zwergpudel
+8000,giant schnauzer
+8001,zwergspitz
+8002,akita
+8003,american staffordshire terrier
+8004,american staffordshire terrier
+8005,australian shepherd
+8006,beagle
+8007,beagle
+8008,berner sennenhund
+8009,bichon frisé
+8010,bolonka
+8011,border collie
+8012,border collie
+8013,boston terrier
+8014,french bulldog
+8015,cao de agua portugues
+8016,cavalier king charles spaniel
+8017,chihuahua
+8018,chihuahua
+8019,chihuahua
+8020,dackel
+8021,dackel
+8022,dalmatiner
+8023,deutsche dogge
+8024,deutscher schäferhund
+8025,deutscher schäferhund
+8026,english cocker spaniel
+8027,english cocker spaniel
+8028,flat-coated retriever
+8029,französische bulldogge
+8030,golden retriever
+8031,golden retriever
+8032,großpudel
+8033,havaneser
+8034,havaneser
+8035,irish terrier
+8036,italienisches windspiel
+8037,jack russell terrier
+8038,jack russell terrier
+8039,dachshund
+8040,dachshund
+8041,dachshund
+8042,labradoodle
+8043,labrador retriever
+8044,labrador retriever
+8045,lagotto romagnolo
+8046,magyar vizsla
+8047,malteser
+8048,malteser
+8049,mops
+8050,papillon
+8051,jack russell terrier
+8052,pekingese
+8053,prager rattler
+8054,toy-pudel
+8055,dachshund
+8056,rhodesian ridgeback
+8057,rottweiler
+8058,samoyed
+8059,giant schnauzer
+8060,shetland sheepdog
+8061,shiba‐inu
+8062,shih tzu
+8063,siberian husky
+8064,spitz
+8065,spitz
+8066,staffordshire bull terrier
+8067,toy-pudel
+8068,welsh corgi pembroke
+8069,west highland white terrier
+8070,whippet
+8071,yorkshire terrier
+8072,yorkshire terrier
+8073,pinscher
+8074,pinscher
+8075,zwergpudel
+8076,giant schnauzer
+8077,zwergspitz
+8078,american staffordshire terrier
+8079,australian shepherd
+8080,beagle
+8081,border collie
+8082,cavalier king charles spaniel
+8083,chihuahua
+8084,chihuahua
+8085,dackel
+8086,dackel
+8087,deutscher schäferhund
+8088,französische bulldogge
+8089,golden retriever
+8090,havaneser
+8091,jack russell terrier
+8092,jack russell terrier
+8093,labrador retriever
+8094,labrador retriever
+8095,lagotto romagnolo
+8096,malteser
+8097,mops
+8098,jack russell terrier
+8099,shiba‐inu
+8100,yorkshire terrier
+8101,pinscher
+8102,zwergpudel
+8103,zwergspitz
+8104,american staffordshire terrier
+8105,american staffordshire terrier
+8106,beagle
+8107,border collie
+8108,border collie
+8109,cane corso
+8110,chihuahua
+8111,chihuahua
+8112,chihuahua
+8113,dackel
+8114,dackel
+8115,deutscher schäferhund
+8116,deutscher schäferhund
+8117,english cocker spaniel
+8118,französische bulldogge
+8119,golden retriever
+8120,havaneser
+8121,jack russell terrier
+8122,jack russell terrier
+8123,dachshund
+8124,dachshund
+8125,labrador retriever
+8126,labrador retriever
+8127,lagotto romagnolo
+8128,malteser
+8129,malteser
+8130,mops
+8131,jack russell terrier
+8132,pekingese
+8133,shiba‐inu
+8134,siberian husky
+8135,yorkshire terrier
+8136,pinscher
+8137,zwergpudel
+8138,zwergspitz
+8139,american staffordshire terrier
+8140,beagle
+8141,chihuahua
+8142,chihuahua
+8143,dackel
+8144,deutscher schäferhund
+8145,französische bulldogge
+8146,golden retriever
+8147,havaneser
+8148,jack russell terrier
+8149,labrador retriever
+8150,labrador retriever
+8151,malteser
+8152,mops
+8153,shiba‐inu
+8154,yorkshire terrier
+8155,zwergpudel
+8156,zwergspitz
+8157,beagle
+8158,border collie
+8159,cavalier king charles spaniel
+8160,chihuahua
+8161,dackel
+8162,dackel
+8163,deutscher schäferhund
+8164,französische bulldogge
+8165,golden retriever
+8166,havaneser
+8167,jack russell terrier
+8168,jack russell terrier
+8169,labrador retriever
+8170,labrador retriever
+8171,malteser
+8172,mops
+8173,toy-pudel
+8174,dachshund
+8175,yorkshire terrier
+8176,zwergpudel
+8177,zwergspitz
+8178,american staffordshire terrier
+8179,beagle
+8180,cavalier king charles spaniel
+8181,chihuahua
+8182,dackel
+8183,english cocker spaniel
+8184,französische bulldogge
+8185,golden retriever
+8186,havaneser
+8187,labrador retriever
+8188,labrador retriever
+8189,lagotto romagnolo
+8190,malteser
+8191,mops
+8192,shih tzu
+8193,whippet
+8194,yorkshire terrier
+8195,zwergpudel
+8196,zwergspitz
+8197,american staffordshire terrier
+8198,australian shepherd
+8199,beagle
+8200,deutscher schäferhund
+8201,border collie
+8202,cavalier king charles spaniel
+8203,chihuahua
+8204,chihuahua
+8205,dackel
+8206,dackel
+8207,english cocker spaniel
+8208,französische bulldogge
+8209,golden retriever
+8210,havaneser
+8211,jack russell terrier
+8212,jack russell terrier
+8213,dachshund
+8214,labrador retriever
+8215,labrador retriever
+8216,lagotto romagnolo
+8217,magyar vizsla
+8218,malteser
+8219,mops
+8220,dachshund
+8221,shiba‐inu
+8222,shih tzu
+8223,siberian husky
+8224,spitz
+8225,west highland white terrier
+8226,whippet
+8227,yorkshire terrier
+8228,pinscher
+8229,zwergpudel
+8230,zwergspitz
+8231,akita
+8232,american bully
+8233,american staffordshire terrier
+8234,american staffordshire terrier
+8235,australian shepherd
+8236,beagle
+8237,beagle
+8238,bearded collie
+8239,deutscher schäferhund
+8240,deutscher schäferhund
+8241,berner sennenhund
+8242,bichon frisé
+8243,bolonka
+8244,border collie
+8245,border collie
+8246,boston terrier
+8247,dackel
+8248,bull terrier
+8249,french bulldog
+8250,cane corso
+8251,cao de agua portugues
+8252,cavalier king charles spaniel
+8253,chihuahua
+8254,chihuahua
+8255,chihuahua
+8256,chihuahua
+8257,chihuahua
+8258,chinese crested dog
+8259,chinese crested dog
+8260,chow chow
+8261,collie
+8262,dackel
+8263,dackel
+8264,dalmatiner
+8265,deutsche dogge
+8266,deutsche dogge
+8267,deutscher pinscher
+8268,deutscher pinscher
+8269,deutscher schäferhund
+8270,deutscher schäferhund
+8271,deutscher schäferhund
+8272,deutscher pinscher
+8273,dobermann
+8274,dogo argentino
+8275,english cocker spaniel
+8276,english cocker spaniel
+8277,flat-coated retriever
+8278,französische bulldogge
+8279,französische bulldogge
+8280,golden retriever
+8281,golden retriever
+8282,havaneser
+8283,havaneser
+8284,jack russell terrier
+8285,jack russell terrier
+8286,kooikerhondje
+8287,dachshund
+8288,dachshund
+8289,labradoodle
+8290,labrador retriever
+8291,labrador retriever
+8292,lagotto romagnolo
+8293,magyar vizsla
+8294,malinois
+8295,malteser
+8296,malteser
+8297,spitz
+8298,mops
+8299,mops
+8300,nova scotia duck tolling retriever
+8301,englische bulldogge
+8302,deutscher pinscher
+8303,deutscher pinscher
+8304,papillon
+8305,jack russell terrier
+8306,pekingese
+8307,pekingese
+8308,pinscher
+8309,bull terrier
+8310,toy-pudel
+8311,toy-pudel
+8312,dachshund
+8313,dachshund
+8314,rhodesian ridgeback
+8315,rottweiler
+8316,samoyed
+8317,giant schnauzer
+8318,shar-pei
+8319,shetland sheepdog
+8320,shiba‐inu
+8321,shih tzu
+8322,shih tzu
+8323,siberian husky
+8324,spitz
+8325,spitz
+8326,staffordshire bull terrier
+8327,tibetan terrier
+8328,welsh corgi pembroke
+8329,west highland white terrier
+8330,whippet
+8331,yorkshire terrier
+8332,yorkshire terrier
+8333,pinscher
+8334,pinscher
+8335,zwergpudel
+8336,zwergpudel
+8337,giant schnauzer
+8338,zwergspitz
+8339,zwergspitz
+8340,akita
+8341,american staffordshire terrier
+8342,american staffordshire terrier
+8343,australian shepherd
+8344,beagle
+8345,beagle
+8346,deutscher schäferhund
+8347,deutscher schäferhund
+8348,berger blanc suisse
+8349,berner sennenhund
+8350,bichon frisé
+8351,border collie
+8352,border collie
+8353,bull terrier
+8354,french bulldog
+8355,cane corso
+8356,cavalier king charles spaniel
+8357,chihuahua
+8358,chihuahua
+8359,chihuahua
+8360,chow chow
+8361,collie
+8362,dackel
+8363,dackel
+8364,dalmatiner
+8365,deutsche dogge
+8366,deutscher pinscher
+8367,deutscher pinscher
+8368,deutscher schäferhund
+8369,deutscher schäferhund
+8370,deutscher schäferhund
+8371,dobermann
+8372,english cocker spaniel
+8373,english cocker spaniel
+8374,französische bulldogge
+8375,golden retriever
+8376,golden retriever
+8377,havaneser
+8378,havaneser
+8379,jack russell terrier
+8380,jack russell terrier
+8381,dachshund
+8382,labrador retriever
+8383,labrador retriever
+8384,lagotto romagnolo
+8385,magyar vizsla
+8386,magyar vizsla
+8387,malinois
+8388,malteser
+8389,malteser
+8390,mops
+8391,mops
+8392,englische bulldogge
+8393,papillon
+8394,jack russell terrier
+8395,pekingese
+8396,bull terrier
+8397,toy-pudel
+8398,toy-pudel
+8399,dachshund
+8400,rottweiler
+8401,samoyed
+8402,shar-pei
+8403,shar-pei
+8404,shetland sheepdog
+8405,shiba‐inu
+8406,shih tzu
+8407,siberian husky
+8408,siberian husky
+8409,spitz
+8410,spitz
+8411,staffordshire bull terrier
+8412,welsh corgi pembroke
+8413,west highland white terrier
+8414,yorkshire terrier
+8415,yorkshire terrier
+8416,pinscher
+8417,zwergpudel
+8418,zwergspitz
+8419,zwergspitz
+8420,akita
+8421,american staffordshire terrier
+8422,american staffordshire terrier
+8423,australian shepherd
+8424,beagle
+8425,beagle
+8426,deutscher schäferhund
+8427,bichon frisé
+8428,border collie
+8429,border collie
+8430,french bulldog
+8431,cane corso
+8432,cao de agua portugues
+8433,cavalier king charles spaniel
+8434,chihuahua
+8435,chihuahua
+8436,chihuahua
+8437,chihuahua
+8438,dackel
+8439,dackel
+8440,dalmatiner
+8441,deutscher schäferhund
+8442,deutscher schäferhund
+8443,english cocker spaniel
+8444,english cocker spaniel
+8445,französische bulldogge
+8446,golden retriever
+8447,golden retriever
+8448,großpudel
+8449,havaneser
+8450,havaneser
+8451,jack russell terrier
+8452,jack russell terrier
+8453,kleinpudel
+8454,dachshund
+8455,labrador retriever
+8456,labrador retriever
+8457,labrador retriever
+8458,lagotto romagnolo
+8459,malinois
+8460,malteser
+8461,malteser
+8462,mops
+8463,papillon
+8464,jack russell terrier
+8465,pekingese
+8466,pekingese
+8467,pinscher
+8468,bull terrier
+8469,toy-pudel
+8470,toy-pudel
+8471,dachshund
+8472,rottweiler
+8473,samoyed
+8474,giant schnauzer
+8475,shar-pei
+8476,shiba‐inu
+8477,shih tzu
+8478,siberian husky
+8479,spitz
+8480,spitz
+8481,west highland white terrier
+8482,yorkshire terrier
+8483,yorkshire terrier
+8484,pinscher
+8485,zwergpudel
+8486,zwergspitz
+8487,zwergspitz
+8488,akita
+8489,american staffordshire terrier
+8490,australian shepherd
+8491,beagle
+8492,beagle
+8493,deutscher schäferhund
+8494,berner sennenhund
+8495,bichon frisé
+8496,border collie
+8497,border collie
+8498,cao de agua portugues
+8499,cavalier king charles spaniel
+8500,chihuahua
+8501,chihuahua
+8502,collie
+8503,dackel
+8504,dackel
+8505,dalmatiner
+8506,deutsche dogge
+8507,deutsche dogge
+8508,deutscher schäferhund
+8509,deutscher schäferhund
+8510,english cocker spaniel
+8511,english cocker spaniel
+8512,berner sennenhund
+8513,flat-coated retriever
+8514,französische bulldogge
+8515,golden retriever
+8516,golden retriever
+8517,havaneser
+8518,havaneser
+8519,hovawart
+8520,irish setter
+8521,jack russell terrier
+8522,jack russell terrier
+8523,dachshund
+8524,dachshund
+8525,labradoodle
+8526,labrador retriever
+8527,labrador retriever
+8528,lagotto romagnolo
+8529,magyar vizsla
+8530,malteser
+8531,malteser
+8532,mops
+8533,papillon
+8534,jack russell terrier
+8535,pekingese
+8536,toy-pudel
+8537,dachshund
+8538,giant schnauzer
+8539,shiba‐inu
+8540,shih tzu
+8541,siberian husky
+8542,siberian husky
+8543,west highland white terrier
+8544,whippet
+8545,yorkshire terrier
+8546,yorkshire terrier
+8547,pinscher
+8548,zwergpudel
+8549,giant schnauzer
+8550,zwergspitz
+8551,akita
+8552,american staffordshire terrier
+8553,american staffordshire terrier
+8554,australian shepherd
+8555,australian shepherd
+8556,beagle
+8557,beagle
+8558,deutscher schäferhund
+8559,deutscher schäferhund
+8560,berner sennenhund
+8561,bichon frisé
+8562,bolonka
+8563,border collie
+8564,border collie
+8565,border terrier
+8566,cane corso
+8567,cao de agua portugues
+8568,cavalier king charles spaniel
+8569,chihuahua
+8570,chihuahua
+8571,chihuahua
+8572,chihuahua
+8573,collie
+8574,dackel
+8575,dackel
+8576,dalmatiner
+8577,deutsche dogge
+8578,deutsche dogge
+8579,deutscher schäferhund
+8580,deutscher schäferhund
+8581,english cocker spaniel
+8582,english cocker spaniel
+8583,eurasier
+8584,flat-coated retriever
+8585,foxterrier
+8586,französische bulldogge
+8587,alano espanol
+8588,golden retriever
+8589,golden retriever
+8590,havaneser
+8591,havaneser
+8592,hovawart
+8593,jack russell terrier
+8594,jack russell terrier
+8595,kleinpudel
+8596,großer münsterländer
+8597,kooikerhondje
+8598,labrador retriever
+8599,labrador retriever
+8600,lagotto romagnolo
+8601,magyar vizsla
+8602,malinois
+8603,malteser
+8604,malteser
+8605,mops
+8606,papillon
+8607,jack russell terrier
+8608,pekingese
+8609,perro de agua espanol
+8610,bull terrier
+8611,toy-pudel
+8612,toy-pudel
+8613,puli
+8614,dachshund
+8615,rhodesian ridgeback
+8616,rottweiler
+8617,samoyed
+8618,giant schnauzer
+8619,shetland sheepdog
+8620,shiba‐inu
+8621,shih tzu
+8622,siberian husky
+8623,spitz
+8624,spitz
+8625,staffordshire bull terrier
+8626,weimaraner
+8627,west highland white terrier
+8628,whippet
+8629,yorkshire terrier
+8630,yorkshire terrier
+8631,pinscher
+8632,pinscher
+8633,zwergpudel
+8634,giant schnauzer
+8635,zwergspitz
+8636,american staffordshire terrier
+8637,american staffordshire terrier
+8638,australian shepherd
+8639,beagle
+8640,bichon frisé
+8641,border collie
+8642,cavalier king charles spaniel
+8643,chihuahua
+8644,chihuahua
+8645,dackel
+8646,dackel
+8647,deutscher schäferhund
+8648,deutscher schäferhund
+8649,english cocker spaniel
+8650,französische bulldogge
+8651,golden retriever
+8652,havaneser
+8653,jack russell terrier
+8654,jack russell terrier
+8655,dachshund
+8656,dachshund
+8657,labrador retriever
+8658,labrador retriever
+8659,malteser
+8660,malteser
+8661,mops
+8662,pekingese
+8663,bull terrier
+8664,toy-pudel
+8665,dachshund
+8666,samoyed
+8667,shiba‐inu
+8668,shih tzu
+8669,siberian husky
+8670,spitz
+8671,west highland white terrier
+8672,whippet
+8673,yorkshire terrier
+8674,pinscher
+8675,zwergpudel
+8676,zwergspitz
+8677,amerikanischer cocker spaniel
+8678,american staffordshire terrier
+8679,american staffordshire terrier
+8680,australian shepherd
+8681,beagle
+8682,beagle
+8683,deutscher schäferhund
+8684,bichon frisé
+8685,border collie
+8686,border collie
+8687,boston terrier
+8688,dackel
+8689,cavalier king charles spaniel
+8690,chihuahua
+8691,chihuahua
+8692,chihuahua
+8693,chow chow
+8694,dackel
+8695,dackel
+8696,deutscher schäferhund
+8697,deutscher schäferhund
+8698,english cocker spaniel
+8699,english cocker spaniel
+8700,flat-coated retriever
+8701,französische bulldogge
+8702,golden retriever
+8703,havaneser
+8704,havaneser
+8705,italienisches windspiel
+8706,jack russell terrier
+8707,jack russell terrier
+8708,dachshund
+8709,labrador retriever
+8710,labrador retriever
+8711,lagotto romagnolo
+8712,magyar vizsla
+8713,malinois
+8714,malteser
+8715,malteser
+8716,mops
+8717,pekingese
+8718,pekingese
+8719,bull terrier
+8720,toy-pudel
+8721,dachshund
+8722,rhodesian ridgeback
+8723,shiba‐inu
+8724,shih tzu
+8725,siberian husky
+8726,spitz
+8727,west highland white terrier
+8728,yorkshire terrier
+8729,yorkshire terrier
+8730,pinscher
+8731,zwergpudel
+8732,zwergspitz
+8733,akita
+8734,american staffordshire terrier
+8735,australian shepherd
+8736,beagle
+8737,berger blanc suisse
+8738,border collie
+8739,border collie
+8740,cao de agua portugues
+8741,cavalier king charles spaniel
+8742,chihuahua
+8743,chihuahua
+8744,chihuahua
+8745,dackel
+8746,dackel
+8747,dalmatiner
+8748,deutscher schäferhund
+8749,deutscher schäferhund
+8750,english cocker spaniel
+8751,berner sennenhund
+8752,flat-coated retriever
+8753,französische bulldogge
+8754,golden retriever
+8755,golden retriever
+8756,havaneser
+8757,havaneser
+8758,jack russell terrier
+8759,jack russell terrier
+8760,labrador retriever
+8761,labrador retriever
+8762,lagotto romagnolo
+8763,magyar vizsla
+8764,malteser
+8765,mops
+8766,pekingese
+8767,bull terrier
+8768,shiba‐inu
+8769,shih tzu
+8770,siberian husky
+8771,tibetan terrier
+8772,whippet
+8773,yorkshire terrier
+8774,yorkshire terrier
+8775,pinscher
+8776,pinscher
+8777,zwergpudel
+8778,zwergspitz
+8779,akita
+8780,american staffordshire terrier
+8781,australian shepherd
+8782,beagle
+8783,bichon frisé
+8784,border collie
+8785,border collie
+8786,cao de agua portugues
+8787,cavalier king charles spaniel
+8788,chihuahua
+8789,chihuahua
+8790,dackel
+8791,dackel
+8792,deutscher schäferhund
+8793,deutscher schäferhund
+8794,english cocker spaniel
+8795,english cocker spaniel
+8796,flat-coated retriever
+8797,französische bulldogge
+8798,golden retriever
+8799,golden retriever
+8800,havaneser
+8801,havaneser
+8802,jack russell terrier
+8803,jack russell terrier
+8804,großer münsterländer
+8805,labradoodle
+8806,labrador retriever
+8807,labrador retriever
+8808,lagotto romagnolo
+8809,magyar vizsla
+8810,malteser
+8811,mops
+8812,deutscher pinscher
+8813,jack russell terrier
+8814,toy-pudel
+8815,dachshund
+8816,shetland sheepdog
+8817,siberian husky
+8818,weimaraner
+8819,welsh corgi pembroke
+8820,west highland white terrier
+8821,whippet
+8822,yorkshire terrier
+8823,pinscher
+8824,zwergpudel
+8825,zwergspitz
+8826,airedale terrier
+8827,amerikanischer cocker spaniel
+8828,american staffordshire terrier
+8829,american staffordshire terrier
+8830,australian shepherd
+8831,beagle
+8832,beagle
+8833,bearded collie
+8834,berger blanc suisse
+8835,berner sennenhund
+8836,bichon frisé
+8837,bolonka
+8838,border collie
+8839,border collie
+8840,french bulldog
+8841,cao de agua portugues
+8842,cavalier king charles spaniel
+8843,chihuahua
+8844,chihuahua
+8845,chihuahua
+8846,chinese crested dog
+8847,collie
+8848,dackel
+8849,dackel
+8850,dalmatiner
+8851,deutsche dogge
+8852,deutscher schäferhund
+8853,deutscher schäferhund
+8854,english cocker spaniel
+8855,english cocker spaniel
+8856,english springer spaniel
+8857,flat-coated retriever
+8858,französische bulldogge
+8859,alano espanol
+8860,golden retriever
+8861,golden retriever
+8862,großpudel
+8863,havaneser
+8864,havaneser
+8865,irish setter
+8866,irish terrier
+8867,italienisches windspiel
+8868,jack russell terrier
+8869,jack russell terrier
+8870,dachshund
+8871,dachshund
+8872,dachshund
+8873,labradoodle
+8874,labrador retriever
+8875,labrador retriever
+8876,lagotto romagnolo
+8877,magyar vizsla
+8878,malinois
+8879,malteser
+8880,malteser
+8881,mops
+8882,nova scotia duck tolling retriever
+8883,jack russell terrier
+8884,bull terrier
+8885,toy-pudel
+8886,dachshund
+8887,dachshund
+8888,rhodesian ridgeback
+8889,rottweiler
+8890,samoyed
+8891,shar-pei
+8892,shetland sheepdog
+8893,shiba‐inu
+8894,shih tzu
+8895,siberian husky
+8896,spitz
+8897,toy-pudel
+8898,weimaraner
+8899,west highland white terrier
+8900,whippet
+8901,yorkshire terrier
+8902,yorkshire terrier
+8903,pinscher
+8904,zwergpudel
+8905,giant schnauzer
+8906,zwergspitz
+8907,akita
+8908,american staffordshire terrier
+8909,american staffordshire terrier
+8910,australian shepherd
+8911,beagle
+8912,beagle
+8913,bichon frisé
+8914,border collie
+8915,cavalier king charles spaniel
+8916,chihuahua
+8917,chihuahua
+8918,chihuahua
+8919,collie
+8920,dackel
+8921,dackel
+8922,deutscher schäferhund
+8923,deutscher schäferhund
+8924,english cocker spaniel
+8925,english cocker spaniel
+8926,französische bulldogge
+8927,golden retriever
+8928,havaneser
+8929,havaneser
+8930,jack russell terrier
+8931,jack russell terrier
+8932,labrador retriever
+8933,labrador retriever
+8934,lagotto romagnolo
+8935,magyar vizsla
+8936,malteser
+8937,malteser
+8938,mops
+8939,deutscher pinscher
+8940,pekingese
+8941,pekingese
+8942,bull terrier
+8943,toy-pudel
+8944,dachshund
+8945,rottweiler
+8946,samoyed
+8947,giant schnauzer
+8948,shar-pei
+8949,shiba‐inu
+8950,shih tzu
+8951,siberian husky
+8952,spitz
+8953,spitz
+8954,staffordshire bull terrier
+8955,welsh corgi pembroke
+8956,west highland white terrier
+8957,yorkshire terrier
+8958,yorkshire terrier
+8959,pinscher
+8960,zwergpudel
+8961,zwergspitz
+8962,airedale terrier
+8963,akita
+8964,alaskan malamute
+8965,amerikanischer cocker spaniel
+8966,american staffordshire terrier
+8967,american staffordshire terrier
+8968,australian shepherd
+8969,australian shepherd
+8970,beagle
+8971,beagle
+8972,bearded collie
+8973,deutscher schäferhund
+8974,deutscher schäferhund
+8975,berger blanc suisse
+8976,berner sennenhund
+8977,berner sennenhund
+8978,bichon frisé
+8979,bichon frisé
+8980,bologneser
+8981,bolonka
+8982,border collie
+8983,border collie
+8984,border terrier
+8985,boston terrier
+8986,dackel
+8987,bull terrier
+8988,french bulldog
+8989,cane corso
+8990,cao de agua portugues
+8991,cavalier king charles spaniel
+8992,chihuahua
+8993,chihuahua
+8994,chihuahua
+8995,chihuahua
+8996,chinese crested dog
+8997,chinese crested dog
+8998,chow chow
+8999,collie
+9000,collie
+9001,dackel
+9002,dackel
+9003,dalmatiner
+9004,deutsche dogge
+9005,deutsche dogge
+9006,deutsche dogge
+9007,deutsche dogge
+9008,schottischer terrier
+9009,deutscher pinscher
+9010,deutscher pinscher
+9011,deutscher schäferhund
+9012,deutscher schäferhund
+9013,deutscher schäferhund
+9014,deutscher schäferhund
+9015,deutscher pinscher
+9016,dobermann
+9017,english cocker spaniel
+9018,english cocker spaniel
+9019,english cocker spaniel
+9020,english springer spaniel
+9021,berner sennenhund
+9022,eurasier
+9023,flat-coated retriever
+9024,foxterrier
+9025,französische bulldogge
+9026,golden retriever
+9027,golden retriever
+9028,golden retriever
+9029,greyhound
+9030,großpudel
+9031,havaneser
+9032,havaneser
+9033,havaneser
+9034,hovawart
+9035,irish setter
+9036,irish setter
+9037,irish terrier
+9038,jack russell terrier
+9039,jack russell terrier
+9040,kleinpudel
+9041,kooikerhondje
+9042,dachshund
+9043,dachshund
+9044,dachshund
+9045,dachshund
+9046,labrador retriever
+9047,labrador retriever
+9048,labrador retriever
+9049,lagotto romagnolo
+9050,magyar vizsla
+9051,magyar vizsla
+9052,magyar vizsla
+9053,malinois
+9054,malinois
+9055,malteser
+9056,malteser
+9057,malteser
+9058,bull terrier
+9059,spitz
+9060,mops
+9061,mops
+9062,mudi
+9063,englische bulldogge
+9064,deutscher pinscher
+9065,deutscher pinscher
+9066,papillon
+9067,jack russell terrier
+9068,pekingese
+9069,pekingese
+9070,perro de agua espanol
+9071,pinscher
+9072,pinscher
+9073,bull terrier
+9074,bull terrier
+9075,prager rattler
+9076,toy-pudel
+9077,toy-pudel
+9078,puli
+9079,dachshund
+9080,rhodesian ridgeback
+9081,giant schnauzer
+9082,rottweiler
+9083,russkiy toy
+9084,samoyed
+9085,giant schnauzer
+9086,giant schnauzer
+9087,shar-pei
+9088,shetland sheepdog
+9089,shiba‐inu
+9090,shih tzu
+9091,siberian husky
+9092,siberian husky
+9093,spitz
+9094,spitz
+9095,staffordshire bull terrier
+9096,tervueren
+9097,tibetan terrier
+9098,tibetan terrier
+9099,toy-pudel
+9100,welsh corgi cardigan
+9101,welsh corgi pembroke
+9102,welsh terrier
+9103,west highland white terrier
+9104,whippet
+9105,yorkshire terrier
+9106,yorkshire terrier
+9107,pinscher
+9108,pinscher
+9109,zwergpudel
+9110,giant schnauzer
+9111,zwergspitz
+9112,zwergspitz
+9113,airedale terrier
+9114,akita
+9115,alaskan malamute
+9116,american akita
+9117,american bully
+9118,american staffordshire terrier
+9119,american staffordshire terrier
+9120,american staffordshire terrier
+9121,australian cattle dog
+9122,australian shepherd
+9123,australian shepherd
+9124,basenji
+9125,beagle
+9126,beagle
+9127,bearded collie
+9128,deutscher schäferhund
+9129,deutscher schäferhund
+9130,berger blanc suisse
+9131,border terrier
+9132,berner sennenhund
+9133,bichon frisé
+9134,border terrier
+9135,bologneser
+9136,bolonka
+9137,border collie
+9138,border collie
+9139,border collie
+9140,border collie
+9141,border terrier
+9142,boston terrier
+9143,dackel
+9144,bull terrier
+9145,french bulldog
+9146,cairn terrier
+9147,cane corso
+9148,cao de agua portugues
+9149,cavalier king charles spaniel
+9150,chihuahua
+9151,chihuahua
+9152,chihuahua
+9153,chihuahua
+9154,chinese crested dog
+9155,chinese crested dog
+9156,chow chow
+9157,cockapoo
+9158,collie
+9159,collie
+9160,coton de tuléar
+9161,dackel
+9162,dackel
+9163,dalmatiner
+9164,deutsche dogge
+9165,deutsche dogge
+9166,deutsche dogge
+9167,deutsche dogge
+9168,deutsche dogge
+9169,deutsche dogge
+9170,schottischer terrier
+9171,deutscher pinscher
+9172,deutscher pinscher
+9173,deutscher schäferhund
+9174,deutscher schäferhund
+9175,deutscher schäferhund
+9176,deutscher schäferhund
+9177,deutscher schäferhund
+9178,deutscher schäferhund
+9179,deutscher pinscher
+9180,dobermann
+9181,dog de bordeaux
+9182,elo
+9183,english cocker spaniel
+9184,english cocker spaniel
+9185,english cocker spaniel
+9186,english springer spaniel
+9187,berner sennenhund
+9188,eurasier
+9189,flat-coated retriever
+9190,foxterrier
+9191,foxterrier
+9192,französische bulldogge
+9193,französische bulldogge
+9194,alano espanol
+9195,golden retriever
+9196,golden retriever
+9197,gordon setter
+9198,greyhound
+9199,weißer schweizer schäferhund
+9200,großpudel
+9201,havaneser
+9202,havaneser
+9203,hovawart
+9204,irish setter
+9205,italienisches windspiel
+9206,jack russell terrier
+9207,jack russell terrier
+9208,jack russell terrier
+9209,cavalier king charles spaniel
+9210,kleinpudel
+9211,großer münsterländer
+9212,großer münsterländer
+9213,kooikerhondje
+9214,dachshund
+9215,dachshund
+9216,dachshund
+9217,dachshund
+9218,labradoodle
+9219,labrador retriever
+9220,labrador retriever
+9221,labrador retriever
+9222,labrador retriever
+9223,labrador retriever
+9224,lagotto romagnolo
+9225,dachshund
+9226,magyar vizsla
+9227,magyar vizsla
+9228,magyar vizsla
+9229,malinois
+9230,malinois
+9231,malteser
+9232,malteser
+9233,malteser
+9234,malteser
+9235,mops
+9236,mops
+9237,mudi
+9238,neufundländer
+9239,welsh terrier
+9240,nova scotia duck tolling retriever
+9241,englische bulldogge
+9242,deutscher pinscher
+9243,deutscher pinscher
+9244,papillon
+9245,jack russell terrier
+9246,pekingese
+9247,pekingese
+9248,perro de agua espanol
+9249,pinscher
+9250,pinscher
+9251,bull terrier
+9252,bull terrier
+9253,prager rattler
+9254,toy-pudel
+9255,toy-pudel
+9256,dachshund
+9257,dachshund
+9258,dachshund
+9259,rhodesian ridgeback
+9260,rottweiler
+9261,russkiy toy
+9262,saluki
+9263,samoyed
+9264,giant schnauzer
+9265,giant schnauzer
+9266,scottish terrier
+9267,shar-pei
+9268,shar-pei
+9269,shetland sheepdog
+9270,shetland sheepdog
+9271,shiba‐inu
+9272,shih tzu
+9273,shih tzu
+9274,siberian husky
+9275,siberian husky
+9276,spitz
+9277,spitz
+9278,staffordshire bull terrier
+9279,tervueren
+9280,tibetan terrier
+9281,toy-pudel
+9282,weimaraner
+9283,welsh corgi pembroke
+9284,welsh terrier
+9285,west highland white terrier
+9286,whippet
+9287,yorkshire terrier
+9288,yorkshire terrier
+9289,pinscher
+9290,pinscher
+9291,zwergpudel
+9292,zwergpudel
+9293,zwergpudel
+9294,giant schnauzer
+9295,zwergspitz
+9296,zwergspitz
+9297,airedale terrier
+9298,akita
+9299,american staffordshire terrier
+9300,american staffordshire terrier
+9301,australian shepherd
+9302,bayrischer gebirgsschweisshund
+9303,beagle
+9304,beagle
+9305,deutscher schäferhund
+9306,deutscher schäferhund
+9307,berger blanc suisse
+9308,berner sennenhund
+9309,bichon frisé
+9310,bolonka
+9311,border collie
+9312,border collie
+9313,border terrier
+9314,boston terrier
+9315,dackel
+9316,bull terrier
+9317,french bulldog
+9318,cairn terrier
+9319,cane corso
+9320,cao de agua portugues
+9321,cavalier king charles spaniel
+9322,chihuahua
+9323,chihuahua
+9324,chihuahua
+9325,chihuahua
+9326,chinese crested dog
+9327,chow chow
+9328,collie
+9329,dackel
+9330,dackel
+9331,dalmatiner
+9332,deutsche dogge
+9333,deutsche dogge
+9334,deutscher pinscher
+9335,deutscher pinscher
+9336,deutscher schäferhund
+9337,deutscher schäferhund
+9338,deutscher schäferhund
+9339,dobermann
+9340,elo
+9341,english cocker spaniel
+9342,english cocker spaniel
+9343,berner sennenhund
+9344,eurasier
+9345,flat-coated retriever
+9346,französische bulldogge
+9347,französische bulldogge
+9348,golden retriever
+9349,golden retriever
+9350,großpudel
+9351,havaneser
+9352,havaneser
+9353,hovawart
+9354,irish setter
+9355,jack russell terrier
+9356,jack russell terrier
+9357,kooikerhondje
+9358,dachshund
+9359,dachshund
+9360,labradoodle
+9361,labrador retriever
+9362,labrador retriever
+9363,lagotto romagnolo
+9364,dachshund
+9365,magyar vizsla
+9366,magyar vizsla
+9367,malinois
+9368,malteser
+9369,malteser
+9370,mops
+9371,englische bulldogge
+9372,papillon
+9373,jack russell terrier
+9374,pekingese
+9375,pekingese
+9376,perro de agua espanol
+9377,bull terrier
+9378,prager rattler
+9379,toy-pudel
+9380,puli
+9381,dachshund
+9382,rhodesian ridgeback
+9383,rottweiler
+9384,samoyed
+9385,giant schnauzer
+9386,shar-pei
+9387,shetland sheepdog
+9388,shiba‐inu
+9389,shih tzu
+9390,siberian husky
+9391,siberian husky
+9392,spitz
+9393,spitz
+9394,staffordshire bull terrier
+9395,tibetan terrier
+9396,toy-pudel
+9397,weimaraner
+9398,west highland white terrier
+9399,whippet
+9400,spitz
+9401,yorkshire terrier
+9402,yorkshire terrier
+9403,pinscher
+9404,pinscher
+9405,zwergpudel
+9406,giant schnauzer
+9407,zwergspitz
+9408,zwergspitz
